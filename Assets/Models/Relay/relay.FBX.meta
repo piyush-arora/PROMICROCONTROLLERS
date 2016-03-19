@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 4517a8ff24f7eec438eaf80a0bbbfbd6
+timeCreated: 1456027096
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 2'
+    100004: 111
+    100006: 111 1
+    100008: 111 10
+    100010: 111 11
+    100012: 111 12
+    100014: 111 13
+    100016: 111 14
+    100018: 111 15
+    100020: 111 16
+    100022: 111 17
+    100024: 111 18
+    100026: 111 19
+    100028: 111 2
+    100030: 111 20
+    100032: 111 21
+    100034: 111 22
+    100036: 111 23
+    100038: 111 24
+    100040: 111 25
+    100042: 111 26
+    100044: 111 27
+    100046: 111 28
+    100048: 111 29
+    100050: 111 3
+    100052: 111 30
+    100054: 111 31
+    100056: 111 32
+    100058: 111 33
+    100060: 111 4
+    100062: 111 5
+    100064: 111 6
+    100066: 111 7
+    100068: 111 8
+    100070: 111 9
+    100072: 111-DC_Shell
+    100074: 111-DC_Shell 1
+    100076: 111-DC_Shell 10
+    100078: 111-DC_Shell 11
+    100080: 111-DC_Shell 12
+    100082: 111-DC_Shell 13
+    100084: 111-DC_Shell 14
+    100086: 111-DC_Shell 15
+    100088: 111-DC_Shell 16
+    100090: 111-DC_Shell 17
+    100092: 111-DC_Shell 18
+    100094: 111-DC_Shell 19
+    100096: 111-DC_Shell 2
+    100098: 111-DC_Shell 20
+    100100: 111-DC_Shell 21
+    100102: 111-DC_Shell 22
+    100104: 111-DC_Shell 23
+    100106: 111-DC_Shell 24
+    100108: 111-DC_Shell 25
+    100110: 111-DC_Shell 26
+    100112: 111-DC_Shell 27
+    100114: 111-DC_Shell 28
+    100116: 111-DC_Shell 29
+    100118: 111-DC_Shell 3
+    100120: 111-DC_Shell 30
+    100122: 111-DC_Shell 31
+    100124: 111-DC_Shell 32
+    100126: 111-DC_Shell 33
+    100128: 111-DC_Shell 4
+    100130: 111-DC_Shell 5
+    100132: 111-DC_Shell 6
+    100134: 111-DC_Shell 7
+    100136: 111-DC_Shell 8
+    100138: 111-DC_Shell 9
+    100140: 1111
+    100142: 1111 1
+    100144: 1111-DC_Shell
+    100146: 1111-DC_Shell 1
+    100148: Boss-Extrude10
+    100150: Boss-Extrude10 1
+    100152: Boss-Extrude10 2
+    100154: Boss-Extrude10-DC_Shell
+    100156: Boss-Extrude10-DC_Shell 1
+    100158: Boss-Extrude10-DC_Shell 2
+    100160: brep_25
+    100162: brep_25-DC_Shell
+    100164: brep_35
+    100166: brep_35-DC_Shell
+    100168: brep_54
+    100170: brep_54-DC_Shell
+    100172: brep_rep_0
+    100174: Chamfer4
+    100176: Chamfer4 1
+    100178: Chamfer4-DC_Shell
+    100180: Chamfer4-DC_Shell 1
+    100182: Chamfer5
+    100184: Chamfer5 1
+    100186: Chamfer5-DC_Shell
+    100188: Chamfer5-DC_Shell 1
+    100190: Cut-Extrude3
+    100192: Cut-Extrude3 1
+    100194: Cut-Extrude3 2
+    100196: Cut-Extrude3-DC_Shell
+    100198: Cut-Extrude3-DC_Shell 1
+    100200: Cut-Extrude3-DC_Shell 2
+    100202: Document 1
+    100204: Document 2
+    100206: Fillet3
+    100208: Fillet3 1
+    100210: Fillet3 2
+    100212: Fillet3-DC_Shell
+    100214: Fillet3-DC_Shell 1
+    100216: Fillet3-DC_Shell 2
+    100218: LPattern1[1]
+    100220: LPattern1[1]-DC_Shell
+    100222: LPattern1[2]
+    100224: LPattern1[2]-DC_Shell
+    100226: LPattern1[8]
+    100228: LPattern1[8]-DC_Shell
+    100230: LPattern1[9]
+    100232: LPattern1[9]-DC_Shell
+    100234: //RootNode
+    100236: shell_11
+    100238: shell_11-DC_Shell
+    100240: shell_12
+    100242: shell_12-DC_Shell
+    100244: shell_13
+    100246: shell_13-DC_Shell
+    100248: shell_2
+    100250: shell_2-DC_Shell
+    100252: shell_7
+    100254: shell_7-DC_Shell
+    100256: shell_rep_0
+    400000: ' 1'
+    400002: ' 2'
+    400004: 111
+    400006: 111 1
+    400008: 111 10
+    400010: 111 11
+    400012: 111 12
+    400014: 111 13
+    400016: 111 14
+    400018: 111 15
+    400020: 111 16
+    400022: 111 17
+    400024: 111 18
+    400026: 111 19
+    400028: 111 2
+    400030: 111 20
+    400032: 111 21
+    400034: 111 22
+    400036: 111 23
+    400038: 111 24
+    400040: 111 25
+    400042: 111 26
+    400044: 111 27
+    400046: 111 28
+    400048: 111 29
+    400050: 111 3
+    400052: 111 30
+    400054: 111 31
+    400056: 111 32
+    400058: 111 33
+    400060: 111 4
+    400062: 111 5
+    400064: 111 6
+    400066: 111 7
+    400068: 111 8
+    400070: 111 9
+    400072: 111-DC_Shell
+    400074: 111-DC_Shell 1
+    400076: 111-DC_Shell 10
+    400078: 111-DC_Shell 11
+    400080: 111-DC_Shell 12
+    400082: 111-DC_Shell 13
+    400084: 111-DC_Shell 14
+    400086: 111-DC_Shell 15
+    400088: 111-DC_Shell 16
+    400090: 111-DC_Shell 17
+    400092: 111-DC_Shell 18
+    400094: 111-DC_Shell 19
+    400096: 111-DC_Shell 2
+    400098: 111-DC_Shell 20
+    400100: 111-DC_Shell 21
+    400102: 111-DC_Shell 22
+    400104: 111-DC_Shell 23
+    400106: 111-DC_Shell 24
+    400108: 111-DC_Shell 25
+    400110: 111-DC_Shell 26
+    400112: 111-DC_Shell 27
+    400114: 111-DC_Shell 28
+    400116: 111-DC_Shell 29
+    400118: 111-DC_Shell 3
+    400120: 111-DC_Shell 30
+    400122: 111-DC_Shell 31
+    400124: 111-DC_Shell 32
+    400126: 111-DC_Shell 33
+    400128: 111-DC_Shell 4
+    400130: 111-DC_Shell 5
+    400132: 111-DC_Shell 6
+    400134: 111-DC_Shell 7
+    400136: 111-DC_Shell 8
+    400138: 111-DC_Shell 9
+    400140: 1111
+    400142: 1111 1
+    400144: 1111-DC_Shell
+    400146: 1111-DC_Shell 1
+    400148: Boss-Extrude10
+    400150: Boss-Extrude10 1
+    400152: Boss-Extrude10 2
+    400154: Boss-Extrude10-DC_Shell
+    400156: Boss-Extrude10-DC_Shell 1
+    400158: Boss-Extrude10-DC_Shell 2
+    400160: brep_25
+    400162: brep_25-DC_Shell
+    400164: brep_35
+    400166: brep_35-DC_Shell
+    400168: brep_54
+    400170: brep_54-DC_Shell
+    400172: brep_rep_0
+    400174: Chamfer4
+    400176: Chamfer4 1
+    400178: Chamfer4-DC_Shell
+    400180: Chamfer4-DC_Shell 1
+    400182: Chamfer5
+    400184: Chamfer5 1
+    400186: Chamfer5-DC_Shell
+    400188: Chamfer5-DC_Shell 1
+    400190: Cut-Extrude3
+    400192: Cut-Extrude3 1
+    400194: Cut-Extrude3 2
+    400196: Cut-Extrude3-DC_Shell
+    400198: Cut-Extrude3-DC_Shell 1
+    400200: Cut-Extrude3-DC_Shell 2
+    400202: Document 1
+    400204: Document 2
+    400206: Fillet3
+    400208: Fillet3 1
+    400210: Fillet3 2
+    400212: Fillet3-DC_Shell
+    400214: Fillet3-DC_Shell 1
+    400216: Fillet3-DC_Shell 2
+    400218: LPattern1[1]
+    400220: LPattern1[1]-DC_Shell
+    400222: LPattern1[2]
+    400224: LPattern1[2]-DC_Shell
+    400226: LPattern1[8]
+    400228: LPattern1[8]-DC_Shell
+    400230: LPattern1[9]
+    400232: LPattern1[9]-DC_Shell
+    400234: //RootNode
+    400236: shell_11
+    400238: shell_11-DC_Shell
+    400240: shell_12
+    400242: shell_12-DC_Shell
+    400244: shell_13
+    400246: shell_13-DC_Shell
+    400248: shell_2
+    400250: shell_2-DC_Shell
+    400252: shell_7
+    400254: shell_7-DC_Shell
+    400256: shell_rep_0
+    2300000: 111-DC_Shell
+    2300002: 111-DC_Shell 1
+    2300004: 111-DC_Shell 10
+    2300006: 111-DC_Shell 11
+    2300008: 111-DC_Shell 12
+    2300010: 111-DC_Shell 13
+    2300012: 111-DC_Shell 14
+    2300014: 111-DC_Shell 15
+    2300016: 111-DC_Shell 16
+    2300018: 111-DC_Shell 17
+    2300020: 111-DC_Shell 18
+    2300022: 111-DC_Shell 19
+    2300024: 111-DC_Shell 2
+    2300026: 111-DC_Shell 20
+    2300028: 111-DC_Shell 21
+    2300030: 111-DC_Shell 22
+    2300032: 111-DC_Shell 23
+    2300034: 111-DC_Shell 24
+    2300036: 111-DC_Shell 25
+    2300038: 111-DC_Shell 26
+    2300040: 111-DC_Shell 27
+    2300042: 111-DC_Shell 28
+    2300044: 111-DC_Shell 29
+    2300046: 111-DC_Shell 3
+    2300048: 111-DC_Shell 30
+    2300050: 111-DC_Shell 31
+    2300052: 111-DC_Shell 32
+    2300054: 111-DC_Shell 33
+    2300056: 111-DC_Shell 4
+    2300058: 111-DC_Shell 5
+    2300060: 111-DC_Shell 6
+    2300062: 111-DC_Shell 7
+    2300064: 111-DC_Shell 8
+    2300066: 111-DC_Shell 9
+    2300068: 1111-DC_Shell
+    2300070: 1111-DC_Shell 1
+    2300072: Boss-Extrude10-DC_Shell
+    2300074: Boss-Extrude10-DC_Shell 1
+    2300076: Boss-Extrude10-DC_Shell 2
+    2300078: brep_25-DC_Shell
+    2300080: brep_35-DC_Shell
+    2300082: brep_54-DC_Shell
+    2300084: Chamfer4-DC_Shell
+    2300086: Chamfer4-DC_Shell 1
+    2300088: Chamfer5-DC_Shell
+    2300090: Chamfer5-DC_Shell 1
+    2300092: Cut-Extrude3-DC_Shell
+    2300094: Cut-Extrude3-DC_Shell 1
+    2300096: Cut-Extrude3-DC_Shell 2
+    2300098: Fillet3-DC_Shell
+    2300100: Fillet3-DC_Shell 1
+    2300102: Fillet3-DC_Shell 2
+    2300104: LPattern1[1]-DC_Shell
+    2300106: LPattern1[2]-DC_Shell
+    2300108: LPattern1[8]-DC_Shell
+    2300110: LPattern1[9]-DC_Shell
+    2300112: shell_11-DC_Shell
+    2300114: shell_12-DC_Shell
+    2300116: shell_13-DC_Shell
+    2300118: shell_2-DC_Shell
+    2300120: shell_7-DC_Shell
+    3300000: 111-DC_Shell
+    3300002: 111-DC_Shell 1
+    3300004: 111-DC_Shell 10
+    3300006: 111-DC_Shell 11
+    3300008: 111-DC_Shell 12
+    3300010: 111-DC_Shell 13
+    3300012: 111-DC_Shell 14
+    3300014: 111-DC_Shell 15
+    3300016: 111-DC_Shell 16
+    3300018: 111-DC_Shell 17
+    3300020: 111-DC_Shell 18
+    3300022: 111-DC_Shell 19
+    3300024: 111-DC_Shell 2
+    3300026: 111-DC_Shell 20
+    3300028: 111-DC_Shell 21
+    3300030: 111-DC_Shell 22
+    3300032: 111-DC_Shell 23
+    3300034: 111-DC_Shell 24
+    3300036: 111-DC_Shell 25
+    3300038: 111-DC_Shell 26
+    3300040: 111-DC_Shell 27
+    3300042: 111-DC_Shell 28
+    3300044: 111-DC_Shell 29
+    3300046: 111-DC_Shell 3
+    3300048: 111-DC_Shell 30
+    3300050: 111-DC_Shell 31
+    3300052: 111-DC_Shell 32
+    3300054: 111-DC_Shell 33
+    3300056: 111-DC_Shell 4
+    3300058: 111-DC_Shell 5
+    3300060: 111-DC_Shell 6
+    3300062: 111-DC_Shell 7
+    3300064: 111-DC_Shell 8
+    3300066: 111-DC_Shell 9
+    3300068: 1111-DC_Shell
+    3300070: 1111-DC_Shell 1
+    3300072: Boss-Extrude10-DC_Shell
+    3300074: Boss-Extrude10-DC_Shell 1
+    3300076: Boss-Extrude10-DC_Shell 2
+    3300078: brep_25-DC_Shell
+    3300080: brep_35-DC_Shell
+    3300082: brep_54-DC_Shell
+    3300084: Chamfer4-DC_Shell
+    3300086: Chamfer4-DC_Shell 1
+    3300088: Chamfer5-DC_Shell
+    3300090: Chamfer5-DC_Shell 1
+    3300092: Cut-Extrude3-DC_Shell
+    3300094: Cut-Extrude3-DC_Shell 1
+    3300096: Cut-Extrude3-DC_Shell 2
+    3300098: Fillet3-DC_Shell
+    3300100: Fillet3-DC_Shell 1
+    3300102: Fillet3-DC_Shell 2
+    3300104: LPattern1[1]-DC_Shell
+    3300106: LPattern1[2]-DC_Shell
+    3300108: LPattern1[8]-DC_Shell
+    3300110: LPattern1[9]-DC_Shell
+    3300112: shell_11-DC_Shell
+    3300114: shell_12-DC_Shell
+    3300116: shell_13-DC_Shell
+    3300118: shell_2-DC_Shell
+    3300120: shell_7-DC_Shell
+    4300000: 111-DC_Shell
+    4300002: 111-DC_Shell
+    4300004: 111-DC_Shell
+    4300006: 111-DC_Shell
+    4300008: 111-DC_Shell
+    4300010: 111-DC_Shell
+    4300012: 111-DC_Shell
+    4300014: 111-DC_Shell
+    4300016: 111-DC_Shell
+    4300018: 111-DC_Shell
+    4300020: 111-DC_Shell
+    4300022: 111-DC_Shell
+    4300024: 111-DC_Shell
+    4300026: 111-DC_Shell
+    4300028: 111-DC_Shell
+    4300030: 111-DC_Shell
+    4300032: 111-DC_Shell
+    4300034: 111-DC_Shell
+    4300036: 111-DC_Shell
+    4300038: 111-DC_Shell
+    4300040: 111-DC_Shell
+    4300042: 111-DC_Shell
+    4300044: 111-DC_Shell
+    4300046: 111-DC_Shell
+    4300048: brep_25-DC_Shell
+    4300050: Cut-Extrude3-DC_Shell
+    4300052: Fillet3-DC_Shell
+    4300054: Boss-Extrude10-DC_Shell
+    4300056: Boss-Extrude10-DC_Shell
+    4300058: Fillet3-DC_Shell
+    4300060: Cut-Extrude3-DC_Shell
+    4300062: Boss-Extrude10-DC_Shell
+    4300064: Fillet3-DC_Shell
+    4300066: Cut-Extrude3-DC_Shell
+    4300068: brep_35-DC_Shell
+    4300070: 111-DC_Shell
+    4300072: 111-DC_Shell
+    4300074: 111-DC_Shell
+    4300076: 111-DC_Shell
+    4300078: 111-DC_Shell
+    4300080: 111-DC_Shell
+    4300082: Chamfer4-DC_Shell
+    4300084: LPattern1[8]-DC_Shell
+    4300086: Chamfer4-DC_Shell
+    4300088: LPattern1[9]-DC_Shell
+    4300090: 111-DC_Shell
+    4300092: 111-DC_Shell
+    4300094: 111-DC_Shell
+    4300096: 111-DC_Shell
+    4300098: LPattern1[1]-DC_Shell
+    4300100: LPattern1[2]-DC_Shell
+    4300102: Chamfer5-DC_Shell
+    4300104: Chamfer5-DC_Shell
+    4300106: brep_54-DC_Shell
+    4300108: 1111-DC_Shell
+    4300110: shell_2-DC_Shell
+    4300112: 1111-DC_Shell
+    4300114: shell_7-DC_Shell
+    4300116: shell_11-DC_Shell
+    4300118: shell_12-DC_Shell
+    4300120: shell_13-DC_Shell
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

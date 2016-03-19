@@ -1,0 +1,3889 @@
+fileFormatVersion: 2
+guid: 7fface1f9ac6220408beb5c0c09dcfc6
+timeCreated: 1456233274
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  100'
+    100008: '  101'
+    100010: '  102'
+    100012: '  103'
+    100014: '  104'
+    100016: '  105'
+    100018: '  106'
+    100020: '  107'
+    100022: '  108'
+    100024: '  109'
+    100026: '  11'
+    100028: '  110'
+    100030: '  111'
+    100032: '  112'
+    100034: '  113'
+    100036: '  114'
+    100038: '  115'
+    100040: '  116'
+    100042: '  117'
+    100044: '  118'
+    100046: '  119'
+    100048: '  12'
+    100050: '  120'
+    100052: '  121'
+    100054: '  122'
+    100056: '  123'
+    100058: '  13'
+    100060: '  14'
+    100062: '  15'
+    100064: '  16'
+    100066: '  17'
+    100068: '  18'
+    100070: '  19'
+    100072: '  2'
+    100074: '  20'
+    100076: '  21'
+    100078: '  22'
+    100080: '  23'
+    100082: '  24'
+    100084: '  25'
+    100086: '  26'
+    100088: '  27'
+    100090: '  28'
+    100092: '  29'
+    100094: '  3'
+    100096: '  30'
+    100098: '  31'
+    100100: '  32'
+    100102: '  33'
+    100104: '  34'
+    100106: '  35'
+    100108: '  36'
+    100110: '  37'
+    100112: '  38'
+    100114: '  39'
+    100116: '  4'
+    100118: '  40'
+    100120: '  41'
+    100122: '  42'
+    100124: '  43'
+    100126: '  44'
+    100128: '  45'
+    100130: '  46'
+    100132: '  47'
+    100134: '  48'
+    100136: '  49'
+    100138: '  5'
+    100140: '  50'
+    100142: '  51'
+    100144: '  52'
+    100146: '  53'
+    100148: '  54'
+    100150: '  55'
+    100152: '  56'
+    100154: '  57'
+    100156: '  58'
+    100158: '  59'
+    100160: '  6'
+    100162: '  60'
+    100164: '  61'
+    100166: '  62'
+    100168: '  63'
+    100170: '  64'
+    100172: '  65'
+    100174: '  66'
+    100176: '  67'
+    100178: '  68'
+    100180: '  69'
+    100182: '  7'
+    100184: '  70'
+    100186: '  71'
+    100188: '  72'
+    100190: '  73'
+    100192: '  74'
+    100194: '  75'
+    100196: '  76'
+    100198: '  77'
+    100200: '  78'
+    100202: '  79'
+    100204: '  8'
+    100206: '  80'
+    100208: '  81'
+    100210: '  82'
+    100212: '  83'
+    100214: '  84'
+    100216: '  85'
+    100218: '  86'
+    100220: '  87'
+    100222: '  88'
+    100224: '  89'
+    100226: '  9'
+    100228: '  90'
+    100230: '  91'
+    100232: '  92'
+    100234: '  93'
+    100236: '  94'
+    100238: '  95'
+    100240: '  96'
+    100242: '  97'
+    100244: '  98'
+    100246: '  99'
+    100248: ' 1'
+    100250: ' 10'
+    100252: ' 100'
+    100254: ' 101'
+    100256: ' 102'
+    100258: ' 103'
+    100260: ' 104'
+    100262: ' 105'
+    100264: ' 106'
+    100266: ' 107'
+    100268: ' 108'
+    100270: ' 109'
+    100272: ' 11'
+    100274: ' 110'
+    100276: ' 111'
+    100278: ' 112'
+    100280: ' 113'
+    100282: ' 114'
+    100284: ' 115'
+    100286: ' 116'
+    100288: ' 117'
+    100290: ' 118'
+    100292: ' 119'
+    100294: ' 12'
+    100296: ' 120'
+    100298: ' 121'
+    100300: ' 122'
+    100302: ' 123'
+    100304: ' 124'
+    100306: ' 125'
+    100308: ' 126'
+    100310: ' 127'
+    100312: ' 128'
+    100314: ' 129'
+    100316: ' 13'
+    100318: ' 130'
+    100320: ' 131'
+    100322: ' 132'
+    100324: ' 133'
+    100326: ' 134'
+    100328: ' 135'
+    100330: ' 136'
+    100332: ' 137'
+    100334: ' 138'
+    100336: ' 139'
+    100338: ' 14'
+    100340: ' 140'
+    100342: ' 141'
+    100344: ' 142'
+    100346: ' 143'
+    100348: ' 144'
+    100350: ' 145'
+    100352: ' 146'
+    100354: ' 147'
+    100356: ' 148'
+    100358: ' 149'
+    100360: ' 15'
+    100362: ' 150'
+    100364: ' 151'
+    100366: ' 152'
+    100368: ' 153'
+    100370: ' 154'
+    100372: ' 155'
+    100374: ' 156'
+    100376: ' 157'
+    100378: ' 158'
+    100380: ' 159'
+    100382: ' 16'
+    100384: ' 160'
+    100386: ' 161'
+    100388: ' 162'
+    100390: ' 163'
+    100392: ' 164'
+    100394: ' 165'
+    100396: ' 166'
+    100398: ' 167'
+    100400: ' 168'
+    100402: ' 169'
+    100404: ' 17'
+    100406: ' 170'
+    100408: ' 171'
+    100410: ' 172'
+    100412: ' 173'
+    100414: ' 174'
+    100416: ' 175'
+    100418: ' 176'
+    100420: ' 177'
+    100422: ' 178'
+    100424: ' 179'
+    100426: ' 18'
+    100428: ' 180'
+    100430: ' 181'
+    100432: ' 182'
+    100434: ' 183'
+    100436: ' 184'
+    100438: ' 185'
+    100440: ' 186'
+    100442: ' 187'
+    100444: ' 188'
+    100446: ' 189'
+    100448: ' 19'
+    100450: ' 190'
+    100452: ' 191'
+    100454: ' 192'
+    100456: ' 193'
+    100458: ' 194'
+    100460: ' 195'
+    100462: ' 196'
+    100464: ' 197'
+    100466: ' 198'
+    100468: ' 199'
+    100470: ' 2'
+    100472: ' 20'
+    100474: ' 200'
+    100476: ' 201'
+    100478: ' 202'
+    100480: ' 203'
+    100482: ' 204'
+    100484: ' 205'
+    100486: ' 206'
+    100488: ' 207'
+    100490: ' 208'
+    100492: ' 209'
+    100494: ' 21'
+    100496: ' 210'
+    100498: ' 211'
+    100500: ' 212'
+    100502: ' 213'
+    100504: ' 214'
+    100506: ' 215'
+    100508: ' 216'
+    100510: ' 217'
+    100512: ' 218'
+    100514: ' 219'
+    100516: ' 22'
+    100518: ' 220'
+    100520: ' 221'
+    100522: ' 222'
+    100524: ' 223'
+    100526: ' 224'
+    100528: ' 225'
+    100530: ' 226'
+    100532: ' 227'
+    100534: ' 228'
+    100536: ' 229'
+    100538: ' 23'
+    100540: ' 230'
+    100542: ' 231'
+    100544: ' 232'
+    100546: ' 233'
+    100548: ' 234'
+    100550: ' 235'
+    100552: ' 236'
+    100554: ' 237'
+    100556: ' 238'
+    100558: ' 239'
+    100560: ' 24'
+    100562: ' 240'
+    100564: ' 241'
+    100566: ' 242'
+    100568: ' 243'
+    100570: ' 244'
+    100572: ' 245'
+    100574: ' 246'
+    100576: ' 247'
+    100578: ' 248'
+    100580: ' 249'
+    100582: ' 25'
+    100584: ' 250'
+    100586: ' 251'
+    100588: ' 252'
+    100590: ' 253'
+    100592: ' 254'
+    100594: ' 255'
+    100596: ' 256'
+    100598: ' 257'
+    100600: ' 258'
+    100602: ' 259'
+    100604: ' 26'
+    100606: ' 260'
+    100608: ' 261'
+    100610: ' 262'
+    100612: ' 263'
+    100614: ' 264'
+    100616: ' 265'
+    100618: ' 266'
+    100620: ' 267'
+    100622: ' 268'
+    100624: ' 269'
+    100626: ' 27'
+    100628: ' 270'
+    100630: ' 271'
+    100632: ' 272'
+    100634: ' 273'
+    100636: ' 274'
+    100638: ' 275'
+    100640: ' 276'
+    100642: ' 277'
+    100644: ' 278'
+    100646: ' 279'
+    100648: ' 28'
+    100650: ' 280'
+    100652: ' 281'
+    100654: ' 282'
+    100656: ' 283'
+    100658: ' 284'
+    100660: ' 285'
+    100662: ' 286'
+    100664: ' 287'
+    100666: ' 288'
+    100668: ' 289'
+    100670: ' 29'
+    100672: ' 290'
+    100674: ' 291'
+    100676: ' 292'
+    100678: ' 293'
+    100680: ' 294'
+    100682: ' 295'
+    100684: ' 296'
+    100686: ' 297'
+    100688: ' 298'
+    100690: ' 299'
+    100692: ' 3'
+    100694: ' 30'
+    100696: ' 300'
+    100698: ' 301'
+    100700: ' 302'
+    100702: ' 303'
+    100704: ' 304'
+    100706: ' 305'
+    100708: ' 306'
+    100710: ' 307'
+    100712: ' 308'
+    100714: ' 309'
+    100716: ' 31'
+    100718: ' 310'
+    100720: ' 311'
+    100722: ' 312'
+    100724: ' 313'
+    100726: ' 314'
+    100728: ' 315'
+    100730: ' 316'
+    100732: ' 317'
+    100734: ' 318'
+    100736: ' 319'
+    100738: ' 32'
+    100740: ' 320'
+    100742: ' 321'
+    100744: ' 322'
+    100746: ' 323'
+    100748: ' 324'
+    100750: ' 325'
+    100752: ' 326'
+    100754: ' 327'
+    100756: ' 328'
+    100758: ' 329'
+    100760: ' 33'
+    100762: ' 330'
+    100764: ' 331'
+    100766: ' 332'
+    100768: ' 333'
+    100770: ' 334'
+    100772: ' 335'
+    100774: ' 336'
+    100776: ' 337'
+    100778: ' 338'
+    100780: ' 339'
+    100782: ' 34'
+    100784: ' 35'
+    100786: ' 36'
+    100788: ' 37'
+    100790: ' 38'
+    100792: ' 39'
+    100794: ' 4'
+    100796: ' 40'
+    100798: ' 41'
+    100800: ' 42'
+    100802: ' 43'
+    100804: ' 44'
+    100806: ' 45'
+    100808: ' 46'
+    100810: ' 47'
+    100812: ' 48'
+    100814: ' 49'
+    100816: ' 5'
+    100818: ' 50'
+    100820: ' 51'
+    100822: ' 52'
+    100824: ' 53'
+    100826: ' 54'
+    100828: ' 55'
+    100830: ' 56'
+    100832: ' 57'
+    100834: ' 58'
+    100836: ' 59'
+    100838: ' 6'
+    100840: ' 60'
+    100842: ' 61'
+    100844: ' 62'
+    100846: ' 63'
+    100848: ' 64'
+    100850: ' 65'
+    100852: ' 66'
+    100854: ' 67'
+    100856: ' 68'
+    100858: ' 69'
+    100860: ' 7'
+    100862: ' 70'
+    100864: ' 71'
+    100866: ' 72'
+    100868: ' 73'
+    100870: ' 74'
+    100872: ' 75'
+    100874: ' 76'
+    100876: ' 77'
+    100878: ' 78'
+    100880: ' 79'
+    100882: ' 8'
+    100884: ' 80'
+    100886: ' 81'
+    100888: ' 82'
+    100890: ' 83'
+    100892: ' 84'
+    100894: ' 85'
+    100896: ' 86'
+    100898: ' 87'
+    100900: ' 88'
+    100902: ' 89'
+    100904: ' 9'
+    100906: ' 90'
+    100908: ' 91'
+    100910: ' 92'
+    100912: ' 93'
+    100914: ' 94'
+    100916: ' 95'
+    100918: ' 96'
+    100920: ' 97'
+    100922: ' 98'
+    100924: ' 99'
+    100926: -DC_Shell
+    100928: -DC_Shell 1
+    100930: -DC_Shell 10
+    100932: -DC_Shell 100
+    100934: -DC_Shell 101
+    100936: -DC_Shell 102
+    100938: -DC_Shell 103
+    100940: -DC_Shell 104
+    100942: -DC_Shell 105
+    100944: -DC_Shell 106
+    100946: -DC_Shell 107
+    100948: -DC_Shell 108
+    100950: -DC_Shell 109
+    100952: -DC_Shell 11
+    100954: -DC_Shell 110
+    100956: -DC_Shell 111
+    100958: -DC_Shell 112
+    100960: -DC_Shell 113
+    100962: -DC_Shell 114
+    100964: -DC_Shell 115
+    100966: -DC_Shell 116
+    100968: -DC_Shell 117
+    100970: -DC_Shell 118
+    100972: -DC_Shell 119
+    100974: -DC_Shell 12
+    100976: -DC_Shell 120
+    100978: -DC_Shell 121
+    100980: -DC_Shell 122
+    100982: -DC_Shell 123
+    100984: -DC_Shell 124
+    100986: -DC_Shell 125
+    100988: -DC_Shell 126
+    100990: -DC_Shell 127
+    100992: -DC_Shell 128
+    100994: -DC_Shell 129
+    100996: -DC_Shell 13
+    100998: -DC_Shell 130
+    101000: -DC_Shell 131
+    101002: -DC_Shell 132
+    101004: -DC_Shell 133
+    101006: -DC_Shell 134
+    101008: -DC_Shell 135
+    101010: -DC_Shell 136
+    101012: -DC_Shell 137
+    101014: -DC_Shell 138
+    101016: -DC_Shell 139
+    101018: -DC_Shell 14
+    101020: -DC_Shell 140
+    101022: -DC_Shell 141
+    101024: -DC_Shell 142
+    101026: -DC_Shell 143
+    101028: -DC_Shell 144
+    101030: -DC_Shell 145
+    101032: -DC_Shell 146
+    101034: -DC_Shell 147
+    101036: -DC_Shell 148
+    101038: -DC_Shell 149
+    101040: -DC_Shell 15
+    101042: -DC_Shell 150
+    101044: -DC_Shell 151
+    101046: -DC_Shell 152
+    101048: -DC_Shell 153
+    101050: -DC_Shell 154
+    101052: -DC_Shell 155
+    101054: -DC_Shell 156
+    101056: -DC_Shell 157
+    101058: -DC_Shell 158
+    101060: -DC_Shell 159
+    101062: -DC_Shell 16
+    101064: -DC_Shell 160
+    101066: -DC_Shell 161
+    101068: -DC_Shell 162
+    101070: -DC_Shell 163
+    101072: -DC_Shell 164
+    101074: -DC_Shell 165
+    101076: -DC_Shell 166
+    101078: -DC_Shell 167
+    101080: -DC_Shell 168
+    101082: -DC_Shell 169
+    101084: -DC_Shell 17
+    101086: -DC_Shell 170
+    101088: -DC_Shell 171
+    101090: -DC_Shell 172
+    101092: -DC_Shell 173
+    101094: -DC_Shell 174
+    101096: -DC_Shell 175
+    101098: -DC_Shell 176
+    101100: -DC_Shell 177
+    101102: -DC_Shell 178
+    101104: -DC_Shell 179
+    101106: -DC_Shell 18
+    101108: -DC_Shell 180
+    101110: -DC_Shell 181
+    101112: -DC_Shell 182
+    101114: -DC_Shell 183
+    101116: -DC_Shell 184
+    101118: -DC_Shell 185
+    101120: -DC_Shell 186
+    101122: -DC_Shell 187
+    101124: -DC_Shell 188
+    101126: -DC_Shell 189
+    101128: -DC_Shell 19
+    101130: -DC_Shell 190
+    101132: -DC_Shell 191
+    101134: -DC_Shell 192
+    101136: -DC_Shell 193
+    101138: -DC_Shell 194
+    101140: -DC_Shell 195
+    101142: -DC_Shell 196
+    101144: -DC_Shell 197
+    101146: -DC_Shell 198
+    101148: -DC_Shell 199
+    101150: -DC_Shell 2
+    101152: -DC_Shell 20
+    101154: -DC_Shell 200
+    101156: -DC_Shell 201
+    101158: -DC_Shell 202
+    101160: -DC_Shell 203
+    101162: -DC_Shell 204
+    101164: -DC_Shell 205
+    101166: -DC_Shell 206
+    101168: -DC_Shell 207
+    101170: -DC_Shell 208
+    101172: -DC_Shell 209
+    101174: -DC_Shell 21
+    101176: -DC_Shell 210
+    101178: -DC_Shell 211
+    101180: -DC_Shell 212
+    101182: -DC_Shell 213
+    101184: -DC_Shell 214
+    101186: -DC_Shell 215
+    101188: -DC_Shell 216
+    101190: -DC_Shell 217
+    101192: -DC_Shell 218
+    101194: -DC_Shell 219
+    101196: -DC_Shell 22
+    101198: -DC_Shell 220
+    101200: -DC_Shell 221
+    101202: -DC_Shell 222
+    101204: -DC_Shell 223
+    101206: -DC_Shell 224
+    101208: -DC_Shell 225
+    101210: -DC_Shell 226
+    101212: -DC_Shell 227
+    101214: -DC_Shell 228
+    101216: -DC_Shell 229
+    101218: -DC_Shell 23
+    101220: -DC_Shell 230
+    101222: -DC_Shell 231
+    101224: -DC_Shell 232
+    101226: -DC_Shell 233
+    101228: -DC_Shell 234
+    101230: -DC_Shell 235
+    101232: -DC_Shell 236
+    101234: -DC_Shell 237
+    101236: -DC_Shell 238
+    101238: -DC_Shell 239
+    101240: -DC_Shell 24
+    101242: -DC_Shell 240
+    101244: -DC_Shell 241
+    101246: -DC_Shell 242
+    101248: -DC_Shell 243
+    101250: -DC_Shell 244
+    101252: -DC_Shell 245
+    101254: -DC_Shell 246
+    101256: -DC_Shell 247
+    101258: -DC_Shell 248
+    101260: -DC_Shell 249
+    101262: -DC_Shell 25
+    101264: -DC_Shell 250
+    101266: -DC_Shell 251
+    101268: -DC_Shell 252
+    101270: -DC_Shell 253
+    101272: -DC_Shell 254
+    101274: -DC_Shell 255
+    101276: -DC_Shell 256
+    101278: -DC_Shell 257
+    101280: -DC_Shell 258
+    101282: -DC_Shell 259
+    101284: -DC_Shell 26
+    101286: -DC_Shell 260
+    101288: -DC_Shell 261
+    101290: -DC_Shell 262
+    101292: -DC_Shell 263
+    101294: -DC_Shell 264
+    101296: -DC_Shell 265
+    101298: -DC_Shell 266
+    101300: -DC_Shell 267
+    101302: -DC_Shell 268
+    101304: -DC_Shell 269
+    101306: -DC_Shell 27
+    101308: -DC_Shell 270
+    101310: -DC_Shell 271
+    101312: -DC_Shell 272
+    101314: -DC_Shell 273
+    101316: -DC_Shell 274
+    101318: -DC_Shell 275
+    101320: -DC_Shell 276
+    101322: -DC_Shell 277
+    101324: -DC_Shell 278
+    101326: -DC_Shell 279
+    101328: -DC_Shell 28
+    101330: -DC_Shell 280
+    101332: -DC_Shell 281
+    101334: -DC_Shell 282
+    101336: -DC_Shell 283
+    101338: -DC_Shell 284
+    101340: -DC_Shell 285
+    101342: -DC_Shell 286
+    101344: -DC_Shell 287
+    101346: -DC_Shell 288
+    101348: -DC_Shell 289
+    101350: -DC_Shell 29
+    101352: -DC_Shell 290
+    101354: -DC_Shell 291
+    101356: -DC_Shell 292
+    101358: -DC_Shell 293
+    101360: -DC_Shell 294
+    101362: -DC_Shell 295
+    101364: -DC_Shell 296
+    101366: -DC_Shell 297
+    101368: -DC_Shell 298
+    101370: -DC_Shell 299
+    101372: -DC_Shell 3
+    101374: -DC_Shell 30
+    101376: -DC_Shell 300
+    101378: -DC_Shell 301
+    101380: -DC_Shell 302
+    101382: -DC_Shell 303
+    101384: -DC_Shell 304
+    101386: -DC_Shell 305
+    101388: -DC_Shell 306
+    101390: -DC_Shell 307
+    101392: -DC_Shell 308
+    101394: -DC_Shell 309
+    101396: -DC_Shell 31
+    101398: -DC_Shell 310
+    101400: -DC_Shell 311
+    101402: -DC_Shell 312
+    101404: -DC_Shell 313
+    101406: -DC_Shell 314
+    101408: -DC_Shell 315
+    101410: -DC_Shell 316
+    101412: -DC_Shell 317
+    101414: -DC_Shell 318
+    101416: -DC_Shell 319
+    101418: -DC_Shell 32
+    101420: -DC_Shell 320
+    101422: -DC_Shell 321
+    101424: -DC_Shell 322
+    101426: -DC_Shell 323
+    101428: -DC_Shell 324
+    101430: -DC_Shell 325
+    101432: -DC_Shell 326
+    101434: -DC_Shell 327
+    101436: -DC_Shell 328
+    101438: -DC_Shell 329
+    101440: -DC_Shell 33
+    101442: -DC_Shell 330
+    101444: -DC_Shell 331
+    101446: -DC_Shell 332
+    101448: -DC_Shell 333
+    101450: -DC_Shell 334
+    101452: -DC_Shell 335
+    101454: -DC_Shell 336
+    101456: -DC_Shell 337
+    101458: -DC_Shell 338
+    101460: -DC_Shell 34
+    101462: -DC_Shell 35
+    101464: -DC_Shell 36
+    101466: -DC_Shell 37
+    101468: -DC_Shell 38
+    101470: -DC_Shell 39
+    101472: -DC_Shell 4
+    101474: -DC_Shell 40
+    101476: -DC_Shell 41
+    101478: -DC_Shell 42
+    101480: -DC_Shell 43
+    101482: -DC_Shell 44
+    101484: -DC_Shell 45
+    101486: -DC_Shell 46
+    101488: -DC_Shell 47
+    101490: -DC_Shell 48
+    101492: -DC_Shell 49
+    101494: -DC_Shell 5
+    101496: -DC_Shell 50
+    101498: -DC_Shell 51
+    101500: -DC_Shell 52
+    101502: -DC_Shell 53
+    101504: -DC_Shell 54
+    101506: -DC_Shell 55
+    101508: -DC_Shell 56
+    101510: -DC_Shell 57
+    101512: -DC_Shell 58
+    101514: -DC_Shell 59
+    101516: -DC_Shell 6
+    101518: -DC_Shell 60
+    101520: -DC_Shell 61
+    101522: -DC_Shell 62
+    101524: -DC_Shell 63
+    101526: -DC_Shell 64
+    101528: -DC_Shell 65
+    101530: -DC_Shell 66
+    101532: -DC_Shell 67
+    101534: -DC_Shell 68
+    101536: -DC_Shell 69
+    101538: -DC_Shell 7
+    101540: -DC_Shell 70
+    101542: -DC_Shell 71
+    101544: -DC_Shell 72
+    101546: -DC_Shell 73
+    101548: -DC_Shell 74
+    101550: -DC_Shell 75
+    101552: -DC_Shell 76
+    101554: -DC_Shell 77
+    101556: -DC_Shell 78
+    101558: -DC_Shell 79
+    101560: -DC_Shell 8
+    101562: -DC_Shell 80
+    101564: -DC_Shell 81
+    101566: -DC_Shell 82
+    101568: -DC_Shell 83
+    101570: -DC_Shell 84
+    101572: -DC_Shell 85
+    101574: -DC_Shell 86
+    101576: -DC_Shell 87
+    101578: -DC_Shell 88
+    101580: -DC_Shell 89
+    101582: -DC_Shell 9
+    101584: -DC_Shell 90
+    101586: -DC_Shell 91
+    101588: -DC_Shell 92
+    101590: -DC_Shell 93
+    101592: -DC_Shell 94
+    101594: -DC_Shell 95
+    101596: -DC_Shell 96
+    101598: -DC_Shell 97
+    101600: -DC_Shell 98
+    101602: -DC_Shell 99
+    101604: 330 Ohm Resistor
+    101606: 330 Ohm Resistor 1
+    101608: 330 Ohm Resistor 10
+    101610: 330 Ohm Resistor 11
+    101612: 330 Ohm Resistor 12
+    101614: 330 Ohm Resistor 13
+    101616: 330 Ohm Resistor 14
+    101618: 330 Ohm Resistor 15
+    101620: 330 Ohm Resistor 16
+    101622: 330 Ohm Resistor 17
+    101624: 330 Ohm Resistor 18
+    101626: 330 Ohm Resistor 19
+    101628: 330 Ohm Resistor 2
+    101630: 330 Ohm Resistor 20
+    101632: 330 Ohm Resistor 21
+    101634: 330 Ohm Resistor 22
+    101636: 330 Ohm Resistor 23
+    101638: 330 Ohm Resistor 24
+    101640: 330 Ohm Resistor 25
+    101642: 330 Ohm Resistor 26
+    101644: 330 Ohm Resistor 27
+    101646: 330 Ohm Resistor 28
+    101648: 330 Ohm Resistor 29
+    101650: 330 Ohm Resistor 3
+    101652: 330 Ohm Resistor 30
+    101654: 330 Ohm Resistor 31
+    101656: 330 Ohm Resistor 4
+    101658: 330 Ohm Resistor 5
+    101660: 330 Ohm Resistor 6
+    101662: 330 Ohm Resistor 7
+    101664: 330 Ohm Resistor 8
+    101666: 330 Ohm Resistor 9
+    101668: 330 Ohm Resistor-MODEL
+    101670: 330 Ohm Resistor-MODEL 1
+    101672: 330 Ohm Resistor-MODEL 10
+    101674: 330 Ohm Resistor-MODEL 11
+    101676: 330 Ohm Resistor-MODEL 12
+    101678: 330 Ohm Resistor-MODEL 13
+    101680: 330 Ohm Resistor-MODEL 14
+    101682: 330 Ohm Resistor-MODEL 15
+    101684: 330 Ohm Resistor-MODEL 16
+    101686: 330 Ohm Resistor-MODEL 17
+    101688: 330 Ohm Resistor-MODEL 18
+    101690: 330 Ohm Resistor-MODEL 19
+    101692: 330 Ohm Resistor-MODEL 2
+    101694: 330 Ohm Resistor-MODEL 20
+    101696: 330 Ohm Resistor-MODEL 21
+    101698: 330 Ohm Resistor-MODEL 22
+    101700: 330 Ohm Resistor-MODEL 23
+    101702: 330 Ohm Resistor-MODEL 24
+    101704: 330 Ohm Resistor-MODEL 25
+    101706: 330 Ohm Resistor-MODEL 26
+    101708: 330 Ohm Resistor-MODEL 27
+    101710: 330 Ohm Resistor-MODEL 28
+    101712: 330 Ohm Resistor-MODEL 29
+    101714: 330 Ohm Resistor-MODEL 3
+    101716: 330 Ohm Resistor-MODEL 30
+    101718: 330 Ohm Resistor-MODEL 31
+    101720: 330 Ohm Resistor-MODEL 4
+    101722: 330 Ohm Resistor-MODEL 5
+    101724: 330 Ohm Resistor-MODEL 6
+    101726: 330 Ohm Resistor-MODEL 7
+    101728: 330 Ohm Resistor-MODEL 8
+    101730: 330 Ohm Resistor-MODEL 9
+    101732: 3mm LED
+    101734: 3mm LED 1
+    101736: 3mm LED 10
+    101738: 3mm LED 11
+    101740: 3mm LED 12
+    101742: 3mm LED 13
+    101744: 3mm LED 14
+    101746: 3mm LED 15
+    101748: 3mm LED 16
+    101750: 3mm LED 17
+    101752: 3mm LED 18
+    101754: 3mm LED 19
+    101756: 3mm LED 2
+    101758: 3mm LED 20
+    101760: 3mm LED 21
+    101762: 3mm LED 22
+    101764: 3mm LED 23
+    101766: 3mm LED 24
+    101768: 3mm LED 25
+    101770: 3mm LED 26
+    101772: 3mm LED 27
+    101774: 3mm LED 28
+    101776: 3mm LED 29
+    101778: 3mm LED 3
+    101780: 3mm LED 30
+    101782: 3mm LED 31
+    101784: 3mm LED 32
+    101786: 3mm LED 33
+    101788: 3mm LED 34
+    101790: 3mm LED 35
+    101792: 3mm LED 36
+    101794: 3mm LED 37
+    101796: 3mm LED 38
+    101798: 3mm LED 39
+    101800: 3mm LED 4
+    101802: 3mm LED 40
+    101804: 3mm LED 41
+    101806: 3mm LED 42
+    101808: 3mm LED 43
+    101810: 3mm LED 44
+    101812: 3mm LED 45
+    101814: 3mm LED 46
+    101816: 3mm LED 47
+    101818: 3mm LED 48
+    101820: 3mm LED 49
+    101822: 3mm LED 5
+    101824: 3mm LED 50
+    101826: 3mm LED 51
+    101828: 3mm LED 52
+    101830: 3mm LED 53
+    101832: 3mm LED 54
+    101834: 3mm LED 55
+    101836: 3mm LED 56
+    101838: 3mm LED 57
+    101840: 3mm LED 58
+    101842: 3mm LED 59
+    101844: 3mm LED 6
+    101846: 3mm LED 60
+    101848: 3mm LED 61
+    101850: 3mm LED 62
+    101852: 3mm LED 63
+    101854: 3mm LED 64
+    101856: 3mm LED 65
+    101858: 3mm LED 66
+    101860: 3mm LED 67
+    101862: 3mm LED 68
+    101864: 3mm LED 69
+    101866: 3mm LED 7
+    101868: 3mm LED 70
+    101870: 3mm LED 71
+    101872: 3mm LED 8
+    101874: 3mm LED 9
+    101876: 3mm LED Bottom
+    101878: 3mm LED Bottom 1
+    101880: 3mm LED Bottom 10
+    101882: 3mm LED Bottom 11
+    101884: 3mm LED Bottom 12
+    101886: 3mm LED Bottom 13
+    101888: 3mm LED Bottom 14
+    101890: 3mm LED Bottom 15
+    101892: 3mm LED Bottom 16
+    101894: 3mm LED Bottom 17
+    101896: 3mm LED Bottom 18
+    101898: 3mm LED Bottom 19
+    101900: 3mm LED Bottom 2
+    101902: 3mm LED Bottom 20
+    101904: 3mm LED Bottom 21
+    101906: 3mm LED Bottom 22
+    101908: 3mm LED Bottom 23
+    101910: 3mm LED Bottom 3
+    101912: 3mm LED Bottom 4
+    101914: 3mm LED Bottom 5
+    101916: 3mm LED Bottom 6
+    101918: 3mm LED Bottom 7
+    101920: 3mm LED Bottom 8
+    101922: 3mm LED Bottom 9
+    101924: 3mm LED Bottom-MODEL
+    101926: 3mm LED Bottom-MODEL 1
+    101928: 3mm LED Bottom-MODEL 10
+    101930: 3mm LED Bottom-MODEL 11
+    101932: 3mm LED Bottom-MODEL 12
+    101934: 3mm LED Bottom-MODEL 13
+    101936: 3mm LED Bottom-MODEL 14
+    101938: 3mm LED Bottom-MODEL 15
+    101940: 3mm LED Bottom-MODEL 16
+    101942: 3mm LED Bottom-MODEL 17
+    101944: 3mm LED Bottom-MODEL 18
+    101946: 3mm LED Bottom-MODEL 19
+    101948: 3mm LED Bottom-MODEL 2
+    101950: 3mm LED Bottom-MODEL 20
+    101952: 3mm LED Bottom-MODEL 21
+    101954: 3mm LED Bottom-MODEL 22
+    101956: 3mm LED Bottom-MODEL 23
+    101958: 3mm LED Bottom-MODEL 3
+    101960: 3mm LED Bottom-MODEL 4
+    101962: 3mm LED Bottom-MODEL 5
+    101964: 3mm LED Bottom-MODEL 6
+    101966: 3mm LED Bottom-MODEL 7
+    101968: 3mm LED Bottom-MODEL 8
+    101970: 3mm LED Bottom-MODEL 9
+    101972: 3mm LED End side
+    101974: 3mm LED End side 1
+    101976: 3mm LED End side 10
+    101978: 3mm LED End side 11
+    101980: 3mm LED End side 12
+    101982: 3mm LED End side 13
+    101984: 3mm LED End side 14
+    101986: 3mm LED End side 15
+    101988: 3mm LED End side 16
+    101990: 3mm LED End side 17
+    101992: 3mm LED End side 18
+    101994: 3mm LED End side 19
+    101996: 3mm LED End side 2
+    101998: 3mm LED End side 20
+    102000: 3mm LED End side 21
+    102002: 3mm LED End side 22
+    102004: 3mm LED End side 23
+    102006: 3mm LED End side 3
+    102008: 3mm LED End side 4
+    102010: 3mm LED End side 5
+    102012: 3mm LED End side 6
+    102014: 3mm LED End side 7
+    102016: 3mm LED End side 8
+    102018: 3mm LED End side 9
+    102020: 3mm LED End side Bottom
+    102022: 3mm LED End side Bottom 1
+    102024: 3mm LED End side Bottom 2
+    102026: 3mm LED End side Bottom 3
+    102028: 3mm LED End side Bottom 4
+    102030: 3mm LED End side Bottom 5
+    102032: 3mm LED End side Bottom 6
+    102034: 3mm LED End side Bottom 7
+    102036: 3mm LED End side Bottom-MODEL
+    102038: 3mm LED End side Bottom-MODEL 1
+    102040: 3mm LED End side Bottom-MODEL 2
+    102042: 3mm LED End side Bottom-MODEL 3
+    102044: 3mm LED End side Bottom-MODEL 4
+    102046: 3mm LED End side Bottom-MODEL 5
+    102048: 3mm LED End side Bottom-MODEL 6
+    102050: 3mm LED End side Bottom-MODEL 7
+    102052: 3mm LED End side-MODEL
+    102054: 3mm LED End side-MODEL 1
+    102056: 3mm LED End side-MODEL 10
+    102058: 3mm LED End side-MODEL 11
+    102060: 3mm LED End side-MODEL 12
+    102062: 3mm LED End side-MODEL 13
+    102064: 3mm LED End side-MODEL 14
+    102066: 3mm LED End side-MODEL 15
+    102068: 3mm LED End side-MODEL 16
+    102070: 3mm LED End side-MODEL 17
+    102072: 3mm LED End side-MODEL 18
+    102074: 3mm LED End side-MODEL 19
+    102076: 3mm LED End side-MODEL 2
+    102078: 3mm LED End side-MODEL 20
+    102080: 3mm LED End side-MODEL 21
+    102082: 3mm LED End side-MODEL 22
+    102084: 3mm LED End side-MODEL 23
+    102086: 3mm LED End side-MODEL 3
+    102088: 3mm LED End side-MODEL 4
+    102090: 3mm LED End side-MODEL 5
+    102092: 3mm LED End side-MODEL 6
+    102094: 3mm LED End side-MODEL 7
+    102096: 3mm LED End side-MODEL 8
+    102098: 3mm LED End side-MODEL 9
+    102100: 3mm LED-MODEL
+    102102: 3mm LED-MODEL 1
+    102104: 3mm LED-MODEL 10
+    102106: 3mm LED-MODEL 11
+    102108: 3mm LED-MODEL 12
+    102110: 3mm LED-MODEL 13
+    102112: 3mm LED-MODEL 14
+    102114: 3mm LED-MODEL 15
+    102116: 3mm LED-MODEL 16
+    102118: 3mm LED-MODEL 17
+    102120: 3mm LED-MODEL 18
+    102122: 3mm LED-MODEL 19
+    102124: 3mm LED-MODEL 2
+    102126: 3mm LED-MODEL 20
+    102128: 3mm LED-MODEL 21
+    102130: 3mm LED-MODEL 22
+    102132: 3mm LED-MODEL 23
+    102134: 3mm LED-MODEL 24
+    102136: 3mm LED-MODEL 25
+    102138: 3mm LED-MODEL 26
+    102140: 3mm LED-MODEL 27
+    102142: 3mm LED-MODEL 28
+    102144: 3mm LED-MODEL 29
+    102146: 3mm LED-MODEL 3
+    102148: 3mm LED-MODEL 30
+    102150: 3mm LED-MODEL 31
+    102152: 3mm LED-MODEL 32
+    102154: 3mm LED-MODEL 33
+    102156: 3mm LED-MODEL 34
+    102158: 3mm LED-MODEL 35
+    102160: 3mm LED-MODEL 36
+    102162: 3mm LED-MODEL 37
+    102164: 3mm LED-MODEL 38
+    102166: 3mm LED-MODEL 39
+    102168: 3mm LED-MODEL 4
+    102170: 3mm LED-MODEL 40
+    102172: 3mm LED-MODEL 41
+    102174: 3mm LED-MODEL 42
+    102176: 3mm LED-MODEL 43
+    102178: 3mm LED-MODEL 44
+    102180: 3mm LED-MODEL 45
+    102182: 3mm LED-MODEL 46
+    102184: 3mm LED-MODEL 47
+    102186: 3mm LED-MODEL 48
+    102188: 3mm LED-MODEL 49
+    102190: 3mm LED-MODEL 5
+    102192: 3mm LED-MODEL 50
+    102194: 3mm LED-MODEL 51
+    102196: 3mm LED-MODEL 52
+    102198: 3mm LED-MODEL 53
+    102200: 3mm LED-MODEL 54
+    102202: 3mm LED-MODEL 55
+    102204: 3mm LED-MODEL 56
+    102206: 3mm LED-MODEL 57
+    102208: 3mm LED-MODEL 58
+    102210: 3mm LED-MODEL 59
+    102212: 3mm LED-MODEL 6
+    102214: 3mm LED-MODEL 60
+    102216: 3mm LED-MODEL 61
+    102218: 3mm LED-MODEL 62
+    102220: 3mm LED-MODEL 63
+    102222: 3mm LED-MODEL 64
+    102224: 3mm LED-MODEL 65
+    102226: 3mm LED-MODEL 66
+    102228: 3mm LED-MODEL 67
+    102230: 3mm LED-MODEL 68
+    102232: 3mm LED-MODEL 69
+    102234: 3mm LED-MODEL 7
+    102236: 3mm LED-MODEL 70
+    102238: 3mm LED-MODEL 71
+    102240: 3mm LED-MODEL 8
+    102242: 3mm LED-MODEL 9
+    102244: Arduino Uno Board
+    102246: Arduino Uno Board 1
+    102248: Arduino Uno Board-MODEL
+    102250: Arduino Uno Board-MODEL 1
+    102252: Case
+    102254: Case 1
+    102256: Case Cover
+    102258: Case Cover 1
+    102260: Case Cover-MODEL
+    102262: Case Cover-MODEL 1
+    102264: Case-MODEL
+    102266: Case-MODEL 1
+    102268: Jewlers Wire
+    102270: Jewlers Wire 1
+    102272: Jewlers Wire 10
+    102274: Jewlers Wire 11
+    102276: Jewlers Wire 12
+    102278: Jewlers Wire 13
+    102280: Jewlers Wire 14
+    102282: Jewlers Wire 15
+    102284: Jewlers Wire 2
+    102286: Jewlers Wire 3
+    102288: Jewlers Wire 4
+    102290: Jewlers Wire 5
+    102292: Jewlers Wire 6
+    102294: Jewlers Wire 7
+    102296: Jewlers Wire 8
+    102298: Jewlers Wire 9
+    102300: Jewlers Wire Cathode 1
+    102302: Jewlers Wire Cathode 1 1
+    102304: Jewlers Wire Cathode 1-MODEL
+    102306: Jewlers Wire Cathode 1-MODEL 1
+    102308: Jewlers Wire Cathode 2
+    102310: Jewlers Wire Cathode 2 1
+    102312: Jewlers Wire Cathode 2-MODEL
+    102314: Jewlers Wire Cathode 2-MODEL 1
+    102316: Jewlers Wire Cathode 3
+    102318: Jewlers Wire Cathode 3 1
+    102320: Jewlers Wire Cathode 3-MODEL
+    102322: Jewlers Wire Cathode 3-MODEL 1
+    102324: Jewlers Wire Cathode 4
+    102326: Jewlers Wire Cathode 4 1
+    102328: Jewlers Wire Cathode 4-MODEL
+    102330: Jewlers Wire Cathode 4-MODEL 1
+    102332: Jewlers Wire-MODEL
+    102334: Jewlers Wire-MODEL 1
+    102336: Jewlers Wire-MODEL 10
+    102338: Jewlers Wire-MODEL 11
+    102340: Jewlers Wire-MODEL 12
+    102342: Jewlers Wire-MODEL 13
+    102344: Jewlers Wire-MODEL 14
+    102346: Jewlers Wire-MODEL 15
+    102348: Jewlers Wire-MODEL 2
+    102350: Jewlers Wire-MODEL 3
+    102352: Jewlers Wire-MODEL 4
+    102354: Jewlers Wire-MODEL 5
+    102356: Jewlers Wire-MODEL 6
+    102358: Jewlers Wire-MODEL 7
+    102360: Jewlers Wire-MODEL 8
+    102362: Jewlers Wire-MODEL 9
+    102364: Jumper Wires
+    102366: Jumper Wires 1
+    102368: Jumper Wires-MODEL
+    102370: Jumper Wires-MODEL 1
+    102372: LED BOTTOM LEVEL
+    102374: LED BOTTOM LEVEL 1
+    102376: LED CUBE ASSEMBLY 1
+    102378: LED LEVEL
+    102380: LED LEVEL 1
+    102382: LED LEVEL 2
+    102384: LED LEVEL 3
+    102386: LED LEVEL 4
+    102388: LED LEVEL 5
+    102390: //RootNode
+    102392: M3 Nylon Capscrew
+    102394: M3 Nylon Capscrew 1
+    102396: M3 Nylon Capscrew 10
+    102398: M3 Nylon Capscrew 11
+    102400: M3 Nylon Capscrew 12
+    102402: M3 Nylon Capscrew 13
+    102404: M3 Nylon Capscrew 14
+    102406: M3 Nylon Capscrew 15
+    102408: M3 Nylon Capscrew 2
+    102410: M3 Nylon Capscrew 3
+    102412: M3 Nylon Capscrew 4
+    102414: M3 Nylon Capscrew 5
+    102416: M3 Nylon Capscrew 6
+    102418: M3 Nylon Capscrew 7
+    102420: M3 Nylon Capscrew 8
+    102422: M3 Nylon Capscrew 9
+    102424: M3 Nylon Capscrew-MODEL
+    102426: M3 Nylon Capscrew-MODEL 1
+    102428: M3 Nylon Capscrew-MODEL 10
+    102430: M3 Nylon Capscrew-MODEL 11
+    102432: M3 Nylon Capscrew-MODEL 12
+    102434: M3 Nylon Capscrew-MODEL 13
+    102436: M3 Nylon Capscrew-MODEL 14
+    102438: M3 Nylon Capscrew-MODEL 15
+    102440: M3 Nylon Capscrew-MODEL 2
+    102442: M3 Nylon Capscrew-MODEL 3
+    102444: M3 Nylon Capscrew-MODEL 4
+    102446: M3 Nylon Capscrew-MODEL 5
+    102448: M3 Nylon Capscrew-MODEL 6
+    102450: M3 Nylon Capscrew-MODEL 7
+    102452: M3 Nylon Capscrew-MODEL 8
+    102454: M3 Nylon Capscrew-MODEL 9
+    102456: M3 Nylon Nut
+    102458: M3 Nylon Nut 1
+    102460: M3 Nylon Nut 10
+    102462: M3 Nylon Nut 11
+    102464: M3 Nylon Nut 12
+    102466: M3 Nylon Nut 13
+    102468: M3 Nylon Nut 14
+    102470: M3 Nylon Nut 15
+    102472: M3 Nylon Nut 2
+    102474: M3 Nylon Nut 3
+    102476: M3 Nylon Nut 4
+    102478: M3 Nylon Nut 5
+    102480: M3 Nylon Nut 6
+    102482: M3 Nylon Nut 7
+    102484: M3 Nylon Nut 8
+    102486: M3 Nylon Nut 9
+    102488: M3 Nylon Nut-MODEL
+    102490: M3 Nylon Nut-MODEL 1
+    102492: M3 Nylon Nut-MODEL 10
+    102494: M3 Nylon Nut-MODEL 11
+    102496: M3 Nylon Nut-MODEL 12
+    102498: M3 Nylon Nut-MODEL 13
+    102500: M3 Nylon Nut-MODEL 14
+    102502: M3 Nylon Nut-MODEL 15
+    102504: M3 Nylon Nut-MODEL 2
+    102506: M3 Nylon Nut-MODEL 3
+    102508: M3 Nylon Nut-MODEL 4
+    102510: M3 Nylon Nut-MODEL 5
+    102512: M3 Nylon Nut-MODEL 6
+    102514: M3 Nylon Nut-MODEL 7
+    102516: M3 Nylon Nut-MODEL 8
+    102518: M3 Nylon Nut-MODEL 9
+    102520: MODEL
+    102522: MODEL 1
+    102524: MODEL 10
+    102526: MODEL 100
+    102528: MODEL 101
+    102530: MODEL 102
+    102532: MODEL 103
+    102534: MODEL 104
+    102536: MODEL 105
+    102538: MODEL 106
+    102540: MODEL 107
+    102542: MODEL 108
+    102544: MODEL 109
+    102546: MODEL 11
+    102548: MODEL 110
+    102550: MODEL 111
+    102552: MODEL 112
+    102554: MODEL 113
+    102556: MODEL 114
+    102558: MODEL 115
+    102560: MODEL 12
+    102562: MODEL 13
+    102564: MODEL 14
+    102566: MODEL 15
+    102568: MODEL 16
+    102570: MODEL 17
+    102572: MODEL 18
+    102574: MODEL 19
+    102576: MODEL 2
+    102578: MODEL 20
+    102580: MODEL 21
+    102582: MODEL 22
+    102584: MODEL 23
+    102586: MODEL 24
+    102588: MODEL 25
+    102590: MODEL 26
+    102592: MODEL 27
+    102594: MODEL 28
+    102596: MODEL 29
+    102598: MODEL 3
+    102600: MODEL 30
+    102602: MODEL 31
+    102604: MODEL 32
+    102606: MODEL 33
+    102608: MODEL 34
+    102610: MODEL 35
+    102612: MODEL 36
+    102614: MODEL 37
+    102616: MODEL 38
+    102618: MODEL 39
+    102620: MODEL 4
+    102622: MODEL 40
+    102624: MODEL 41
+    102626: MODEL 42
+    102628: MODEL 43
+    102630: MODEL 44
+    102632: MODEL 45
+    102634: MODEL 46
+    102636: MODEL 47
+    102638: MODEL 48
+    102640: MODEL 49
+    102642: MODEL 5
+    102644: MODEL 50
+    102646: MODEL 51
+    102648: MODEL 52
+    102650: MODEL 53
+    102652: MODEL 54
+    102654: MODEL 55
+    102656: MODEL 56
+    102658: MODEL 57
+    102660: MODEL 58
+    102662: MODEL 59
+    102664: MODEL 6
+    102666: MODEL 60
+    102668: MODEL 61
+    102670: MODEL 62
+    102672: MODEL 63
+    102674: MODEL 64
+    102676: MODEL 65
+    102678: MODEL 66
+    102680: MODEL 67
+    102682: MODEL 68
+    102684: MODEL 69
+    102686: MODEL 7
+    102688: MODEL 70
+    102690: MODEL 71
+    102692: MODEL 72
+    102694: MODEL 73
+    102696: MODEL 74
+    102698: MODEL 75
+    102700: MODEL 76
+    102702: MODEL 77
+    102704: MODEL 78
+    102706: MODEL 79
+    102708: MODEL 8
+    102710: MODEL 80
+    102712: MODEL 81
+    102714: MODEL 82
+    102716: MODEL 83
+    102718: MODEL 84
+    102720: MODEL 85
+    102722: MODEL 86
+    102724: MODEL 87
+    102726: MODEL 88
+    102728: MODEL 89
+    102730: MODEL 9
+    102732: MODEL 90
+    102734: MODEL 91
+    102736: MODEL 92
+    102738: MODEL 93
+    102740: MODEL 94
+    102742: MODEL 95
+    102744: MODEL 96
+    102746: MODEL 97
+    102748: MODEL 98
+    102750: MODEL 99
+    102752: Resistor Board
+    102754: Resistor Board 1
+    102756: Resistor Board 2
+    102758: Resistor Board 3
+    102760: Resistor Board 4
+    102762: Resistor Board 5
+    102764: Resistor Board 6
+    102766: Resistor Board 7
+    102768: Strip Prototype Board
+    102770: Strip Prototype Board 1
+    102772: Strip Prototype Board 2
+    102774: Strip Prototype Board 3
+    102776: Strip Prototype Board 4
+    102778: Strip Prototype Board 5
+    102780: Strip Prototype Board 6
+    102782: Strip Prototype Board 7
+    102784: Strip Prototype Board-MODEL
+    102786: Strip Prototype Board-MODEL 1
+    102788: Strip Prototype Board-MODEL 2
+    102790: Strip Prototype Board-MODEL 3
+    102792: Strip Prototype Board-MODEL 4
+    102794: Strip Prototype Board-MODEL 5
+    102796: Strip Prototype Board-MODEL 6
+    102798: Strip Prototype Board-MODEL 7
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  100'
+    400008: '  101'
+    400010: '  102'
+    400012: '  103'
+    400014: '  104'
+    400016: '  105'
+    400018: '  106'
+    400020: '  107'
+    400022: '  108'
+    400024: '  109'
+    400026: '  11'
+    400028: '  110'
+    400030: '  111'
+    400032: '  112'
+    400034: '  113'
+    400036: '  114'
+    400038: '  115'
+    400040: '  116'
+    400042: '  117'
+    400044: '  118'
+    400046: '  119'
+    400048: '  12'
+    400050: '  120'
+    400052: '  121'
+    400054: '  122'
+    400056: '  123'
+    400058: '  13'
+    400060: '  14'
+    400062: '  15'
+    400064: '  16'
+    400066: '  17'
+    400068: '  18'
+    400070: '  19'
+    400072: '  2'
+    400074: '  20'
+    400076: '  21'
+    400078: '  22'
+    400080: '  23'
+    400082: '  24'
+    400084: '  25'
+    400086: '  26'
+    400088: '  27'
+    400090: '  28'
+    400092: '  29'
+    400094: '  3'
+    400096: '  30'
+    400098: '  31'
+    400100: '  32'
+    400102: '  33'
+    400104: '  34'
+    400106: '  35'
+    400108: '  36'
+    400110: '  37'
+    400112: '  38'
+    400114: '  39'
+    400116: '  4'
+    400118: '  40'
+    400120: '  41'
+    400122: '  42'
+    400124: '  43'
+    400126: '  44'
+    400128: '  45'
+    400130: '  46'
+    400132: '  47'
+    400134: '  48'
+    400136: '  49'
+    400138: '  5'
+    400140: '  50'
+    400142: '  51'
+    400144: '  52'
+    400146: '  53'
+    400148: '  54'
+    400150: '  55'
+    400152: '  56'
+    400154: '  57'
+    400156: '  58'
+    400158: '  59'
+    400160: '  6'
+    400162: '  60'
+    400164: '  61'
+    400166: '  62'
+    400168: '  63'
+    400170: '  64'
+    400172: '  65'
+    400174: '  66'
+    400176: '  67'
+    400178: '  68'
+    400180: '  69'
+    400182: '  7'
+    400184: '  70'
+    400186: '  71'
+    400188: '  72'
+    400190: '  73'
+    400192: '  74'
+    400194: '  75'
+    400196: '  76'
+    400198: '  77'
+    400200: '  78'
+    400202: '  79'
+    400204: '  8'
+    400206: '  80'
+    400208: '  81'
+    400210: '  82'
+    400212: '  83'
+    400214: '  84'
+    400216: '  85'
+    400218: '  86'
+    400220: '  87'
+    400222: '  88'
+    400224: '  89'
+    400226: '  9'
+    400228: '  90'
+    400230: '  91'
+    400232: '  92'
+    400234: '  93'
+    400236: '  94'
+    400238: '  95'
+    400240: '  96'
+    400242: '  97'
+    400244: '  98'
+    400246: '  99'
+    400248: ' 1'
+    400250: ' 10'
+    400252: ' 100'
+    400254: ' 101'
+    400256: ' 102'
+    400258: ' 103'
+    400260: ' 104'
+    400262: ' 105'
+    400264: ' 106'
+    400266: ' 107'
+    400268: ' 108'
+    400270: ' 109'
+    400272: ' 11'
+    400274: ' 110'
+    400276: ' 111'
+    400278: ' 112'
+    400280: ' 113'
+    400282: ' 114'
+    400284: ' 115'
+    400286: ' 116'
+    400288: ' 117'
+    400290: ' 118'
+    400292: ' 119'
+    400294: ' 12'
+    400296: ' 120'
+    400298: ' 121'
+    400300: ' 122'
+    400302: ' 123'
+    400304: ' 124'
+    400306: ' 125'
+    400308: ' 126'
+    400310: ' 127'
+    400312: ' 128'
+    400314: ' 129'
+    400316: ' 13'
+    400318: ' 130'
+    400320: ' 131'
+    400322: ' 132'
+    400324: ' 133'
+    400326: ' 134'
+    400328: ' 135'
+    400330: ' 136'
+    400332: ' 137'
+    400334: ' 138'
+    400336: ' 139'
+    400338: ' 14'
+    400340: ' 140'
+    400342: ' 141'
+    400344: ' 142'
+    400346: ' 143'
+    400348: ' 144'
+    400350: ' 145'
+    400352: ' 146'
+    400354: ' 147'
+    400356: ' 148'
+    400358: ' 149'
+    400360: ' 15'
+    400362: ' 150'
+    400364: ' 151'
+    400366: ' 152'
+    400368: ' 153'
+    400370: ' 154'
+    400372: ' 155'
+    400374: ' 156'
+    400376: ' 157'
+    400378: ' 158'
+    400380: ' 159'
+    400382: ' 16'
+    400384: ' 160'
+    400386: ' 161'
+    400388: ' 162'
+    400390: ' 163'
+    400392: ' 164'
+    400394: ' 165'
+    400396: ' 166'
+    400398: ' 167'
+    400400: ' 168'
+    400402: ' 169'
+    400404: ' 17'
+    400406: ' 170'
+    400408: ' 171'
+    400410: ' 172'
+    400412: ' 173'
+    400414: ' 174'
+    400416: ' 175'
+    400418: ' 176'
+    400420: ' 177'
+    400422: ' 178'
+    400424: ' 179'
+    400426: ' 18'
+    400428: ' 180'
+    400430: ' 181'
+    400432: ' 182'
+    400434: ' 183'
+    400436: ' 184'
+    400438: ' 185'
+    400440: ' 186'
+    400442: ' 187'
+    400444: ' 188'
+    400446: ' 189'
+    400448: ' 19'
+    400450: ' 190'
+    400452: ' 191'
+    400454: ' 192'
+    400456: ' 193'
+    400458: ' 194'
+    400460: ' 195'
+    400462: ' 196'
+    400464: ' 197'
+    400466: ' 198'
+    400468: ' 199'
+    400470: ' 2'
+    400472: ' 20'
+    400474: ' 200'
+    400476: ' 201'
+    400478: ' 202'
+    400480: ' 203'
+    400482: ' 204'
+    400484: ' 205'
+    400486: ' 206'
+    400488: ' 207'
+    400490: ' 208'
+    400492: ' 209'
+    400494: ' 21'
+    400496: ' 210'
+    400498: ' 211'
+    400500: ' 212'
+    400502: ' 213'
+    400504: ' 214'
+    400506: ' 215'
+    400508: ' 216'
+    400510: ' 217'
+    400512: ' 218'
+    400514: ' 219'
+    400516: ' 22'
+    400518: ' 220'
+    400520: ' 221'
+    400522: ' 222'
+    400524: ' 223'
+    400526: ' 224'
+    400528: ' 225'
+    400530: ' 226'
+    400532: ' 227'
+    400534: ' 228'
+    400536: ' 229'
+    400538: ' 23'
+    400540: ' 230'
+    400542: ' 231'
+    400544: ' 232'
+    400546: ' 233'
+    400548: ' 234'
+    400550: ' 235'
+    400552: ' 236'
+    400554: ' 237'
+    400556: ' 238'
+    400558: ' 239'
+    400560: ' 24'
+    400562: ' 240'
+    400564: ' 241'
+    400566: ' 242'
+    400568: ' 243'
+    400570: ' 244'
+    400572: ' 245'
+    400574: ' 246'
+    400576: ' 247'
+    400578: ' 248'
+    400580: ' 249'
+    400582: ' 25'
+    400584: ' 250'
+    400586: ' 251'
+    400588: ' 252'
+    400590: ' 253'
+    400592: ' 254'
+    400594: ' 255'
+    400596: ' 256'
+    400598: ' 257'
+    400600: ' 258'
+    400602: ' 259'
+    400604: ' 26'
+    400606: ' 260'
+    400608: ' 261'
+    400610: ' 262'
+    400612: ' 263'
+    400614: ' 264'
+    400616: ' 265'
+    400618: ' 266'
+    400620: ' 267'
+    400622: ' 268'
+    400624: ' 269'
+    400626: ' 27'
+    400628: ' 270'
+    400630: ' 271'
+    400632: ' 272'
+    400634: ' 273'
+    400636: ' 274'
+    400638: ' 275'
+    400640: ' 276'
+    400642: ' 277'
+    400644: ' 278'
+    400646: ' 279'
+    400648: ' 28'
+    400650: ' 280'
+    400652: ' 281'
+    400654: ' 282'
+    400656: ' 283'
+    400658: ' 284'
+    400660: ' 285'
+    400662: ' 286'
+    400664: ' 287'
+    400666: ' 288'
+    400668: ' 289'
+    400670: ' 29'
+    400672: ' 290'
+    400674: ' 291'
+    400676: ' 292'
+    400678: ' 293'
+    400680: ' 294'
+    400682: ' 295'
+    400684: ' 296'
+    400686: ' 297'
+    400688: ' 298'
+    400690: ' 299'
+    400692: ' 3'
+    400694: ' 30'
+    400696: ' 300'
+    400698: ' 301'
+    400700: ' 302'
+    400702: ' 303'
+    400704: ' 304'
+    400706: ' 305'
+    400708: ' 306'
+    400710: ' 307'
+    400712: ' 308'
+    400714: ' 309'
+    400716: ' 31'
+    400718: ' 310'
+    400720: ' 311'
+    400722: ' 312'
+    400724: ' 313'
+    400726: ' 314'
+    400728: ' 315'
+    400730: ' 316'
+    400732: ' 317'
+    400734: ' 318'
+    400736: ' 319'
+    400738: ' 32'
+    400740: ' 320'
+    400742: ' 321'
+    400744: ' 322'
+    400746: ' 323'
+    400748: ' 324'
+    400750: ' 325'
+    400752: ' 326'
+    400754: ' 327'
+    400756: ' 328'
+    400758: ' 329'
+    400760: ' 33'
+    400762: ' 330'
+    400764: ' 331'
+    400766: ' 332'
+    400768: ' 333'
+    400770: ' 334'
+    400772: ' 335'
+    400774: ' 336'
+    400776: ' 337'
+    400778: ' 338'
+    400780: ' 339'
+    400782: ' 34'
+    400784: ' 35'
+    400786: ' 36'
+    400788: ' 37'
+    400790: ' 38'
+    400792: ' 39'
+    400794: ' 4'
+    400796: ' 40'
+    400798: ' 41'
+    400800: ' 42'
+    400802: ' 43'
+    400804: ' 44'
+    400806: ' 45'
+    400808: ' 46'
+    400810: ' 47'
+    400812: ' 48'
+    400814: ' 49'
+    400816: ' 5'
+    400818: ' 50'
+    400820: ' 51'
+    400822: ' 52'
+    400824: ' 53'
+    400826: ' 54'
+    400828: ' 55'
+    400830: ' 56'
+    400832: ' 57'
+    400834: ' 58'
+    400836: ' 59'
+    400838: ' 6'
+    400840: ' 60'
+    400842: ' 61'
+    400844: ' 62'
+    400846: ' 63'
+    400848: ' 64'
+    400850: ' 65'
+    400852: ' 66'
+    400854: ' 67'
+    400856: ' 68'
+    400858: ' 69'
+    400860: ' 7'
+    400862: ' 70'
+    400864: ' 71'
+    400866: ' 72'
+    400868: ' 73'
+    400870: ' 74'
+    400872: ' 75'
+    400874: ' 76'
+    400876: ' 77'
+    400878: ' 78'
+    400880: ' 79'
+    400882: ' 8'
+    400884: ' 80'
+    400886: ' 81'
+    400888: ' 82'
+    400890: ' 83'
+    400892: ' 84'
+    400894: ' 85'
+    400896: ' 86'
+    400898: ' 87'
+    400900: ' 88'
+    400902: ' 89'
+    400904: ' 9'
+    400906: ' 90'
+    400908: ' 91'
+    400910: ' 92'
+    400912: ' 93'
+    400914: ' 94'
+    400916: ' 95'
+    400918: ' 96'
+    400920: ' 97'
+    400922: ' 98'
+    400924: ' 99'
+    400926: -DC_Shell
+    400928: -DC_Shell 1
+    400930: -DC_Shell 10
+    400932: -DC_Shell 100
+    400934: -DC_Shell 101
+    400936: -DC_Shell 102
+    400938: -DC_Shell 103
+    400940: -DC_Shell 104
+    400942: -DC_Shell 105
+    400944: -DC_Shell 106
+    400946: -DC_Shell 107
+    400948: -DC_Shell 108
+    400950: -DC_Shell 109
+    400952: -DC_Shell 11
+    400954: -DC_Shell 110
+    400956: -DC_Shell 111
+    400958: -DC_Shell 112
+    400960: -DC_Shell 113
+    400962: -DC_Shell 114
+    400964: -DC_Shell 115
+    400966: -DC_Shell 116
+    400968: -DC_Shell 117
+    400970: -DC_Shell 118
+    400972: -DC_Shell 119
+    400974: -DC_Shell 12
+    400976: -DC_Shell 120
+    400978: -DC_Shell 121
+    400980: -DC_Shell 122
+    400982: -DC_Shell 123
+    400984: -DC_Shell 124
+    400986: -DC_Shell 125
+    400988: -DC_Shell 126
+    400990: -DC_Shell 127
+    400992: -DC_Shell 128
+    400994: -DC_Shell 129
+    400996: -DC_Shell 13
+    400998: -DC_Shell 130
+    401000: -DC_Shell 131
+    401002: -DC_Shell 132
+    401004: -DC_Shell 133
+    401006: -DC_Shell 134
+    401008: -DC_Shell 135
+    401010: -DC_Shell 136
+    401012: -DC_Shell 137
+    401014: -DC_Shell 138
+    401016: -DC_Shell 139
+    401018: -DC_Shell 14
+    401020: -DC_Shell 140
+    401022: -DC_Shell 141
+    401024: -DC_Shell 142
+    401026: -DC_Shell 143
+    401028: -DC_Shell 144
+    401030: -DC_Shell 145
+    401032: -DC_Shell 146
+    401034: -DC_Shell 147
+    401036: -DC_Shell 148
+    401038: -DC_Shell 149
+    401040: -DC_Shell 15
+    401042: -DC_Shell 150
+    401044: -DC_Shell 151
+    401046: -DC_Shell 152
+    401048: -DC_Shell 153
+    401050: -DC_Shell 154
+    401052: -DC_Shell 155
+    401054: -DC_Shell 156
+    401056: -DC_Shell 157
+    401058: -DC_Shell 158
+    401060: -DC_Shell 159
+    401062: -DC_Shell 16
+    401064: -DC_Shell 160
+    401066: -DC_Shell 161
+    401068: -DC_Shell 162
+    401070: -DC_Shell 163
+    401072: -DC_Shell 164
+    401074: -DC_Shell 165
+    401076: -DC_Shell 166
+    401078: -DC_Shell 167
+    401080: -DC_Shell 168
+    401082: -DC_Shell 169
+    401084: -DC_Shell 17
+    401086: -DC_Shell 170
+    401088: -DC_Shell 171
+    401090: -DC_Shell 172
+    401092: -DC_Shell 173
+    401094: -DC_Shell 174
+    401096: -DC_Shell 175
+    401098: -DC_Shell 176
+    401100: -DC_Shell 177
+    401102: -DC_Shell 178
+    401104: -DC_Shell 179
+    401106: -DC_Shell 18
+    401108: -DC_Shell 180
+    401110: -DC_Shell 181
+    401112: -DC_Shell 182
+    401114: -DC_Shell 183
+    401116: -DC_Shell 184
+    401118: -DC_Shell 185
+    401120: -DC_Shell 186
+    401122: -DC_Shell 187
+    401124: -DC_Shell 188
+    401126: -DC_Shell 189
+    401128: -DC_Shell 19
+    401130: -DC_Shell 190
+    401132: -DC_Shell 191
+    401134: -DC_Shell 192
+    401136: -DC_Shell 193
+    401138: -DC_Shell 194
+    401140: -DC_Shell 195
+    401142: -DC_Shell 196
+    401144: -DC_Shell 197
+    401146: -DC_Shell 198
+    401148: -DC_Shell 199
+    401150: -DC_Shell 2
+    401152: -DC_Shell 20
+    401154: -DC_Shell 200
+    401156: -DC_Shell 201
+    401158: -DC_Shell 202
+    401160: -DC_Shell 203
+    401162: -DC_Shell 204
+    401164: -DC_Shell 205
+    401166: -DC_Shell 206
+    401168: -DC_Shell 207
+    401170: -DC_Shell 208
+    401172: -DC_Shell 209
+    401174: -DC_Shell 21
+    401176: -DC_Shell 210
+    401178: -DC_Shell 211
+    401180: -DC_Shell 212
+    401182: -DC_Shell 213
+    401184: -DC_Shell 214
+    401186: -DC_Shell 215
+    401188: -DC_Shell 216
+    401190: -DC_Shell 217
+    401192: -DC_Shell 218
+    401194: -DC_Shell 219
+    401196: -DC_Shell 22
+    401198: -DC_Shell 220
+    401200: -DC_Shell 221
+    401202: -DC_Shell 222
+    401204: -DC_Shell 223
+    401206: -DC_Shell 224
+    401208: -DC_Shell 225
+    401210: -DC_Shell 226
+    401212: -DC_Shell 227
+    401214: -DC_Shell 228
+    401216: -DC_Shell 229
+    401218: -DC_Shell 23
+    401220: -DC_Shell 230
+    401222: -DC_Shell 231
+    401224: -DC_Shell 232
+    401226: -DC_Shell 233
+    401228: -DC_Shell 234
+    401230: -DC_Shell 235
+    401232: -DC_Shell 236
+    401234: -DC_Shell 237
+    401236: -DC_Shell 238
+    401238: -DC_Shell 239
+    401240: -DC_Shell 24
+    401242: -DC_Shell 240
+    401244: -DC_Shell 241
+    401246: -DC_Shell 242
+    401248: -DC_Shell 243
+    401250: -DC_Shell 244
+    401252: -DC_Shell 245
+    401254: -DC_Shell 246
+    401256: -DC_Shell 247
+    401258: -DC_Shell 248
+    401260: -DC_Shell 249
+    401262: -DC_Shell 25
+    401264: -DC_Shell 250
+    401266: -DC_Shell 251
+    401268: -DC_Shell 252
+    401270: -DC_Shell 253
+    401272: -DC_Shell 254
+    401274: -DC_Shell 255
+    401276: -DC_Shell 256
+    401278: -DC_Shell 257
+    401280: -DC_Shell 258
+    401282: -DC_Shell 259
+    401284: -DC_Shell 26
+    401286: -DC_Shell 260
+    401288: -DC_Shell 261
+    401290: -DC_Shell 262
+    401292: -DC_Shell 263
+    401294: -DC_Shell 264
+    401296: -DC_Shell 265
+    401298: -DC_Shell 266
+    401300: -DC_Shell 267
+    401302: -DC_Shell 268
+    401304: -DC_Shell 269
+    401306: -DC_Shell 27
+    401308: -DC_Shell 270
+    401310: -DC_Shell 271
+    401312: -DC_Shell 272
+    401314: -DC_Shell 273
+    401316: -DC_Shell 274
+    401318: -DC_Shell 275
+    401320: -DC_Shell 276
+    401322: -DC_Shell 277
+    401324: -DC_Shell 278
+    401326: -DC_Shell 279
+    401328: -DC_Shell 28
+    401330: -DC_Shell 280
+    401332: -DC_Shell 281
+    401334: -DC_Shell 282
+    401336: -DC_Shell 283
+    401338: -DC_Shell 284
+    401340: -DC_Shell 285
+    401342: -DC_Shell 286
+    401344: -DC_Shell 287
+    401346: -DC_Shell 288
+    401348: -DC_Shell 289
+    401350: -DC_Shell 29
+    401352: -DC_Shell 290
+    401354: -DC_Shell 291
+    401356: -DC_Shell 292
+    401358: -DC_Shell 293
+    401360: -DC_Shell 294
+    401362: -DC_Shell 295
+    401364: -DC_Shell 296
+    401366: -DC_Shell 297
+    401368: -DC_Shell 298
+    401370: -DC_Shell 299
+    401372: -DC_Shell 3
+    401374: -DC_Shell 30
+    401376: -DC_Shell 300
+    401378: -DC_Shell 301
+    401380: -DC_Shell 302
+    401382: -DC_Shell 303
+    401384: -DC_Shell 304
+    401386: -DC_Shell 305
+    401388: -DC_Shell 306
+    401390: -DC_Shell 307
+    401392: -DC_Shell 308
+    401394: -DC_Shell 309
+    401396: -DC_Shell 31
+    401398: -DC_Shell 310
+    401400: -DC_Shell 311
+    401402: -DC_Shell 312
+    401404: -DC_Shell 313
+    401406: -DC_Shell 314
+    401408: -DC_Shell 315
+    401410: -DC_Shell 316
+    401412: -DC_Shell 317
+    401414: -DC_Shell 318
+    401416: -DC_Shell 319
+    401418: -DC_Shell 32
+    401420: -DC_Shell 320
+    401422: -DC_Shell 321
+    401424: -DC_Shell 322
+    401426: -DC_Shell 323
+    401428: -DC_Shell 324
+    401430: -DC_Shell 325
+    401432: -DC_Shell 326
+    401434: -DC_Shell 327
+    401436: -DC_Shell 328
+    401438: -DC_Shell 329
+    401440: -DC_Shell 33
+    401442: -DC_Shell 330
+    401444: -DC_Shell 331
+    401446: -DC_Shell 332
+    401448: -DC_Shell 333
+    401450: -DC_Shell 334
+    401452: -DC_Shell 335
+    401454: -DC_Shell 336
+    401456: -DC_Shell 337
+    401458: -DC_Shell 338
+    401460: -DC_Shell 34
+    401462: -DC_Shell 35
+    401464: -DC_Shell 36
+    401466: -DC_Shell 37
+    401468: -DC_Shell 38
+    401470: -DC_Shell 39
+    401472: -DC_Shell 4
+    401474: -DC_Shell 40
+    401476: -DC_Shell 41
+    401478: -DC_Shell 42
+    401480: -DC_Shell 43
+    401482: -DC_Shell 44
+    401484: -DC_Shell 45
+    401486: -DC_Shell 46
+    401488: -DC_Shell 47
+    401490: -DC_Shell 48
+    401492: -DC_Shell 49
+    401494: -DC_Shell 5
+    401496: -DC_Shell 50
+    401498: -DC_Shell 51
+    401500: -DC_Shell 52
+    401502: -DC_Shell 53
+    401504: -DC_Shell 54
+    401506: -DC_Shell 55
+    401508: -DC_Shell 56
+    401510: -DC_Shell 57
+    401512: -DC_Shell 58
+    401514: -DC_Shell 59
+    401516: -DC_Shell 6
+    401518: -DC_Shell 60
+    401520: -DC_Shell 61
+    401522: -DC_Shell 62
+    401524: -DC_Shell 63
+    401526: -DC_Shell 64
+    401528: -DC_Shell 65
+    401530: -DC_Shell 66
+    401532: -DC_Shell 67
+    401534: -DC_Shell 68
+    401536: -DC_Shell 69
+    401538: -DC_Shell 7
+    401540: -DC_Shell 70
+    401542: -DC_Shell 71
+    401544: -DC_Shell 72
+    401546: -DC_Shell 73
+    401548: -DC_Shell 74
+    401550: -DC_Shell 75
+    401552: -DC_Shell 76
+    401554: -DC_Shell 77
+    401556: -DC_Shell 78
+    401558: -DC_Shell 79
+    401560: -DC_Shell 8
+    401562: -DC_Shell 80
+    401564: -DC_Shell 81
+    401566: -DC_Shell 82
+    401568: -DC_Shell 83
+    401570: -DC_Shell 84
+    401572: -DC_Shell 85
+    401574: -DC_Shell 86
+    401576: -DC_Shell 87
+    401578: -DC_Shell 88
+    401580: -DC_Shell 89
+    401582: -DC_Shell 9
+    401584: -DC_Shell 90
+    401586: -DC_Shell 91
+    401588: -DC_Shell 92
+    401590: -DC_Shell 93
+    401592: -DC_Shell 94
+    401594: -DC_Shell 95
+    401596: -DC_Shell 96
+    401598: -DC_Shell 97
+    401600: -DC_Shell 98
+    401602: -DC_Shell 99
+    401604: 330 Ohm Resistor
+    401606: 330 Ohm Resistor 1
+    401608: 330 Ohm Resistor 10
+    401610: 330 Ohm Resistor 11
+    401612: 330 Ohm Resistor 12
+    401614: 330 Ohm Resistor 13
+    401616: 330 Ohm Resistor 14
+    401618: 330 Ohm Resistor 15
+    401620: 330 Ohm Resistor 16
+    401622: 330 Ohm Resistor 17
+    401624: 330 Ohm Resistor 18
+    401626: 330 Ohm Resistor 19
+    401628: 330 Ohm Resistor 2
+    401630: 330 Ohm Resistor 20
+    401632: 330 Ohm Resistor 21
+    401634: 330 Ohm Resistor 22
+    401636: 330 Ohm Resistor 23
+    401638: 330 Ohm Resistor 24
+    401640: 330 Ohm Resistor 25
+    401642: 330 Ohm Resistor 26
+    401644: 330 Ohm Resistor 27
+    401646: 330 Ohm Resistor 28
+    401648: 330 Ohm Resistor 29
+    401650: 330 Ohm Resistor 3
+    401652: 330 Ohm Resistor 30
+    401654: 330 Ohm Resistor 31
+    401656: 330 Ohm Resistor 4
+    401658: 330 Ohm Resistor 5
+    401660: 330 Ohm Resistor 6
+    401662: 330 Ohm Resistor 7
+    401664: 330 Ohm Resistor 8
+    401666: 330 Ohm Resistor 9
+    401668: 330 Ohm Resistor-MODEL
+    401670: 330 Ohm Resistor-MODEL 1
+    401672: 330 Ohm Resistor-MODEL 10
+    401674: 330 Ohm Resistor-MODEL 11
+    401676: 330 Ohm Resistor-MODEL 12
+    401678: 330 Ohm Resistor-MODEL 13
+    401680: 330 Ohm Resistor-MODEL 14
+    401682: 330 Ohm Resistor-MODEL 15
+    401684: 330 Ohm Resistor-MODEL 16
+    401686: 330 Ohm Resistor-MODEL 17
+    401688: 330 Ohm Resistor-MODEL 18
+    401690: 330 Ohm Resistor-MODEL 19
+    401692: 330 Ohm Resistor-MODEL 2
+    401694: 330 Ohm Resistor-MODEL 20
+    401696: 330 Ohm Resistor-MODEL 21
+    401698: 330 Ohm Resistor-MODEL 22
+    401700: 330 Ohm Resistor-MODEL 23
+    401702: 330 Ohm Resistor-MODEL 24
+    401704: 330 Ohm Resistor-MODEL 25
+    401706: 330 Ohm Resistor-MODEL 26
+    401708: 330 Ohm Resistor-MODEL 27
+    401710: 330 Ohm Resistor-MODEL 28
+    401712: 330 Ohm Resistor-MODEL 29
+    401714: 330 Ohm Resistor-MODEL 3
+    401716: 330 Ohm Resistor-MODEL 30
+    401718: 330 Ohm Resistor-MODEL 31
+    401720: 330 Ohm Resistor-MODEL 4
+    401722: 330 Ohm Resistor-MODEL 5
+    401724: 330 Ohm Resistor-MODEL 6
+    401726: 330 Ohm Resistor-MODEL 7
+    401728: 330 Ohm Resistor-MODEL 8
+    401730: 330 Ohm Resistor-MODEL 9
+    401732: 3mm LED
+    401734: 3mm LED 1
+    401736: 3mm LED 10
+    401738: 3mm LED 11
+    401740: 3mm LED 12
+    401742: 3mm LED 13
+    401744: 3mm LED 14
+    401746: 3mm LED 15
+    401748: 3mm LED 16
+    401750: 3mm LED 17
+    401752: 3mm LED 18
+    401754: 3mm LED 19
+    401756: 3mm LED 2
+    401758: 3mm LED 20
+    401760: 3mm LED 21
+    401762: 3mm LED 22
+    401764: 3mm LED 23
+    401766: 3mm LED 24
+    401768: 3mm LED 25
+    401770: 3mm LED 26
+    401772: 3mm LED 27
+    401774: 3mm LED 28
+    401776: 3mm LED 29
+    401778: 3mm LED 3
+    401780: 3mm LED 30
+    401782: 3mm LED 31
+    401784: 3mm LED 32
+    401786: 3mm LED 33
+    401788: 3mm LED 34
+    401790: 3mm LED 35
+    401792: 3mm LED 36
+    401794: 3mm LED 37
+    401796: 3mm LED 38
+    401798: 3mm LED 39
+    401800: 3mm LED 4
+    401802: 3mm LED 40
+    401804: 3mm LED 41
+    401806: 3mm LED 42
+    401808: 3mm LED 43
+    401810: 3mm LED 44
+    401812: 3mm LED 45
+    401814: 3mm LED 46
+    401816: 3mm LED 47
+    401818: 3mm LED 48
+    401820: 3mm LED 49
+    401822: 3mm LED 5
+    401824: 3mm LED 50
+    401826: 3mm LED 51
+    401828: 3mm LED 52
+    401830: 3mm LED 53
+    401832: 3mm LED 54
+    401834: 3mm LED 55
+    401836: 3mm LED 56
+    401838: 3mm LED 57
+    401840: 3mm LED 58
+    401842: 3mm LED 59
+    401844: 3mm LED 6
+    401846: 3mm LED 60
+    401848: 3mm LED 61
+    401850: 3mm LED 62
+    401852: 3mm LED 63
+    401854: 3mm LED 64
+    401856: 3mm LED 65
+    401858: 3mm LED 66
+    401860: 3mm LED 67
+    401862: 3mm LED 68
+    401864: 3mm LED 69
+    401866: 3mm LED 7
+    401868: 3mm LED 70
+    401870: 3mm LED 71
+    401872: 3mm LED 8
+    401874: 3mm LED 9
+    401876: 3mm LED Bottom
+    401878: 3mm LED Bottom 1
+    401880: 3mm LED Bottom 10
+    401882: 3mm LED Bottom 11
+    401884: 3mm LED Bottom 12
+    401886: 3mm LED Bottom 13
+    401888: 3mm LED Bottom 14
+    401890: 3mm LED Bottom 15
+    401892: 3mm LED Bottom 16
+    401894: 3mm LED Bottom 17
+    401896: 3mm LED Bottom 18
+    401898: 3mm LED Bottom 19
+    401900: 3mm LED Bottom 2
+    401902: 3mm LED Bottom 20
+    401904: 3mm LED Bottom 21
+    401906: 3mm LED Bottom 22
+    401908: 3mm LED Bottom 23
+    401910: 3mm LED Bottom 3
+    401912: 3mm LED Bottom 4
+    401914: 3mm LED Bottom 5
+    401916: 3mm LED Bottom 6
+    401918: 3mm LED Bottom 7
+    401920: 3mm LED Bottom 8
+    401922: 3mm LED Bottom 9
+    401924: 3mm LED Bottom-MODEL
+    401926: 3mm LED Bottom-MODEL 1
+    401928: 3mm LED Bottom-MODEL 10
+    401930: 3mm LED Bottom-MODEL 11
+    401932: 3mm LED Bottom-MODEL 12
+    401934: 3mm LED Bottom-MODEL 13
+    401936: 3mm LED Bottom-MODEL 14
+    401938: 3mm LED Bottom-MODEL 15
+    401940: 3mm LED Bottom-MODEL 16
+    401942: 3mm LED Bottom-MODEL 17
+    401944: 3mm LED Bottom-MODEL 18
+    401946: 3mm LED Bottom-MODEL 19
+    401948: 3mm LED Bottom-MODEL 2
+    401950: 3mm LED Bottom-MODEL 20
+    401952: 3mm LED Bottom-MODEL 21
+    401954: 3mm LED Bottom-MODEL 22
+    401956: 3mm LED Bottom-MODEL 23
+    401958: 3mm LED Bottom-MODEL 3
+    401960: 3mm LED Bottom-MODEL 4
+    401962: 3mm LED Bottom-MODEL 5
+    401964: 3mm LED Bottom-MODEL 6
+    401966: 3mm LED Bottom-MODEL 7
+    401968: 3mm LED Bottom-MODEL 8
+    401970: 3mm LED Bottom-MODEL 9
+    401972: 3mm LED End side
+    401974: 3mm LED End side 1
+    401976: 3mm LED End side 10
+    401978: 3mm LED End side 11
+    401980: 3mm LED End side 12
+    401982: 3mm LED End side 13
+    401984: 3mm LED End side 14
+    401986: 3mm LED End side 15
+    401988: 3mm LED End side 16
+    401990: 3mm LED End side 17
+    401992: 3mm LED End side 18
+    401994: 3mm LED End side 19
+    401996: 3mm LED End side 2
+    401998: 3mm LED End side 20
+    402000: 3mm LED End side 21
+    402002: 3mm LED End side 22
+    402004: 3mm LED End side 23
+    402006: 3mm LED End side 3
+    402008: 3mm LED End side 4
+    402010: 3mm LED End side 5
+    402012: 3mm LED End side 6
+    402014: 3mm LED End side 7
+    402016: 3mm LED End side 8
+    402018: 3mm LED End side 9
+    402020: 3mm LED End side Bottom
+    402022: 3mm LED End side Bottom 1
+    402024: 3mm LED End side Bottom 2
+    402026: 3mm LED End side Bottom 3
+    402028: 3mm LED End side Bottom 4
+    402030: 3mm LED End side Bottom 5
+    402032: 3mm LED End side Bottom 6
+    402034: 3mm LED End side Bottom 7
+    402036: 3mm LED End side Bottom-MODEL
+    402038: 3mm LED End side Bottom-MODEL 1
+    402040: 3mm LED End side Bottom-MODEL 2
+    402042: 3mm LED End side Bottom-MODEL 3
+    402044: 3mm LED End side Bottom-MODEL 4
+    402046: 3mm LED End side Bottom-MODEL 5
+    402048: 3mm LED End side Bottom-MODEL 6
+    402050: 3mm LED End side Bottom-MODEL 7
+    402052: 3mm LED End side-MODEL
+    402054: 3mm LED End side-MODEL 1
+    402056: 3mm LED End side-MODEL 10
+    402058: 3mm LED End side-MODEL 11
+    402060: 3mm LED End side-MODEL 12
+    402062: 3mm LED End side-MODEL 13
+    402064: 3mm LED End side-MODEL 14
+    402066: 3mm LED End side-MODEL 15
+    402068: 3mm LED End side-MODEL 16
+    402070: 3mm LED End side-MODEL 17
+    402072: 3mm LED End side-MODEL 18
+    402074: 3mm LED End side-MODEL 19
+    402076: 3mm LED End side-MODEL 2
+    402078: 3mm LED End side-MODEL 20
+    402080: 3mm LED End side-MODEL 21
+    402082: 3mm LED End side-MODEL 22
+    402084: 3mm LED End side-MODEL 23
+    402086: 3mm LED End side-MODEL 3
+    402088: 3mm LED End side-MODEL 4
+    402090: 3mm LED End side-MODEL 5
+    402092: 3mm LED End side-MODEL 6
+    402094: 3mm LED End side-MODEL 7
+    402096: 3mm LED End side-MODEL 8
+    402098: 3mm LED End side-MODEL 9
+    402100: 3mm LED-MODEL
+    402102: 3mm LED-MODEL 1
+    402104: 3mm LED-MODEL 10
+    402106: 3mm LED-MODEL 11
+    402108: 3mm LED-MODEL 12
+    402110: 3mm LED-MODEL 13
+    402112: 3mm LED-MODEL 14
+    402114: 3mm LED-MODEL 15
+    402116: 3mm LED-MODEL 16
+    402118: 3mm LED-MODEL 17
+    402120: 3mm LED-MODEL 18
+    402122: 3mm LED-MODEL 19
+    402124: 3mm LED-MODEL 2
+    402126: 3mm LED-MODEL 20
+    402128: 3mm LED-MODEL 21
+    402130: 3mm LED-MODEL 22
+    402132: 3mm LED-MODEL 23
+    402134: 3mm LED-MODEL 24
+    402136: 3mm LED-MODEL 25
+    402138: 3mm LED-MODEL 26
+    402140: 3mm LED-MODEL 27
+    402142: 3mm LED-MODEL 28
+    402144: 3mm LED-MODEL 29
+    402146: 3mm LED-MODEL 3
+    402148: 3mm LED-MODEL 30
+    402150: 3mm LED-MODEL 31
+    402152: 3mm LED-MODEL 32
+    402154: 3mm LED-MODEL 33
+    402156: 3mm LED-MODEL 34
+    402158: 3mm LED-MODEL 35
+    402160: 3mm LED-MODEL 36
+    402162: 3mm LED-MODEL 37
+    402164: 3mm LED-MODEL 38
+    402166: 3mm LED-MODEL 39
+    402168: 3mm LED-MODEL 4
+    402170: 3mm LED-MODEL 40
+    402172: 3mm LED-MODEL 41
+    402174: 3mm LED-MODEL 42
+    402176: 3mm LED-MODEL 43
+    402178: 3mm LED-MODEL 44
+    402180: 3mm LED-MODEL 45
+    402182: 3mm LED-MODEL 46
+    402184: 3mm LED-MODEL 47
+    402186: 3mm LED-MODEL 48
+    402188: 3mm LED-MODEL 49
+    402190: 3mm LED-MODEL 5
+    402192: 3mm LED-MODEL 50
+    402194: 3mm LED-MODEL 51
+    402196: 3mm LED-MODEL 52
+    402198: 3mm LED-MODEL 53
+    402200: 3mm LED-MODEL 54
+    402202: 3mm LED-MODEL 55
+    402204: 3mm LED-MODEL 56
+    402206: 3mm LED-MODEL 57
+    402208: 3mm LED-MODEL 58
+    402210: 3mm LED-MODEL 59
+    402212: 3mm LED-MODEL 6
+    402214: 3mm LED-MODEL 60
+    402216: 3mm LED-MODEL 61
+    402218: 3mm LED-MODEL 62
+    402220: 3mm LED-MODEL 63
+    402222: 3mm LED-MODEL 64
+    402224: 3mm LED-MODEL 65
+    402226: 3mm LED-MODEL 66
+    402228: 3mm LED-MODEL 67
+    402230: 3mm LED-MODEL 68
+    402232: 3mm LED-MODEL 69
+    402234: 3mm LED-MODEL 7
+    402236: 3mm LED-MODEL 70
+    402238: 3mm LED-MODEL 71
+    402240: 3mm LED-MODEL 8
+    402242: 3mm LED-MODEL 9
+    402244: Arduino Uno Board
+    402246: Arduino Uno Board 1
+    402248: Arduino Uno Board-MODEL
+    402250: Arduino Uno Board-MODEL 1
+    402252: Case
+    402254: Case 1
+    402256: Case Cover
+    402258: Case Cover 1
+    402260: Case Cover-MODEL
+    402262: Case Cover-MODEL 1
+    402264: Case-MODEL
+    402266: Case-MODEL 1
+    402268: Jewlers Wire
+    402270: Jewlers Wire 1
+    402272: Jewlers Wire 10
+    402274: Jewlers Wire 11
+    402276: Jewlers Wire 12
+    402278: Jewlers Wire 13
+    402280: Jewlers Wire 14
+    402282: Jewlers Wire 15
+    402284: Jewlers Wire 2
+    402286: Jewlers Wire 3
+    402288: Jewlers Wire 4
+    402290: Jewlers Wire 5
+    402292: Jewlers Wire 6
+    402294: Jewlers Wire 7
+    402296: Jewlers Wire 8
+    402298: Jewlers Wire 9
+    402300: Jewlers Wire Cathode 1
+    402302: Jewlers Wire Cathode 1 1
+    402304: Jewlers Wire Cathode 1-MODEL
+    402306: Jewlers Wire Cathode 1-MODEL 1
+    402308: Jewlers Wire Cathode 2
+    402310: Jewlers Wire Cathode 2 1
+    402312: Jewlers Wire Cathode 2-MODEL
+    402314: Jewlers Wire Cathode 2-MODEL 1
+    402316: Jewlers Wire Cathode 3
+    402318: Jewlers Wire Cathode 3 1
+    402320: Jewlers Wire Cathode 3-MODEL
+    402322: Jewlers Wire Cathode 3-MODEL 1
+    402324: Jewlers Wire Cathode 4
+    402326: Jewlers Wire Cathode 4 1
+    402328: Jewlers Wire Cathode 4-MODEL
+    402330: Jewlers Wire Cathode 4-MODEL 1
+    402332: Jewlers Wire-MODEL
+    402334: Jewlers Wire-MODEL 1
+    402336: Jewlers Wire-MODEL 10
+    402338: Jewlers Wire-MODEL 11
+    402340: Jewlers Wire-MODEL 12
+    402342: Jewlers Wire-MODEL 13
+    402344: Jewlers Wire-MODEL 14
+    402346: Jewlers Wire-MODEL 15
+    402348: Jewlers Wire-MODEL 2
+    402350: Jewlers Wire-MODEL 3
+    402352: Jewlers Wire-MODEL 4
+    402354: Jewlers Wire-MODEL 5
+    402356: Jewlers Wire-MODEL 6
+    402358: Jewlers Wire-MODEL 7
+    402360: Jewlers Wire-MODEL 8
+    402362: Jewlers Wire-MODEL 9
+    402364: Jumper Wires
+    402366: Jumper Wires 1
+    402368: Jumper Wires-MODEL
+    402370: Jumper Wires-MODEL 1
+    402372: LED BOTTOM LEVEL
+    402374: LED BOTTOM LEVEL 1
+    402376: LED CUBE ASSEMBLY 1
+    402378: LED LEVEL
+    402380: LED LEVEL 1
+    402382: LED LEVEL 2
+    402384: LED LEVEL 3
+    402386: LED LEVEL 4
+    402388: LED LEVEL 5
+    402390: //RootNode
+    402392: M3 Nylon Capscrew
+    402394: M3 Nylon Capscrew 1
+    402396: M3 Nylon Capscrew 10
+    402398: M3 Nylon Capscrew 11
+    402400: M3 Nylon Capscrew 12
+    402402: M3 Nylon Capscrew 13
+    402404: M3 Nylon Capscrew 14
+    402406: M3 Nylon Capscrew 15
+    402408: M3 Nylon Capscrew 2
+    402410: M3 Nylon Capscrew 3
+    402412: M3 Nylon Capscrew 4
+    402414: M3 Nylon Capscrew 5
+    402416: M3 Nylon Capscrew 6
+    402418: M3 Nylon Capscrew 7
+    402420: M3 Nylon Capscrew 8
+    402422: M3 Nylon Capscrew 9
+    402424: M3 Nylon Capscrew-MODEL
+    402426: M3 Nylon Capscrew-MODEL 1
+    402428: M3 Nylon Capscrew-MODEL 10
+    402430: M3 Nylon Capscrew-MODEL 11
+    402432: M3 Nylon Capscrew-MODEL 12
+    402434: M3 Nylon Capscrew-MODEL 13
+    402436: M3 Nylon Capscrew-MODEL 14
+    402438: M3 Nylon Capscrew-MODEL 15
+    402440: M3 Nylon Capscrew-MODEL 2
+    402442: M3 Nylon Capscrew-MODEL 3
+    402444: M3 Nylon Capscrew-MODEL 4
+    402446: M3 Nylon Capscrew-MODEL 5
+    402448: M3 Nylon Capscrew-MODEL 6
+    402450: M3 Nylon Capscrew-MODEL 7
+    402452: M3 Nylon Capscrew-MODEL 8
+    402454: M3 Nylon Capscrew-MODEL 9
+    402456: M3 Nylon Nut
+    402458: M3 Nylon Nut 1
+    402460: M3 Nylon Nut 10
+    402462: M3 Nylon Nut 11
+    402464: M3 Nylon Nut 12
+    402466: M3 Nylon Nut 13
+    402468: M3 Nylon Nut 14
+    402470: M3 Nylon Nut 15
+    402472: M3 Nylon Nut 2
+    402474: M3 Nylon Nut 3
+    402476: M3 Nylon Nut 4
+    402478: M3 Nylon Nut 5
+    402480: M3 Nylon Nut 6
+    402482: M3 Nylon Nut 7
+    402484: M3 Nylon Nut 8
+    402486: M3 Nylon Nut 9
+    402488: M3 Nylon Nut-MODEL
+    402490: M3 Nylon Nut-MODEL 1
+    402492: M3 Nylon Nut-MODEL 10
+    402494: M3 Nylon Nut-MODEL 11
+    402496: M3 Nylon Nut-MODEL 12
+    402498: M3 Nylon Nut-MODEL 13
+    402500: M3 Nylon Nut-MODEL 14
+    402502: M3 Nylon Nut-MODEL 15
+    402504: M3 Nylon Nut-MODEL 2
+    402506: M3 Nylon Nut-MODEL 3
+    402508: M3 Nylon Nut-MODEL 4
+    402510: M3 Nylon Nut-MODEL 5
+    402512: M3 Nylon Nut-MODEL 6
+    402514: M3 Nylon Nut-MODEL 7
+    402516: M3 Nylon Nut-MODEL 8
+    402518: M3 Nylon Nut-MODEL 9
+    402520: MODEL
+    402522: MODEL 1
+    402524: MODEL 10
+    402526: MODEL 100
+    402528: MODEL 101
+    402530: MODEL 102
+    402532: MODEL 103
+    402534: MODEL 104
+    402536: MODEL 105
+    402538: MODEL 106
+    402540: MODEL 107
+    402542: MODEL 108
+    402544: MODEL 109
+    402546: MODEL 11
+    402548: MODEL 110
+    402550: MODEL 111
+    402552: MODEL 112
+    402554: MODEL 113
+    402556: MODEL 114
+    402558: MODEL 115
+    402560: MODEL 12
+    402562: MODEL 13
+    402564: MODEL 14
+    402566: MODEL 15
+    402568: MODEL 16
+    402570: MODEL 17
+    402572: MODEL 18
+    402574: MODEL 19
+    402576: MODEL 2
+    402578: MODEL 20
+    402580: MODEL 21
+    402582: MODEL 22
+    402584: MODEL 23
+    402586: MODEL 24
+    402588: MODEL 25
+    402590: MODEL 26
+    402592: MODEL 27
+    402594: MODEL 28
+    402596: MODEL 29
+    402598: MODEL 3
+    402600: MODEL 30
+    402602: MODEL 31
+    402604: MODEL 32
+    402606: MODEL 33
+    402608: MODEL 34
+    402610: MODEL 35
+    402612: MODEL 36
+    402614: MODEL 37
+    402616: MODEL 38
+    402618: MODEL 39
+    402620: MODEL 4
+    402622: MODEL 40
+    402624: MODEL 41
+    402626: MODEL 42
+    402628: MODEL 43
+    402630: MODEL 44
+    402632: MODEL 45
+    402634: MODEL 46
+    402636: MODEL 47
+    402638: MODEL 48
+    402640: MODEL 49
+    402642: MODEL 5
+    402644: MODEL 50
+    402646: MODEL 51
+    402648: MODEL 52
+    402650: MODEL 53
+    402652: MODEL 54
+    402654: MODEL 55
+    402656: MODEL 56
+    402658: MODEL 57
+    402660: MODEL 58
+    402662: MODEL 59
+    402664: MODEL 6
+    402666: MODEL 60
+    402668: MODEL 61
+    402670: MODEL 62
+    402672: MODEL 63
+    402674: MODEL 64
+    402676: MODEL 65
+    402678: MODEL 66
+    402680: MODEL 67
+    402682: MODEL 68
+    402684: MODEL 69
+    402686: MODEL 7
+    402688: MODEL 70
+    402690: MODEL 71
+    402692: MODEL 72
+    402694: MODEL 73
+    402696: MODEL 74
+    402698: MODEL 75
+    402700: MODEL 76
+    402702: MODEL 77
+    402704: MODEL 78
+    402706: MODEL 79
+    402708: MODEL 8
+    402710: MODEL 80
+    402712: MODEL 81
+    402714: MODEL 82
+    402716: MODEL 83
+    402718: MODEL 84
+    402720: MODEL 85
+    402722: MODEL 86
+    402724: MODEL 87
+    402726: MODEL 88
+    402728: MODEL 89
+    402730: MODEL 9
+    402732: MODEL 90
+    402734: MODEL 91
+    402736: MODEL 92
+    402738: MODEL 93
+    402740: MODEL 94
+    402742: MODEL 95
+    402744: MODEL 96
+    402746: MODEL 97
+    402748: MODEL 98
+    402750: MODEL 99
+    402752: Resistor Board
+    402754: Resistor Board 1
+    402756: Resistor Board 2
+    402758: Resistor Board 3
+    402760: Resistor Board 4
+    402762: Resistor Board 5
+    402764: Resistor Board 6
+    402766: Resistor Board 7
+    402768: Strip Prototype Board
+    402770: Strip Prototype Board 1
+    402772: Strip Prototype Board 2
+    402774: Strip Prototype Board 3
+    402776: Strip Prototype Board 4
+    402778: Strip Prototype Board 5
+    402780: Strip Prototype Board 6
+    402782: Strip Prototype Board 7
+    402784: Strip Prototype Board-MODEL
+    402786: Strip Prototype Board-MODEL 1
+    402788: Strip Prototype Board-MODEL 2
+    402790: Strip Prototype Board-MODEL 3
+    402792: Strip Prototype Board-MODEL 4
+    402794: Strip Prototype Board-MODEL 5
+    402796: Strip Prototype Board-MODEL 6
+    402798: Strip Prototype Board-MODEL 7
+    2300000: -DC_Shell
+    2300002: -DC_Shell 1
+    2300004: -DC_Shell 10
+    2300006: -DC_Shell 100
+    2300008: -DC_Shell 101
+    2300010: -DC_Shell 102
+    2300012: -DC_Shell 103
+    2300014: -DC_Shell 104
+    2300016: -DC_Shell 105
+    2300018: -DC_Shell 106
+    2300020: -DC_Shell 107
+    2300022: -DC_Shell 108
+    2300024: -DC_Shell 109
+    2300026: -DC_Shell 11
+    2300028: -DC_Shell 110
+    2300030: -DC_Shell 111
+    2300032: -DC_Shell 112
+    2300034: -DC_Shell 113
+    2300036: -DC_Shell 114
+    2300038: -DC_Shell 115
+    2300040: -DC_Shell 116
+    2300042: -DC_Shell 117
+    2300044: -DC_Shell 118
+    2300046: -DC_Shell 119
+    2300048: -DC_Shell 12
+    2300050: -DC_Shell 120
+    2300052: -DC_Shell 121
+    2300054: -DC_Shell 122
+    2300056: -DC_Shell 123
+    2300058: -DC_Shell 124
+    2300060: -DC_Shell 125
+    2300062: -DC_Shell 126
+    2300064: -DC_Shell 127
+    2300066: -DC_Shell 128
+    2300068: -DC_Shell 129
+    2300070: -DC_Shell 13
+    2300072: -DC_Shell 130
+    2300074: -DC_Shell 131
+    2300076: -DC_Shell 132
+    2300078: -DC_Shell 133
+    2300080: -DC_Shell 134
+    2300082: -DC_Shell 135
+    2300084: -DC_Shell 136
+    2300086: -DC_Shell 137
+    2300088: -DC_Shell 138
+    2300090: -DC_Shell 139
+    2300092: -DC_Shell 14
+    2300094: -DC_Shell 140
+    2300096: -DC_Shell 141
+    2300098: -DC_Shell 142
+    2300100: -DC_Shell 143
+    2300102: -DC_Shell 144
+    2300104: -DC_Shell 145
+    2300106: -DC_Shell 146
+    2300108: -DC_Shell 147
+    2300110: -DC_Shell 148
+    2300112: -DC_Shell 149
+    2300114: -DC_Shell 15
+    2300116: -DC_Shell 150
+    2300118: -DC_Shell 151
+    2300120: -DC_Shell 152
+    2300122: -DC_Shell 153
+    2300124: -DC_Shell 154
+    2300126: -DC_Shell 155
+    2300128: -DC_Shell 156
+    2300130: -DC_Shell 157
+    2300132: -DC_Shell 158
+    2300134: -DC_Shell 159
+    2300136: -DC_Shell 16
+    2300138: -DC_Shell 160
+    2300140: -DC_Shell 161
+    2300142: -DC_Shell 162
+    2300144: -DC_Shell 163
+    2300146: -DC_Shell 164
+    2300148: -DC_Shell 165
+    2300150: -DC_Shell 166
+    2300152: -DC_Shell 167
+    2300154: -DC_Shell 168
+    2300156: -DC_Shell 169
+    2300158: -DC_Shell 17
+    2300160: -DC_Shell 170
+    2300162: -DC_Shell 171
+    2300164: -DC_Shell 172
+    2300166: -DC_Shell 173
+    2300168: -DC_Shell 174
+    2300170: -DC_Shell 175
+    2300172: -DC_Shell 176
+    2300174: -DC_Shell 177
+    2300176: -DC_Shell 178
+    2300178: -DC_Shell 179
+    2300180: -DC_Shell 18
+    2300182: -DC_Shell 180
+    2300184: -DC_Shell 181
+    2300186: -DC_Shell 182
+    2300188: -DC_Shell 183
+    2300190: -DC_Shell 184
+    2300192: -DC_Shell 185
+    2300194: -DC_Shell 186
+    2300196: -DC_Shell 187
+    2300198: -DC_Shell 188
+    2300200: -DC_Shell 189
+    2300202: -DC_Shell 19
+    2300204: -DC_Shell 190
+    2300206: -DC_Shell 191
+    2300208: -DC_Shell 192
+    2300210: -DC_Shell 193
+    2300212: -DC_Shell 194
+    2300214: -DC_Shell 195
+    2300216: -DC_Shell 196
+    2300218: -DC_Shell 197
+    2300220: -DC_Shell 198
+    2300222: -DC_Shell 199
+    2300224: -DC_Shell 2
+    2300226: -DC_Shell 20
+    2300228: -DC_Shell 200
+    2300230: -DC_Shell 201
+    2300232: -DC_Shell 202
+    2300234: -DC_Shell 203
+    2300236: -DC_Shell 204
+    2300238: -DC_Shell 205
+    2300240: -DC_Shell 206
+    2300242: -DC_Shell 207
+    2300244: -DC_Shell 208
+    2300246: -DC_Shell 209
+    2300248: -DC_Shell 21
+    2300250: -DC_Shell 210
+    2300252: -DC_Shell 211
+    2300254: -DC_Shell 212
+    2300256: -DC_Shell 213
+    2300258: -DC_Shell 214
+    2300260: -DC_Shell 215
+    2300262: -DC_Shell 216
+    2300264: -DC_Shell 217
+    2300266: -DC_Shell 218
+    2300268: -DC_Shell 219
+    2300270: -DC_Shell 22
+    2300272: -DC_Shell 220
+    2300274: -DC_Shell 221
+    2300276: -DC_Shell 222
+    2300278: -DC_Shell 223
+    2300280: -DC_Shell 224
+    2300282: -DC_Shell 225
+    2300284: -DC_Shell 226
+    2300286: -DC_Shell 227
+    2300288: -DC_Shell 228
+    2300290: -DC_Shell 229
+    2300292: -DC_Shell 23
+    2300294: -DC_Shell 230
+    2300296: -DC_Shell 231
+    2300298: -DC_Shell 232
+    2300300: -DC_Shell 233
+    2300302: -DC_Shell 234
+    2300304: -DC_Shell 235
+    2300306: -DC_Shell 236
+    2300308: -DC_Shell 237
+    2300310: -DC_Shell 238
+    2300312: -DC_Shell 239
+    2300314: -DC_Shell 24
+    2300316: -DC_Shell 240
+    2300318: -DC_Shell 241
+    2300320: -DC_Shell 242
+    2300322: -DC_Shell 243
+    2300324: -DC_Shell 244
+    2300326: -DC_Shell 245
+    2300328: -DC_Shell 246
+    2300330: -DC_Shell 247
+    2300332: -DC_Shell 248
+    2300334: -DC_Shell 249
+    2300336: -DC_Shell 25
+    2300338: -DC_Shell 250
+    2300340: -DC_Shell 251
+    2300342: -DC_Shell 252
+    2300344: -DC_Shell 253
+    2300346: -DC_Shell 254
+    2300348: -DC_Shell 255
+    2300350: -DC_Shell 256
+    2300352: -DC_Shell 257
+    2300354: -DC_Shell 258
+    2300356: -DC_Shell 259
+    2300358: -DC_Shell 26
+    2300360: -DC_Shell 260
+    2300362: -DC_Shell 261
+    2300364: -DC_Shell 262
+    2300366: -DC_Shell 263
+    2300368: -DC_Shell 264
+    2300370: -DC_Shell 265
+    2300372: -DC_Shell 266
+    2300374: -DC_Shell 267
+    2300376: -DC_Shell 268
+    2300378: -DC_Shell 269
+    2300380: -DC_Shell 27
+    2300382: -DC_Shell 270
+    2300384: -DC_Shell 271
+    2300386: -DC_Shell 272
+    2300388: -DC_Shell 273
+    2300390: -DC_Shell 274
+    2300392: -DC_Shell 275
+    2300394: -DC_Shell 276
+    2300396: -DC_Shell 277
+    2300398: -DC_Shell 278
+    2300400: -DC_Shell 279
+    2300402: -DC_Shell 28
+    2300404: -DC_Shell 280
+    2300406: -DC_Shell 281
+    2300408: -DC_Shell 282
+    2300410: -DC_Shell 283
+    2300412: -DC_Shell 284
+    2300414: -DC_Shell 285
+    2300416: -DC_Shell 286
+    2300418: -DC_Shell 287
+    2300420: -DC_Shell 288
+    2300422: -DC_Shell 289
+    2300424: -DC_Shell 29
+    2300426: -DC_Shell 290
+    2300428: -DC_Shell 291
+    2300430: -DC_Shell 292
+    2300432: -DC_Shell 293
+    2300434: -DC_Shell 294
+    2300436: -DC_Shell 295
+    2300438: -DC_Shell 296
+    2300440: -DC_Shell 297
+    2300442: -DC_Shell 298
+    2300444: -DC_Shell 299
+    2300446: -DC_Shell 3
+    2300448: -DC_Shell 30
+    2300450: -DC_Shell 300
+    2300452: -DC_Shell 301
+    2300454: -DC_Shell 302
+    2300456: -DC_Shell 303
+    2300458: -DC_Shell 304
+    2300460: -DC_Shell 305
+    2300462: -DC_Shell 306
+    2300464: -DC_Shell 307
+    2300466: -DC_Shell 308
+    2300468: -DC_Shell 309
+    2300470: -DC_Shell 31
+    2300472: -DC_Shell 310
+    2300474: -DC_Shell 311
+    2300476: -DC_Shell 312
+    2300478: -DC_Shell 313
+    2300480: -DC_Shell 314
+    2300482: -DC_Shell 315
+    2300484: -DC_Shell 316
+    2300486: -DC_Shell 317
+    2300488: -DC_Shell 318
+    2300490: -DC_Shell 319
+    2300492: -DC_Shell 32
+    2300494: -DC_Shell 320
+    2300496: -DC_Shell 321
+    2300498: -DC_Shell 322
+    2300500: -DC_Shell 323
+    2300502: -DC_Shell 324
+    2300504: -DC_Shell 325
+    2300506: -DC_Shell 326
+    2300508: -DC_Shell 327
+    2300510: -DC_Shell 328
+    2300512: -DC_Shell 329
+    2300514: -DC_Shell 33
+    2300516: -DC_Shell 330
+    2300518: -DC_Shell 331
+    2300520: -DC_Shell 332
+    2300522: -DC_Shell 333
+    2300524: -DC_Shell 334
+    2300526: -DC_Shell 335
+    2300528: -DC_Shell 336
+    2300530: -DC_Shell 337
+    2300532: -DC_Shell 338
+    2300534: -DC_Shell 34
+    2300536: -DC_Shell 35
+    2300538: -DC_Shell 36
+    2300540: -DC_Shell 37
+    2300542: -DC_Shell 38
+    2300544: -DC_Shell 39
+    2300546: -DC_Shell 4
+    2300548: -DC_Shell 40
+    2300550: -DC_Shell 41
+    2300552: -DC_Shell 42
+    2300554: -DC_Shell 43
+    2300556: -DC_Shell 44
+    2300558: -DC_Shell 45
+    2300560: -DC_Shell 46
+    2300562: -DC_Shell 47
+    2300564: -DC_Shell 48
+    2300566: -DC_Shell 49
+    2300568: -DC_Shell 5
+    2300570: -DC_Shell 50
+    2300572: -DC_Shell 51
+    2300574: -DC_Shell 52
+    2300576: -DC_Shell 53
+    2300578: -DC_Shell 54
+    2300580: -DC_Shell 55
+    2300582: -DC_Shell 56
+    2300584: -DC_Shell 57
+    2300586: -DC_Shell 58
+    2300588: -DC_Shell 59
+    2300590: -DC_Shell 6
+    2300592: -DC_Shell 60
+    2300594: -DC_Shell 61
+    2300596: -DC_Shell 62
+    2300598: -DC_Shell 63
+    2300600: -DC_Shell 64
+    2300602: -DC_Shell 65
+    2300604: -DC_Shell 66
+    2300606: -DC_Shell 67
+    2300608: -DC_Shell 68
+    2300610: -DC_Shell 69
+    2300612: -DC_Shell 7
+    2300614: -DC_Shell 70
+    2300616: -DC_Shell 71
+    2300618: -DC_Shell 72
+    2300620: -DC_Shell 73
+    2300622: -DC_Shell 74
+    2300624: -DC_Shell 75
+    2300626: -DC_Shell 76
+    2300628: -DC_Shell 77
+    2300630: -DC_Shell 78
+    2300632: -DC_Shell 79
+    2300634: -DC_Shell 8
+    2300636: -DC_Shell 80
+    2300638: -DC_Shell 81
+    2300640: -DC_Shell 82
+    2300642: -DC_Shell 83
+    2300644: -DC_Shell 84
+    2300646: -DC_Shell 85
+    2300648: -DC_Shell 86
+    2300650: -DC_Shell 87
+    2300652: -DC_Shell 88
+    2300654: -DC_Shell 89
+    2300656: -DC_Shell 9
+    2300658: -DC_Shell 90
+    2300660: -DC_Shell 91
+    2300662: -DC_Shell 92
+    2300664: -DC_Shell 93
+    2300666: -DC_Shell 94
+    2300668: -DC_Shell 95
+    2300670: -DC_Shell 96
+    2300672: -DC_Shell 97
+    2300674: -DC_Shell 98
+    2300676: -DC_Shell 99
+    3300000: -DC_Shell
+    3300002: -DC_Shell 1
+    3300004: -DC_Shell 10
+    3300006: -DC_Shell 100
+    3300008: -DC_Shell 101
+    3300010: -DC_Shell 102
+    3300012: -DC_Shell 103
+    3300014: -DC_Shell 104
+    3300016: -DC_Shell 105
+    3300018: -DC_Shell 106
+    3300020: -DC_Shell 107
+    3300022: -DC_Shell 108
+    3300024: -DC_Shell 109
+    3300026: -DC_Shell 11
+    3300028: -DC_Shell 110
+    3300030: -DC_Shell 111
+    3300032: -DC_Shell 112
+    3300034: -DC_Shell 113
+    3300036: -DC_Shell 114
+    3300038: -DC_Shell 115
+    3300040: -DC_Shell 116
+    3300042: -DC_Shell 117
+    3300044: -DC_Shell 118
+    3300046: -DC_Shell 119
+    3300048: -DC_Shell 12
+    3300050: -DC_Shell 120
+    3300052: -DC_Shell 121
+    3300054: -DC_Shell 122
+    3300056: -DC_Shell 123
+    3300058: -DC_Shell 124
+    3300060: -DC_Shell 125
+    3300062: -DC_Shell 126
+    3300064: -DC_Shell 127
+    3300066: -DC_Shell 128
+    3300068: -DC_Shell 129
+    3300070: -DC_Shell 13
+    3300072: -DC_Shell 130
+    3300074: -DC_Shell 131
+    3300076: -DC_Shell 132
+    3300078: -DC_Shell 133
+    3300080: -DC_Shell 134
+    3300082: -DC_Shell 135
+    3300084: -DC_Shell 136
+    3300086: -DC_Shell 137
+    3300088: -DC_Shell 138
+    3300090: -DC_Shell 139
+    3300092: -DC_Shell 14
+    3300094: -DC_Shell 140
+    3300096: -DC_Shell 141
+    3300098: -DC_Shell 142
+    3300100: -DC_Shell 143
+    3300102: -DC_Shell 144
+    3300104: -DC_Shell 145
+    3300106: -DC_Shell 146
+    3300108: -DC_Shell 147
+    3300110: -DC_Shell 148
+    3300112: -DC_Shell 149
+    3300114: -DC_Shell 15
+    3300116: -DC_Shell 150
+    3300118: -DC_Shell 151
+    3300120: -DC_Shell 152
+    3300122: -DC_Shell 153
+    3300124: -DC_Shell 154
+    3300126: -DC_Shell 155
+    3300128: -DC_Shell 156
+    3300130: -DC_Shell 157
+    3300132: -DC_Shell 158
+    3300134: -DC_Shell 159
+    3300136: -DC_Shell 16
+    3300138: -DC_Shell 160
+    3300140: -DC_Shell 161
+    3300142: -DC_Shell 162
+    3300144: -DC_Shell 163
+    3300146: -DC_Shell 164
+    3300148: -DC_Shell 165
+    3300150: -DC_Shell 166
+    3300152: -DC_Shell 167
+    3300154: -DC_Shell 168
+    3300156: -DC_Shell 169
+    3300158: -DC_Shell 17
+    3300160: -DC_Shell 170
+    3300162: -DC_Shell 171
+    3300164: -DC_Shell 172
+    3300166: -DC_Shell 173
+    3300168: -DC_Shell 174
+    3300170: -DC_Shell 175
+    3300172: -DC_Shell 176
+    3300174: -DC_Shell 177
+    3300176: -DC_Shell 178
+    3300178: -DC_Shell 179
+    3300180: -DC_Shell 18
+    3300182: -DC_Shell 180
+    3300184: -DC_Shell 181
+    3300186: -DC_Shell 182
+    3300188: -DC_Shell 183
+    3300190: -DC_Shell 184
+    3300192: -DC_Shell 185
+    3300194: -DC_Shell 186
+    3300196: -DC_Shell 187
+    3300198: -DC_Shell 188
+    3300200: -DC_Shell 189
+    3300202: -DC_Shell 19
+    3300204: -DC_Shell 190
+    3300206: -DC_Shell 191
+    3300208: -DC_Shell 192
+    3300210: -DC_Shell 193
+    3300212: -DC_Shell 194
+    3300214: -DC_Shell 195
+    3300216: -DC_Shell 196
+    3300218: -DC_Shell 197
+    3300220: -DC_Shell 198
+    3300222: -DC_Shell 199
+    3300224: -DC_Shell 2
+    3300226: -DC_Shell 20
+    3300228: -DC_Shell 200
+    3300230: -DC_Shell 201
+    3300232: -DC_Shell 202
+    3300234: -DC_Shell 203
+    3300236: -DC_Shell 204
+    3300238: -DC_Shell 205
+    3300240: -DC_Shell 206
+    3300242: -DC_Shell 207
+    3300244: -DC_Shell 208
+    3300246: -DC_Shell 209
+    3300248: -DC_Shell 21
+    3300250: -DC_Shell 210
+    3300252: -DC_Shell 211
+    3300254: -DC_Shell 212
+    3300256: -DC_Shell 213
+    3300258: -DC_Shell 214
+    3300260: -DC_Shell 215
+    3300262: -DC_Shell 216
+    3300264: -DC_Shell 217
+    3300266: -DC_Shell 218
+    3300268: -DC_Shell 219
+    3300270: -DC_Shell 22
+    3300272: -DC_Shell 220
+    3300274: -DC_Shell 221
+    3300276: -DC_Shell 222
+    3300278: -DC_Shell 223
+    3300280: -DC_Shell 224
+    3300282: -DC_Shell 225
+    3300284: -DC_Shell 226
+    3300286: -DC_Shell 227
+    3300288: -DC_Shell 228
+    3300290: -DC_Shell 229
+    3300292: -DC_Shell 23
+    3300294: -DC_Shell 230
+    3300296: -DC_Shell 231
+    3300298: -DC_Shell 232
+    3300300: -DC_Shell 233
+    3300302: -DC_Shell 234
+    3300304: -DC_Shell 235
+    3300306: -DC_Shell 236
+    3300308: -DC_Shell 237
+    3300310: -DC_Shell 238
+    3300312: -DC_Shell 239
+    3300314: -DC_Shell 24
+    3300316: -DC_Shell 240
+    3300318: -DC_Shell 241
+    3300320: -DC_Shell 242
+    3300322: -DC_Shell 243
+    3300324: -DC_Shell 244
+    3300326: -DC_Shell 245
+    3300328: -DC_Shell 246
+    3300330: -DC_Shell 247
+    3300332: -DC_Shell 248
+    3300334: -DC_Shell 249
+    3300336: -DC_Shell 25
+    3300338: -DC_Shell 250
+    3300340: -DC_Shell 251
+    3300342: -DC_Shell 252
+    3300344: -DC_Shell 253
+    3300346: -DC_Shell 254
+    3300348: -DC_Shell 255
+    3300350: -DC_Shell 256
+    3300352: -DC_Shell 257
+    3300354: -DC_Shell 258
+    3300356: -DC_Shell 259
+    3300358: -DC_Shell 26
+    3300360: -DC_Shell 260
+    3300362: -DC_Shell 261
+    3300364: -DC_Shell 262
+    3300366: -DC_Shell 263
+    3300368: -DC_Shell 264
+    3300370: -DC_Shell 265
+    3300372: -DC_Shell 266
+    3300374: -DC_Shell 267
+    3300376: -DC_Shell 268
+    3300378: -DC_Shell 269
+    3300380: -DC_Shell 27
+    3300382: -DC_Shell 270
+    3300384: -DC_Shell 271
+    3300386: -DC_Shell 272
+    3300388: -DC_Shell 273
+    3300390: -DC_Shell 274
+    3300392: -DC_Shell 275
+    3300394: -DC_Shell 276
+    3300396: -DC_Shell 277
+    3300398: -DC_Shell 278
+    3300400: -DC_Shell 279
+    3300402: -DC_Shell 28
+    3300404: -DC_Shell 280
+    3300406: -DC_Shell 281
+    3300408: -DC_Shell 282
+    3300410: -DC_Shell 283
+    3300412: -DC_Shell 284
+    3300414: -DC_Shell 285
+    3300416: -DC_Shell 286
+    3300418: -DC_Shell 287
+    3300420: -DC_Shell 288
+    3300422: -DC_Shell 289
+    3300424: -DC_Shell 29
+    3300426: -DC_Shell 290
+    3300428: -DC_Shell 291
+    3300430: -DC_Shell 292
+    3300432: -DC_Shell 293
+    3300434: -DC_Shell 294
+    3300436: -DC_Shell 295
+    3300438: -DC_Shell 296
+    3300440: -DC_Shell 297
+    3300442: -DC_Shell 298
+    3300444: -DC_Shell 299
+    3300446: -DC_Shell 3
+    3300448: -DC_Shell 30
+    3300450: -DC_Shell 300
+    3300452: -DC_Shell 301
+    3300454: -DC_Shell 302
+    3300456: -DC_Shell 303
+    3300458: -DC_Shell 304
+    3300460: -DC_Shell 305
+    3300462: -DC_Shell 306
+    3300464: -DC_Shell 307
+    3300466: -DC_Shell 308
+    3300468: -DC_Shell 309
+    3300470: -DC_Shell 31
+    3300472: -DC_Shell 310
+    3300474: -DC_Shell 311
+    3300476: -DC_Shell 312
+    3300478: -DC_Shell 313
+    3300480: -DC_Shell 314
+    3300482: -DC_Shell 315
+    3300484: -DC_Shell 316
+    3300486: -DC_Shell 317
+    3300488: -DC_Shell 318
+    3300490: -DC_Shell 319
+    3300492: -DC_Shell 32
+    3300494: -DC_Shell 320
+    3300496: -DC_Shell 321
+    3300498: -DC_Shell 322
+    3300500: -DC_Shell 323
+    3300502: -DC_Shell 324
+    3300504: -DC_Shell 325
+    3300506: -DC_Shell 326
+    3300508: -DC_Shell 327
+    3300510: -DC_Shell 328
+    3300512: -DC_Shell 329
+    3300514: -DC_Shell 33
+    3300516: -DC_Shell 330
+    3300518: -DC_Shell 331
+    3300520: -DC_Shell 332
+    3300522: -DC_Shell 333
+    3300524: -DC_Shell 334
+    3300526: -DC_Shell 335
+    3300528: -DC_Shell 336
+    3300530: -DC_Shell 337
+    3300532: -DC_Shell 338
+    3300534: -DC_Shell 34
+    3300536: -DC_Shell 35
+    3300538: -DC_Shell 36
+    3300540: -DC_Shell 37
+    3300542: -DC_Shell 38
+    3300544: -DC_Shell 39
+    3300546: -DC_Shell 4
+    3300548: -DC_Shell 40
+    3300550: -DC_Shell 41
+    3300552: -DC_Shell 42
+    3300554: -DC_Shell 43
+    3300556: -DC_Shell 44
+    3300558: -DC_Shell 45
+    3300560: -DC_Shell 46
+    3300562: -DC_Shell 47
+    3300564: -DC_Shell 48
+    3300566: -DC_Shell 49
+    3300568: -DC_Shell 5
+    3300570: -DC_Shell 50
+    3300572: -DC_Shell 51
+    3300574: -DC_Shell 52
+    3300576: -DC_Shell 53
+    3300578: -DC_Shell 54
+    3300580: -DC_Shell 55
+    3300582: -DC_Shell 56
+    3300584: -DC_Shell 57
+    3300586: -DC_Shell 58
+    3300588: -DC_Shell 59
+    3300590: -DC_Shell 6
+    3300592: -DC_Shell 60
+    3300594: -DC_Shell 61
+    3300596: -DC_Shell 62
+    3300598: -DC_Shell 63
+    3300600: -DC_Shell 64
+    3300602: -DC_Shell 65
+    3300604: -DC_Shell 66
+    3300606: -DC_Shell 67
+    3300608: -DC_Shell 68
+    3300610: -DC_Shell 69
+    3300612: -DC_Shell 7
+    3300614: -DC_Shell 70
+    3300616: -DC_Shell 71
+    3300618: -DC_Shell 72
+    3300620: -DC_Shell 73
+    3300622: -DC_Shell 74
+    3300624: -DC_Shell 75
+    3300626: -DC_Shell 76
+    3300628: -DC_Shell 77
+    3300630: -DC_Shell 78
+    3300632: -DC_Shell 79
+    3300634: -DC_Shell 8
+    3300636: -DC_Shell 80
+    3300638: -DC_Shell 81
+    3300640: -DC_Shell 82
+    3300642: -DC_Shell 83
+    3300644: -DC_Shell 84
+    3300646: -DC_Shell 85
+    3300648: -DC_Shell 86
+    3300650: -DC_Shell 87
+    3300652: -DC_Shell 88
+    3300654: -DC_Shell 89
+    3300656: -DC_Shell 9
+    3300658: -DC_Shell 90
+    3300660: -DC_Shell 91
+    3300662: -DC_Shell 92
+    3300664: -DC_Shell 93
+    3300666: -DC_Shell 94
+    3300668: -DC_Shell 95
+    3300670: -DC_Shell 96
+    3300672: -DC_Shell 97
+    3300674: -DC_Shell 98
+    3300676: -DC_Shell 99
+    4300000: -DC_Shell
+    4300002: -DC_Shell
+    4300004: -DC_Shell
+    4300006: -DC_Shell
+    4300008: -DC_Shell
+    4300010: -DC_Shell
+    4300012: -DC_Shell
+    4300014: -DC_Shell
+    4300016: -DC_Shell
+    4300018: -DC_Shell
+    4300020: -DC_Shell
+    4300022: -DC_Shell
+    4300024: -DC_Shell
+    4300026: -DC_Shell
+    4300028: -DC_Shell
+    4300030: -DC_Shell
+    4300032: -DC_Shell
+    4300034: -DC_Shell
+    4300036: -DC_Shell
+    4300038: -DC_Shell
+    4300040: -DC_Shell
+    4300042: -DC_Shell
+    4300044: -DC_Shell
+    4300046: -DC_Shell
+    4300048: -DC_Shell
+    4300050: -DC_Shell
+    4300052: -DC_Shell
+    4300054: -DC_Shell
+    4300056: -DC_Shell
+    4300058: -DC_Shell
+    4300060: -DC_Shell
+    4300062: -DC_Shell
+    4300064: -DC_Shell
+    4300066: -DC_Shell
+    4300068: -DC_Shell
+    4300070: -DC_Shell
+    4300072: -DC_Shell
+    4300074: -DC_Shell
+    4300076: -DC_Shell
+    4300078: -DC_Shell
+    4300080: -DC_Shell
+    4300082: -DC_Shell
+    4300084: -DC_Shell
+    4300086: -DC_Shell
+    4300088: -DC_Shell
+    4300090: -DC_Shell
+    4300092: -DC_Shell
+    4300094: -DC_Shell
+    4300096: -DC_Shell
+    4300098: -DC_Shell
+    4300100: -DC_Shell
+    4300102: -DC_Shell
+    4300104: -DC_Shell
+    4300106: -DC_Shell
+    4300108: -DC_Shell
+    4300110: -DC_Shell
+    4300112: -DC_Shell
+    4300114: -DC_Shell
+    4300116: -DC_Shell
+    4300118: -DC_Shell
+    4300120: -DC_Shell
+    4300122: -DC_Shell
+    4300124: -DC_Shell
+    4300126: -DC_Shell
+    4300128: -DC_Shell
+    4300130: -DC_Shell
+    4300132: -DC_Shell
+    4300134: -DC_Shell
+    4300136: -DC_Shell
+    4300138: -DC_Shell
+    4300140: -DC_Shell
+    4300142: -DC_Shell
+    4300144: -DC_Shell
+    4300146: -DC_Shell
+    4300148: -DC_Shell
+    4300150: -DC_Shell
+    4300152: -DC_Shell
+    4300154: -DC_Shell
+    4300156: -DC_Shell
+    4300158: -DC_Shell
+    4300160: -DC_Shell
+    4300162: -DC_Shell
+    4300164: -DC_Shell
+    4300166: -DC_Shell
+    4300168: -DC_Shell
+    4300170: -DC_Shell
+    4300172: -DC_Shell
+    4300174: -DC_Shell
+    4300176: -DC_Shell
+    4300178: -DC_Shell
+    4300180: -DC_Shell
+    4300182: -DC_Shell
+    4300184: -DC_Shell
+    4300186: -DC_Shell
+    4300188: -DC_Shell
+    4300190: -DC_Shell
+    4300192: -DC_Shell
+    4300194: -DC_Shell
+    4300196: -DC_Shell
+    4300198: -DC_Shell
+    4300200: -DC_Shell
+    4300202: -DC_Shell
+    4300204: -DC_Shell
+    4300206: -DC_Shell
+    4300208: -DC_Shell
+    4300210: -DC_Shell
+    4300212: -DC_Shell
+    4300214: -DC_Shell
+    4300216: -DC_Shell
+    4300218: -DC_Shell
+    4300220: -DC_Shell
+    4300222: -DC_Shell
+    4300224: -DC_Shell
+    4300226: -DC_Shell
+    4300228: -DC_Shell
+    4300230: -DC_Shell
+    4300232: -DC_Shell
+    4300234: -DC_Shell
+    4300236: -DC_Shell
+    4300238: -DC_Shell
+    4300240: -DC_Shell
+    4300242: -DC_Shell
+    4300244: -DC_Shell
+    4300246: -DC_Shell
+    4300248: -DC_Shell
+    4300250: -DC_Shell
+    4300252: -DC_Shell
+    4300254: -DC_Shell
+    4300256: -DC_Shell
+    4300258: -DC_Shell
+    4300260: -DC_Shell
+    4300262: -DC_Shell
+    4300264: -DC_Shell
+    4300266: -DC_Shell
+    4300268: -DC_Shell
+    4300270: -DC_Shell
+    4300272: -DC_Shell
+    4300274: -DC_Shell
+    4300276: -DC_Shell
+    4300278: -DC_Shell
+    4300280: -DC_Shell
+    4300282: -DC_Shell
+    4300284: -DC_Shell
+    4300286: -DC_Shell
+    4300288: -DC_Shell
+    4300290: -DC_Shell
+    4300292: -DC_Shell
+    4300294: -DC_Shell
+    4300296: -DC_Shell
+    4300298: -DC_Shell
+    4300300: -DC_Shell
+    4300302: -DC_Shell
+    4300304: -DC_Shell
+    4300306: -DC_Shell
+    4300308: -DC_Shell
+    4300310: -DC_Shell
+    4300312: -DC_Shell
+    4300314: -DC_Shell
+    4300316: -DC_Shell
+    4300318: -DC_Shell
+    4300320: -DC_Shell
+    4300322: -DC_Shell
+    4300324: -DC_Shell
+    4300326: -DC_Shell
+    4300328: -DC_Shell
+    4300330: -DC_Shell
+    4300332: -DC_Shell
+    4300334: -DC_Shell
+    4300336: -DC_Shell
+    4300338: -DC_Shell
+    4300340: -DC_Shell
+    4300342: -DC_Shell
+    4300344: -DC_Shell
+    4300346: -DC_Shell
+    4300348: -DC_Shell
+    4300350: -DC_Shell
+    4300352: -DC_Shell
+    4300354: -DC_Shell
+    4300356: -DC_Shell
+    4300358: -DC_Shell
+    4300360: -DC_Shell
+    4300362: -DC_Shell
+    4300364: -DC_Shell
+    4300366: -DC_Shell
+    4300368: -DC_Shell
+    4300370: -DC_Shell
+    4300372: -DC_Shell
+    4300374: -DC_Shell
+    4300376: -DC_Shell
+    4300378: -DC_Shell
+    4300380: -DC_Shell
+    4300382: -DC_Shell
+    4300384: -DC_Shell
+    4300386: -DC_Shell
+    4300388: -DC_Shell
+    4300390: -DC_Shell
+    4300392: -DC_Shell
+    4300394: -DC_Shell
+    4300396: -DC_Shell
+    4300398: -DC_Shell
+    4300400: -DC_Shell
+    4300402: -DC_Shell
+    4300404: -DC_Shell
+    4300406: -DC_Shell
+    4300408: -DC_Shell
+    4300410: -DC_Shell
+    4300412: -DC_Shell
+    4300414: -DC_Shell
+    4300416: -DC_Shell
+    4300418: -DC_Shell
+    4300420: -DC_Shell
+    4300422: -DC_Shell
+    4300424: -DC_Shell
+    4300426: -DC_Shell
+    4300428: -DC_Shell
+    4300430: -DC_Shell
+    4300432: -DC_Shell
+    4300434: -DC_Shell
+    4300436: -DC_Shell
+    4300438: -DC_Shell
+    4300440: -DC_Shell
+    4300442: -DC_Shell
+    4300444: -DC_Shell
+    4300446: -DC_Shell
+    4300448: -DC_Shell
+    4300450: -DC_Shell
+    4300452: -DC_Shell
+    4300454: -DC_Shell
+    4300456: -DC_Shell
+    4300458: -DC_Shell
+    4300460: -DC_Shell
+    4300462: -DC_Shell
+    4300464: -DC_Shell
+    4300466: -DC_Shell
+    4300468: -DC_Shell
+    4300470: -DC_Shell
+    4300472: -DC_Shell
+    4300474: -DC_Shell
+    4300476: -DC_Shell
+    4300478: -DC_Shell
+    4300480: -DC_Shell
+    4300482: -DC_Shell
+    4300484: -DC_Shell
+    4300486: -DC_Shell
+    4300488: -DC_Shell
+    4300490: -DC_Shell
+    4300492: -DC_Shell
+    4300494: -DC_Shell
+    4300496: -DC_Shell
+    4300498: -DC_Shell
+    4300500: -DC_Shell
+    4300502: -DC_Shell
+    4300504: -DC_Shell
+    4300506: -DC_Shell
+    4300508: -DC_Shell
+    4300510: -DC_Shell
+    4300512: -DC_Shell
+    4300514: -DC_Shell
+    4300516: -DC_Shell
+    4300518: -DC_Shell
+    4300520: -DC_Shell
+    4300522: -DC_Shell
+    4300524: -DC_Shell
+    4300526: -DC_Shell
+    4300528: -DC_Shell
+    4300530: -DC_Shell
+    4300532: -DC_Shell
+    4300534: -DC_Shell
+    4300536: -DC_Shell
+    4300538: -DC_Shell
+    4300540: -DC_Shell
+    4300542: -DC_Shell
+    4300544: -DC_Shell
+    4300546: -DC_Shell
+    4300548: -DC_Shell
+    4300550: -DC_Shell
+    4300552: -DC_Shell
+    4300554: -DC_Shell
+    4300556: -DC_Shell
+    4300558: -DC_Shell
+    4300560: -DC_Shell
+    4300562: -DC_Shell
+    4300564: -DC_Shell
+    4300566: -DC_Shell
+    4300568: -DC_Shell
+    4300570: -DC_Shell
+    4300572: -DC_Shell
+    4300574: -DC_Shell
+    4300576: -DC_Shell
+    4300578: -DC_Shell
+    4300580: -DC_Shell
+    4300582: -DC_Shell
+    4300584: -DC_Shell
+    4300586: -DC_Shell
+    4300588: -DC_Shell
+    4300590: -DC_Shell
+    4300592: -DC_Shell
+    4300594: -DC_Shell
+    4300596: -DC_Shell
+    4300598: -DC_Shell
+    4300600: -DC_Shell
+    4300602: -DC_Shell
+    4300604: -DC_Shell
+    4300606: -DC_Shell
+    4300608: -DC_Shell
+    4300610: -DC_Shell
+    4300612: -DC_Shell
+    4300614: -DC_Shell
+    4300616: -DC_Shell
+    4300618: -DC_Shell
+    4300620: -DC_Shell
+    4300622: -DC_Shell
+    4300624: -DC_Shell
+    4300626: -DC_Shell
+    4300628: -DC_Shell
+    4300630: -DC_Shell
+    4300632: -DC_Shell
+    4300634: -DC_Shell
+    4300636: -DC_Shell
+    4300638: -DC_Shell
+    4300640: -DC_Shell
+    4300642: -DC_Shell
+    4300644: -DC_Shell
+    4300646: -DC_Shell
+    4300648: -DC_Shell
+    4300650: -DC_Shell
+    4300652: -DC_Shell
+    4300654: -DC_Shell
+    4300656: -DC_Shell
+    4300658: -DC_Shell
+    4300660: -DC_Shell
+    4300662: -DC_Shell
+    4300664: -DC_Shell
+    4300666: -DC_Shell
+    4300668: -DC_Shell
+    4300670: -DC_Shell
+    4300672: -DC_Shell
+    4300674: -DC_Shell
+    4300676: -DC_Shell
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

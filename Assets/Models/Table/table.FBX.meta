@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 3159f744576bc244291bd954a0de1df7
+timeCreated: 1455988401
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Layer:Accessories
+    100002: Layer:Accessories 1
+    100004: Layer:Accessories 2
+    100006: Layer:Accessories 3
+    100008: Layer:Accessories 4
+    100010: Layer:Accessories 5
+    100012: Layer:Accessories 6
+    100014: Layer:Chair
+    100016: Layer:Chair 1
+    100018: Layer:Computer
+    100020: Layer:Computer 1
+    100022: Layer:Computer 2
+    100024: Layer:CPU
+    100026: Layer:Dustbin
+    100028: Layer:HATCH
+    100030: Layer:Keyboard
+    100032: Layer:Keyboard 1
+    100034: Layer:Lady-Belt
+    100036: Layer:Lady-Body
+    100038: Layer:Lady-Body_MeshPart0
+    100040: Layer:Lady-Body_MeshPart1
+    100042: Layer:Lady-Body_MeshPart2
+    100044: Layer:Lady-Body_MeshPart3
+    100046: Layer:Lady-Body_MeshPart4
+    100048: Layer:Lady-Cornea
+    100050: Layer:Lady-Dress
+    100052: Layer:Lady-Dress_MeshPart0
+    100054: Layer:Lady-Dress_MeshPart1
+    100056: Layer:Lady-Eyelids
+    100058: Layer:Lady-Eyes
+    100060: Layer:Lady-Hair
+    100062: Layer:Lady-Lashes
+    100064: Layer:Lady-Mouth
+    100066: Layer:Lady-Nails
+    100068: Layer:Lady-Nostrils
+    100070: Layer:Lady-Shoes
+    100072: Layer:Lady-Shoes_MeshPart0
+    100074: Layer:Lady-Shoes_MeshPart1
+    100076: Layer:Lady-Shoes_MeshPart2
+    100078: Layer:Lady-Shoes_MeshPart3
+    100080: Layer:Lady-Shoes_MeshPart4
+    100082: Layer:Lady-Teeth
+    100084: Layer:Lady-Tongue
+    100086: Layer:Lady-Undergarments
+    100088: Layer:Laty-Lips
+    100090: Layer:Mouse & Pad
+    100092: Layer:Table
+    100094: Layer:Table 1
+    100096: Layer:Table 2
+    100098: Layer:Telephone
+    100100: Layer:Telephone 1
+    100102: Layer:Thread__InstyleTD01_jpg_010
+    100104: //RootNode
+    400000: Layer:Accessories
+    400002: Layer:Accessories 1
+    400004: Layer:Accessories 2
+    400006: Layer:Accessories 3
+    400008: Layer:Accessories 4
+    400010: Layer:Accessories 5
+    400012: Layer:Accessories 6
+    400014: Layer:Chair
+    400016: Layer:Chair 1
+    400018: Layer:Computer
+    400020: Layer:Computer 1
+    400022: Layer:Computer 2
+    400024: Layer:CPU
+    400026: Layer:Dustbin
+    400028: Layer:HATCH
+    400030: Layer:Keyboard
+    400032: Layer:Keyboard 1
+    400034: Layer:Lady-Belt
+    400036: Layer:Lady-Body
+    400038: Layer:Lady-Body_MeshPart0
+    400040: Layer:Lady-Body_MeshPart1
+    400042: Layer:Lady-Body_MeshPart2
+    400044: Layer:Lady-Body_MeshPart3
+    400046: Layer:Lady-Body_MeshPart4
+    400048: Layer:Lady-Cornea
+    400050: Layer:Lady-Dress
+    400052: Layer:Lady-Dress_MeshPart0
+    400054: Layer:Lady-Dress_MeshPart1
+    400056: Layer:Lady-Eyelids
+    400058: Layer:Lady-Eyes
+    400060: Layer:Lady-Hair
+    400062: Layer:Lady-Lashes
+    400064: Layer:Lady-Mouth
+    400066: Layer:Lady-Nails
+    400068: Layer:Lady-Nostrils
+    400070: Layer:Lady-Shoes
+    400072: Layer:Lady-Shoes_MeshPart0
+    400074: Layer:Lady-Shoes_MeshPart1
+    400076: Layer:Lady-Shoes_MeshPart2
+    400078: Layer:Lady-Shoes_MeshPart3
+    400080: Layer:Lady-Shoes_MeshPart4
+    400082: Layer:Lady-Teeth
+    400084: Layer:Lady-Tongue
+    400086: Layer:Lady-Undergarments
+    400088: Layer:Laty-Lips
+    400090: Layer:Mouse & Pad
+    400092: Layer:Table
+    400094: Layer:Table 1
+    400096: Layer:Table 2
+    400098: Layer:Telephone
+    400100: Layer:Telephone 1
+    400102: Layer:Thread__InstyleTD01_jpg_010
+    400104: //RootNode
+    2300000: Layer:Accessories
+    2300002: Layer:Accessories 1
+    2300004: Layer:Accessories 2
+    2300006: Layer:Accessories 3
+    2300008: Layer:Accessories 4
+    2300010: Layer:Accessories 5
+    2300012: Layer:Accessories 6
+    2300014: Layer:Chair
+    2300016: Layer:Chair 1
+    2300018: Layer:Computer
+    2300020: Layer:Computer 1
+    2300022: Layer:Computer 2
+    2300024: Layer:CPU
+    2300026: Layer:Dustbin
+    2300028: Layer:HATCH
+    2300030: Layer:Keyboard
+    2300032: Layer:Keyboard 1
+    2300034: Layer:Lady-Belt
+    2300036: Layer:Lady-Body_MeshPart0
+    2300038: Layer:Lady-Body_MeshPart1
+    2300040: Layer:Lady-Body_MeshPart2
+    2300042: Layer:Lady-Body_MeshPart3
+    2300044: Layer:Lady-Body_MeshPart4
+    2300046: Layer:Lady-Cornea
+    2300048: Layer:Lady-Dress_MeshPart0
+    2300050: Layer:Lady-Dress_MeshPart1
+    2300052: Layer:Lady-Eyelids
+    2300054: Layer:Lady-Eyes
+    2300056: Layer:Lady-Hair
+    2300058: Layer:Lady-Lashes
+    2300060: Layer:Lady-Mouth
+    2300062: Layer:Lady-Nails
+    2300064: Layer:Lady-Nostrils
+    2300066: Layer:Lady-Shoes_MeshPart0
+    2300068: Layer:Lady-Shoes_MeshPart1
+    2300070: Layer:Lady-Shoes_MeshPart2
+    2300072: Layer:Lady-Shoes_MeshPart3
+    2300074: Layer:Lady-Shoes_MeshPart4
+    2300076: Layer:Lady-Teeth
+    2300078: Layer:Lady-Tongue
+    2300080: Layer:Lady-Undergarments
+    2300082: Layer:Laty-Lips
+    2300084: Layer:Mouse & Pad
+    2300086: Layer:Table
+    2300088: Layer:Table 1
+    2300090: Layer:Table 2
+    2300092: Layer:Telephone
+    2300094: Layer:Telephone 1
+    2300096: Layer:Thread__InstyleTD01_jpg_010
+    3300000: Layer:Accessories
+    3300002: Layer:Accessories 1
+    3300004: Layer:Accessories 2
+    3300006: Layer:Accessories 3
+    3300008: Layer:Accessories 4
+    3300010: Layer:Accessories 5
+    3300012: Layer:Accessories 6
+    3300014: Layer:Chair
+    3300016: Layer:Chair 1
+    3300018: Layer:Computer
+    3300020: Layer:Computer 1
+    3300022: Layer:Computer 2
+    3300024: Layer:CPU
+    3300026: Layer:Dustbin
+    3300028: Layer:HATCH
+    3300030: Layer:Keyboard
+    3300032: Layer:Keyboard 1
+    3300034: Layer:Lady-Belt
+    3300036: Layer:Lady-Body_MeshPart0
+    3300038: Layer:Lady-Body_MeshPart1
+    3300040: Layer:Lady-Body_MeshPart2
+    3300042: Layer:Lady-Body_MeshPart3
+    3300044: Layer:Lady-Body_MeshPart4
+    3300046: Layer:Lady-Cornea
+    3300048: Layer:Lady-Dress_MeshPart0
+    3300050: Layer:Lady-Dress_MeshPart1
+    3300052: Layer:Lady-Eyelids
+    3300054: Layer:Lady-Eyes
+    3300056: Layer:Lady-Hair
+    3300058: Layer:Lady-Lashes
+    3300060: Layer:Lady-Mouth
+    3300062: Layer:Lady-Nails
+    3300064: Layer:Lady-Nostrils
+    3300066: Layer:Lady-Shoes_MeshPart0
+    3300068: Layer:Lady-Shoes_MeshPart1
+    3300070: Layer:Lady-Shoes_MeshPart2
+    3300072: Layer:Lady-Shoes_MeshPart3
+    3300074: Layer:Lady-Shoes_MeshPart4
+    3300076: Layer:Lady-Teeth
+    3300078: Layer:Lady-Tongue
+    3300080: Layer:Lady-Undergarments
+    3300082: Layer:Laty-Lips
+    3300084: Layer:Mouse & Pad
+    3300086: Layer:Table
+    3300088: Layer:Table 1
+    3300090: Layer:Table 2
+    3300092: Layer:Telephone
+    3300094: Layer:Telephone 1
+    3300096: Layer:Thread__InstyleTD01_jpg_010
+    4300000: Layer:Lady-Dress_MeshPart0
+    4300002: Layer:Lady-Dress_MeshPart1
+    4300004: Layer:Lady-Body_MeshPart0
+    4300006: Layer:Lady-Body_MeshPart1
+    4300008: Layer:Lady-Body_MeshPart2
+    4300010: Layer:Lady-Body_MeshPart3
+    4300012: Layer:Lady-Body_MeshPart4
+    4300014: Layer:Accessories
+    4300016: Layer:Telephone
+    4300018: Layer:Computer
+    4300020: Layer:Table
+    4300022: Layer:Table
+    4300024: Layer:Lady-Shoes_MeshPart0
+    4300026: Layer:Lady-Shoes_MeshPart1
+    4300028: Layer:Lady-Shoes_MeshPart2
+    4300030: Layer:Lady-Shoes_MeshPart3
+    4300032: Layer:Lady-Shoes_MeshPart4
+    4300034: Layer:Accessories
+    4300036: Layer:Computer
+    4300038: Layer:Lady-Hair
+    4300040: Layer:Mouse & Pad
+    4300042: Layer:Laty-Lips
+    4300044: Layer:CPU
+    4300046: Layer:Chair
+    4300048: Layer:Lady-Teeth
+    4300050: Layer:Keyboard
+    4300052: Layer:Lady-Cornea
+    4300054: Layer:Lady-Nails
+    4300056: Layer:Chair
+    4300058: Layer:Accessories
+    4300060: Layer:Lady-Tongue
+    4300062: Layer:Lady-Mouth
+    4300064: Layer:Lady-Eyelids
+    4300066: Layer:Accessories
+    4300068: Layer:Computer
+    4300070: Layer:Lady-Undergarments
+    4300072: Layer:Accessories
+    4300074: Layer:Lady-Eyes
+    4300076: Layer:Lady-Belt
+    4300078: Layer:Table
+    4300080: Layer:Dustbin
+    4300082: Layer:Accessories
+    4300084: Layer:Keyboard
+    4300086: Layer:Thread__InstyleTD01_jpg_010
+    4300088: Layer:Lady-Lashes
+    4300090: Layer:Telephone
+    4300092: Layer:Accessories
+    4300094: Layer:Lady-Nostrils
+    4300096: Layer:HATCH
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
