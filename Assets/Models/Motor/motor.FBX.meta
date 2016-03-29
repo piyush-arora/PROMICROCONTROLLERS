@@ -1,103 +1,337 @@
 fileFormatVersion: 2
 guid: e2d95bb4b3584144390c586075085500
-timeCreated: 1457959520
+timeCreated: 1458943134
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: DCmotor 1
-    100002: DirectConnectNode_17
-    100004: DirectConnectNode_17-DC_Shell
-    100006: DirectConnectNode_17-DC_Shell 1
-    100008: DirectConnectNode_17-DC_Shell 10
-    100010: DirectConnectNode_17-DC_Shell 11
-    100012: DirectConnectNode_17-DC_Shell 12
-    100014: DirectConnectNode_17-DC_Shell 13
-    100016: DirectConnectNode_17-DC_Shell 14
-    100018: DirectConnectNode_17-DC_Shell 15
-    100020: DirectConnectNode_17-DC_Shell 2
-    100022: DirectConnectNode_17-DC_Shell 3
-    100024: DirectConnectNode_17-DC_Shell 4
-    100026: DirectConnectNode_17-DC_Shell 5
-    100028: DirectConnectNode_17-DC_Shell 6
-    100030: DirectConnectNode_17-DC_Shell 7
-    100032: DirectConnectNode_17-DC_Shell 8
-    100034: DirectConnectNode_17-DC_Shell 9
-    100036: IGES Model Data
-    100038: //RootNode
-    100040: DCmotor-DC_Brep
-    400000: DCmotor 1
-    400002: DirectConnectNode_17
-    400004: DirectConnectNode_17-DC_Shell
-    400006: DirectConnectNode_17-DC_Shell 1
-    400008: DirectConnectNode_17-DC_Shell 10
-    400010: DirectConnectNode_17-DC_Shell 11
-    400012: DirectConnectNode_17-DC_Shell 12
-    400014: DirectConnectNode_17-DC_Shell 13
-    400016: DirectConnectNode_17-DC_Shell 14
-    400018: DirectConnectNode_17-DC_Shell 15
-    400020: DirectConnectNode_17-DC_Shell 2
-    400022: DirectConnectNode_17-DC_Shell 3
-    400024: DirectConnectNode_17-DC_Shell 4
-    400026: DirectConnectNode_17-DC_Shell 5
-    400028: DirectConnectNode_17-DC_Shell 6
-    400030: DirectConnectNode_17-DC_Shell 7
-    400032: DirectConnectNode_17-DC_Shell 8
-    400034: DirectConnectNode_17-DC_Shell 9
-    400036: IGES Model Data
-    400038: //RootNode
-    400040: DCmotor-DC_Brep
-    2300000: DirectConnectNode_17-DC_Shell
-    2300002: DirectConnectNode_17-DC_Shell 1
-    2300004: DirectConnectNode_17-DC_Shell 10
-    2300006: DirectConnectNode_17-DC_Shell 11
-    2300008: DirectConnectNode_17-DC_Shell 12
-    2300010: DirectConnectNode_17-DC_Shell 13
-    2300012: DirectConnectNode_17-DC_Shell 14
-    2300014: DirectConnectNode_17-DC_Shell 15
-    2300016: DirectConnectNode_17-DC_Shell 2
-    2300018: DirectConnectNode_17-DC_Shell 3
-    2300020: DirectConnectNode_17-DC_Shell 4
-    2300022: DirectConnectNode_17-DC_Shell 5
-    2300024: DirectConnectNode_17-DC_Shell 6
-    2300026: DirectConnectNode_17-DC_Shell 7
-    2300028: DirectConnectNode_17-DC_Shell 8
-    2300030: DirectConnectNode_17-DC_Shell 9
-    2300032: DCmotor-DC_Brep
-    3300000: DirectConnectNode_17-DC_Shell
-    3300002: DirectConnectNode_17-DC_Shell 1
-    3300004: DirectConnectNode_17-DC_Shell 10
-    3300006: DirectConnectNode_17-DC_Shell 11
-    3300008: DirectConnectNode_17-DC_Shell 12
-    3300010: DirectConnectNode_17-DC_Shell 13
-    3300012: DirectConnectNode_17-DC_Shell 14
-    3300014: DirectConnectNode_17-DC_Shell 15
-    3300016: DirectConnectNode_17-DC_Shell 2
-    3300018: DirectConnectNode_17-DC_Shell 3
-    3300020: DirectConnectNode_17-DC_Shell 4
-    3300022: DirectConnectNode_17-DC_Shell 5
-    3300024: DirectConnectNode_17-DC_Shell 6
-    3300026: DirectConnectNode_17-DC_Shell 7
-    3300028: DirectConnectNode_17-DC_Shell 8
-    3300030: DirectConnectNode_17-DC_Shell 9
-    3300032: DCmotor-DC_Brep
-    4300000: DirectConnectNode_17-DC_Shell
-    4300002: DirectConnectNode_17-DC_Shell
-    4300004: DirectConnectNode_17-DC_Shell
-    4300006: DirectConnectNode_17-DC_Shell
-    4300008: DirectConnectNode_17-DC_Shell
-    4300010: DirectConnectNode_17-DC_Shell
-    4300012: DirectConnectNode_17-DC_Shell
-    4300014: DirectConnectNode_17-DC_Shell
-    4300016: DirectConnectNode_17-DC_Shell
-    4300018: DirectConnectNode_17-DC_Shell
-    4300020: DirectConnectNode_17-DC_Shell
-    4300022: DirectConnectNode_17-DC_Shell
-    4300024: DirectConnectNode_17-DC_Shell
-    4300026: DirectConnectNode_17-DC_Shell
-    4300028: DirectConnectNode_17-DC_Shell
-    4300030: DirectConnectNode_17-DC_Shell
-    4300032: DCmotor-DC_Brep
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  11'
+    100008: '  12'
+    100010: '  13'
+    100012: '  14'
+    100014: '  15'
+    100016: '  16'
+    100018: '  17'
+    100020: '  18'
+    100022: '  19'
+    100024: '  2'
+    100026: '  20'
+    100028: '  21'
+    100030: '  3'
+    100032: '  4'
+    100034: '  5'
+    100036: '  6'
+    100038: '  7'
+    100040: '  8'
+    100042: '  9'
+    100044: ' 1'
+    100046: ' 10'
+    100048: ' 11'
+    100050: ' 12'
+    100052: ' 13'
+    100054: ' 14'
+    100056: ' 15'
+    100058: ' 16'
+    100060: ' 17'
+    100062: ' 18'
+    100064: ' 19'
+    100066: ' 2'
+    100068: ' 20'
+    100070: ' 21'
+    100072: ' 3'
+    100074: ' 4'
+    100076: ' 5'
+    100078: ' 6'
+    100080: ' 7'
+    100082: ' 8'
+    100084: ' 9'
+    100086: -DC_Brep
+    100088: -DC_Brep 1
+    100090: -DC_Brep 10
+    100092: -DC_Brep 11
+    100094: -DC_Brep 12
+    100096: -DC_Brep 13
+    100098: -DC_Brep 14
+    100100: -DC_Brep 15
+    100102: -DC_Brep 16
+    100104: -DC_Brep 17
+    100106: -DC_Brep 18
+    100108: -DC_Brep 19
+    100110: -DC_Brep 2
+    100112: -DC_Brep 20
+    100114: -DC_Brep 3
+    100116: -DC_Brep 4
+    100118: -DC_Brep 5
+    100120: -DC_Brep 6
+    100122: -DC_Brep 7
+    100124: -DC_Brep 8
+    100126: -DC_Brep 9
+    100128: ELENCA MOTOR HOUSING 01_Predeterminado
+    100130: ELENCA MOTOR HOUSING 01_Predeterminado 1
+    100132: ELENCO 2-IN-1 GEAR MOTOR ASSY  MODEL# 21-130 1
+    100134: ELENCO ARMATURE 01_Predeterminado
+    100136: ELENCO ARMATURE 01_Predeterminado 1
+    100138: ELENCO COLLAR 01
+    100140: ELENCO COLLAR 01 1
+    100142: ELENCO COLLAR 01 2
+    100144: ELENCO COLLAR 01 3
+    100146: ELENCO CRANK ARM 01
+    100148: ELENCO CRANK ARM 01 1
+    100150: ELENCO CRANK ARM 01 2
+    100152: ELENCO CRANK ARM 01 3
+    100154: ELENCO DC Motor 3V_Predeterminado
+    100156: ELENCO DC Motor 3V_Predeterminado 1
+    100158: ELENCO FRONT BUSHING_Predeterminado
+    100160: ELENCO FRONT BUSHING_Predeterminado 1
+    100162: ELENCO GEAR BOX 01
+    100164: ELENCO GEAR BOX 01 1
+    100166: ELENCO MOTOR BACK 01_Predeterminado
+    100168: ELENCO MOTOR BACK 01_Predeterminado 1
+    100170: ELENCO PINION  8T 01
+    100172: ELENCO PINION  8T 01 1
+    100174: Enrolamento3V_Predeterminado
+    100176: Enrolamento3V_Predeterminado 1
+    100178: Enrolamento3V_Predeterminado 2
+    100180: Enrolamento3V_Predeterminado 3
+    100182: Enrolamento3V_Predeterminado 4
+    100184: Enrolamento3V_Predeterminado 5
+    100186: //RootNode
+    100188: NONE
+    100190: NONE 1
+    100192: NONE 10
+    100194: NONE 11
+    100196: NONE 12
+    100198: NONE 13
+    100200: NONE 14
+    100202: NONE 15
+    100204: NONE 16
+    100206: NONE 17
+    100208: NONE 18
+    100210: NONE 19
+    100212: NONE 2
+    100214: NONE 20
+    100216: NONE 3
+    100218: NONE 4
+    100220: NONE 5
+    100222: NONE 6
+    100224: NONE 7
+    100226: NONE 8
+    100228: NONE 9
+    100230: pCOMPOUND GEAR 40T X 10T GREEN R01
+    100232: pCOMPOUND GEAR 40T X 10T GREEN R01 1
+    100234: pCOMPOUND GEAR 40T X 10T RED R01
+    100236: pCOMPOUND GEAR 40T X 10T RED R01 1
+    100238: pCROWN GEAR 36T X 10T R01
+    100240: pCROWN GEAR 36T X 10T R01 1
+    100242: SHAFT 2 X 40
+    100244: SHAFT 2 X 40 1
+    100246: SHAFT 3 X 52
+    100248: SHAFT 3 X 52 1
+    100250: spur gear_am_Metric - Spur gear 0.5M 40T 20PA 1.25FW ---S40N75H50L2.0N
+    100252: spur gear_am_Metric - Spur gear 0.5M 40T 20PA 1.25FW ---S40N75H50L2.0N
+      1
+    100254: Terminal3V_Predeterminado
+    100256: Terminal3V_Predeterminado 1
+    100258: Terminal3V_Predeterminado 2
+    100260: Terminal3V_Predeterminado 3
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  11'
+    400008: '  12'
+    400010: '  13'
+    400012: '  14'
+    400014: '  15'
+    400016: '  16'
+    400018: '  17'
+    400020: '  18'
+    400022: '  19'
+    400024: '  2'
+    400026: '  20'
+    400028: '  21'
+    400030: '  3'
+    400032: '  4'
+    400034: '  5'
+    400036: '  6'
+    400038: '  7'
+    400040: '  8'
+    400042: '  9'
+    400044: ' 1'
+    400046: ' 10'
+    400048: ' 11'
+    400050: ' 12'
+    400052: ' 13'
+    400054: ' 14'
+    400056: ' 15'
+    400058: ' 16'
+    400060: ' 17'
+    400062: ' 18'
+    400064: ' 19'
+    400066: ' 2'
+    400068: ' 20'
+    400070: ' 21'
+    400072: ' 3'
+    400074: ' 4'
+    400076: ' 5'
+    400078: ' 6'
+    400080: ' 7'
+    400082: ' 8'
+    400084: ' 9'
+    400086: -DC_Brep
+    400088: -DC_Brep 1
+    400090: -DC_Brep 10
+    400092: -DC_Brep 11
+    400094: -DC_Brep 12
+    400096: -DC_Brep 13
+    400098: -DC_Brep 14
+    400100: -DC_Brep 15
+    400102: -DC_Brep 16
+    400104: -DC_Brep 17
+    400106: -DC_Brep 18
+    400108: -DC_Brep 19
+    400110: -DC_Brep 2
+    400112: -DC_Brep 20
+    400114: -DC_Brep 3
+    400116: -DC_Brep 4
+    400118: -DC_Brep 5
+    400120: -DC_Brep 6
+    400122: -DC_Brep 7
+    400124: -DC_Brep 8
+    400126: -DC_Brep 9
+    400128: ELENCA MOTOR HOUSING 01_Predeterminado
+    400130: ELENCA MOTOR HOUSING 01_Predeterminado 1
+    400132: ELENCO 2-IN-1 GEAR MOTOR ASSY  MODEL# 21-130 1
+    400134: ELENCO ARMATURE 01_Predeterminado
+    400136: ELENCO ARMATURE 01_Predeterminado 1
+    400138: ELENCO COLLAR 01
+    400140: ELENCO COLLAR 01 1
+    400142: ELENCO COLLAR 01 2
+    400144: ELENCO COLLAR 01 3
+    400146: ELENCO CRANK ARM 01
+    400148: ELENCO CRANK ARM 01 1
+    400150: ELENCO CRANK ARM 01 2
+    400152: ELENCO CRANK ARM 01 3
+    400154: ELENCO DC Motor 3V_Predeterminado
+    400156: ELENCO DC Motor 3V_Predeterminado 1
+    400158: ELENCO FRONT BUSHING_Predeterminado
+    400160: ELENCO FRONT BUSHING_Predeterminado 1
+    400162: ELENCO GEAR BOX 01
+    400164: ELENCO GEAR BOX 01 1
+    400166: ELENCO MOTOR BACK 01_Predeterminado
+    400168: ELENCO MOTOR BACK 01_Predeterminado 1
+    400170: ELENCO PINION  8T 01
+    400172: ELENCO PINION  8T 01 1
+    400174: Enrolamento3V_Predeterminado
+    400176: Enrolamento3V_Predeterminado 1
+    400178: Enrolamento3V_Predeterminado 2
+    400180: Enrolamento3V_Predeterminado 3
+    400182: Enrolamento3V_Predeterminado 4
+    400184: Enrolamento3V_Predeterminado 5
+    400186: //RootNode
+    400188: NONE
+    400190: NONE 1
+    400192: NONE 10
+    400194: NONE 11
+    400196: NONE 12
+    400198: NONE 13
+    400200: NONE 14
+    400202: NONE 15
+    400204: NONE 16
+    400206: NONE 17
+    400208: NONE 18
+    400210: NONE 19
+    400212: NONE 2
+    400214: NONE 20
+    400216: NONE 3
+    400218: NONE 4
+    400220: NONE 5
+    400222: NONE 6
+    400224: NONE 7
+    400226: NONE 8
+    400228: NONE 9
+    400230: pCOMPOUND GEAR 40T X 10T GREEN R01
+    400232: pCOMPOUND GEAR 40T X 10T GREEN R01 1
+    400234: pCOMPOUND GEAR 40T X 10T RED R01
+    400236: pCOMPOUND GEAR 40T X 10T RED R01 1
+    400238: pCROWN GEAR 36T X 10T R01
+    400240: pCROWN GEAR 36T X 10T R01 1
+    400242: SHAFT 2 X 40
+    400244: SHAFT 2 X 40 1
+    400246: SHAFT 3 X 52
+    400248: SHAFT 3 X 52 1
+    400250: spur gear_am_Metric - Spur gear 0.5M 40T 20PA 1.25FW ---S40N75H50L2.0N
+    400252: spur gear_am_Metric - Spur gear 0.5M 40T 20PA 1.25FW ---S40N75H50L2.0N
+      1
+    400254: Terminal3V_Predeterminado
+    400256: Terminal3V_Predeterminado 1
+    400258: Terminal3V_Predeterminado 2
+    400260: Terminal3V_Predeterminado 3
+    2300000: -DC_Brep
+    2300002: -DC_Brep 1
+    2300004: -DC_Brep 10
+    2300006: -DC_Brep 11
+    2300008: -DC_Brep 12
+    2300010: -DC_Brep 13
+    2300012: -DC_Brep 14
+    2300014: -DC_Brep 15
+    2300016: -DC_Brep 16
+    2300018: -DC_Brep 17
+    2300020: -DC_Brep 18
+    2300022: -DC_Brep 19
+    2300024: -DC_Brep 2
+    2300026: -DC_Brep 20
+    2300028: -DC_Brep 3
+    2300030: -DC_Brep 4
+    2300032: -DC_Brep 5
+    2300034: -DC_Brep 6
+    2300036: -DC_Brep 7
+    2300038: -DC_Brep 8
+    2300040: -DC_Brep 9
+    3300000: -DC_Brep
+    3300002: -DC_Brep 1
+    3300004: -DC_Brep 10
+    3300006: -DC_Brep 11
+    3300008: -DC_Brep 12
+    3300010: -DC_Brep 13
+    3300012: -DC_Brep 14
+    3300014: -DC_Brep 15
+    3300016: -DC_Brep 16
+    3300018: -DC_Brep 17
+    3300020: -DC_Brep 18
+    3300022: -DC_Brep 19
+    3300024: -DC_Brep 2
+    3300026: -DC_Brep 20
+    3300028: -DC_Brep 3
+    3300030: -DC_Brep 4
+    3300032: -DC_Brep 5
+    3300034: -DC_Brep 6
+    3300036: -DC_Brep 7
+    3300038: -DC_Brep 8
+    3300040: -DC_Brep 9
+    4300000: -DC_Brep
+    4300002: -DC_Brep
+    4300004: -DC_Brep
+    4300006: -DC_Brep
+    4300008: -DC_Brep
+    4300010: -DC_Brep
+    4300012: -DC_Brep
+    4300014: -DC_Brep
+    4300016: -DC_Brep
+    4300018: -DC_Brep
+    4300020: -DC_Brep
+    4300022: -DC_Brep
+    4300024: -DC_Brep
+    4300026: -DC_Brep
+    4300028: -DC_Brep
+    4300030: -DC_Brep
+    4300032: -DC_Brep
+    4300034: -DC_Brep
+    4300036: -DC_Brep
+    4300038: -DC_Brep
+    4300040: -DC_Brep
     9500000: //RootNode
   materials:
     importMaterials: 1

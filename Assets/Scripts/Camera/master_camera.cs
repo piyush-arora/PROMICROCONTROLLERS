@@ -11,16 +11,17 @@ public class master_camera : MonoBehaviour {
 	public Camera back_camera;
 	public Camera bottom_camera;
 
+	public Camera Random_Camera;
 
 	void Start()
 	{
-		top_camera.enabled = true;
+		top_camera.enabled = false;
 		left_camera.enabled = false;
 		right_camera.enabled = false;
 		front_camera.enabled = false;
 		back_camera.enabled = false;
 		bottom_camera.enabled = false;
-
+		Random_Camera.enabled = true;
 
 
 	}
@@ -30,7 +31,18 @@ public class master_camera : MonoBehaviour {
 	{
 
 
-		if (Input.GetKeyDown ("1")) 
+		if (Input.GetKeyDown ("0")) 
+		{
+			top_camera.enabled = false;
+			left_camera.enabled = false;
+			right_camera.enabled = false;
+			front_camera.enabled = false;
+			back_camera.enabled = false;
+			bottom_camera.enabled = false;
+			Random_Camera.enabled = true;
+		}
+
+		else if (Input.GetKeyDown ("1")) 
 		{
 			top_camera.enabled = true;
 			left_camera.enabled = false;
@@ -38,7 +50,7 @@ public class master_camera : MonoBehaviour {
 			front_camera.enabled = false;
 			back_camera.enabled = false;
 			bottom_camera.enabled = false;
-
+			Random_Camera.enabled = false;
 		}
 
 		else if (Input.GetKeyDown ("2")) 
@@ -49,7 +61,7 @@ public class master_camera : MonoBehaviour {
 			front_camera.enabled = false;
 			back_camera.enabled = false;
 			bottom_camera.enabled = false;
-
+			Random_Camera.enabled = false;
 		}
 
 		else if (Input.GetKeyDown ("3")) 
@@ -60,7 +72,7 @@ public class master_camera : MonoBehaviour {
 			front_camera.enabled = false;
 			back_camera.enabled = false;
 			bottom_camera.enabled = false;
-
+			Random_Camera.enabled = false;
 		}
 
 		else if (Input.GetKeyDown ("4")) 
@@ -71,7 +83,7 @@ public class master_camera : MonoBehaviour {
 			front_camera.enabled = true;
 			back_camera.enabled = false;
 			bottom_camera.enabled = false;
-
+			Random_Camera.enabled = false;
 		}
 
 		else if (Input.GetKeyDown ("5")) 
@@ -82,7 +94,7 @@ public class master_camera : MonoBehaviour {
 			front_camera.enabled = false;
 			back_camera.enabled = true;
 			bottom_camera.enabled = false;
-
+			Random_Camera.enabled = false;
 		}
 
 		else if (Input.GetKeyDown ("6")) 
@@ -93,7 +105,7 @@ public class master_camera : MonoBehaviour {
 			front_camera.enabled = false;
 			back_camera.enabled = false;
 			bottom_camera.enabled = true;
-
+			Random_Camera.enabled = false;
 		}
 	
 	}

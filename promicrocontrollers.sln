@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{55F69929-B1A4-F2C8-B71B-09BAB7181D96}") = "promicrocontrollers", "Assembly-CSharp.csproj", "{E8349167-2FAD-72CB-2137-880E72530661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8349167-2FAD-72CB-2137-880E72530661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8349167-2FAD-72CB-2137-880E72530661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8349167-2FAD-72CB-2137-880E72530661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8349167-2FAD-72CB-2137-880E72530661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

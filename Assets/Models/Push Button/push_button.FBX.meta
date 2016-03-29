@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 9634f54f4ac6d944cb574b9df4dabf8b
+timeCreated: 1459190469
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 2'
+    100004: brep_1
+    100006: brep_1-DC_Shell
+    100008: brep_2
+    100010: brep_2-DC_Shell
+    100012: brep_3
+    100014: brep_3-DC_Shell
+    100016: brep_4
+    100018: brep_4-DC_Shell
+    100020: brep_5
+    100022: brep_5-DC_Shell
+    100024: brep_6
+    100026: brep_6-DC_Shell
+    100028: brep_7
+    100030: brep_7-DC_Shell
+    100032: brep_rep_0
+    100034: Document 1
+    100036: Document 2
+    100038: Mirror3
+    100040: Mirror3 1
+    100042: Mirror3 2
+    100044: Mirror3 3
+    100046: Mirror3-DC_Shell
+    100048: Mirror3-DC_Shell 1
+    100050: Mirror3-DC_Shell 2
+    100052: Mirror3-DC_Shell 3
+    100054: //RootNode
+    100056: shell_rep_0
+    400000: ' 1'
+    400002: ' 2'
+    400004: brep_1
+    400006: brep_1-DC_Shell
+    400008: brep_2
+    400010: brep_2-DC_Shell
+    400012: brep_3
+    400014: brep_3-DC_Shell
+    400016: brep_4
+    400018: brep_4-DC_Shell
+    400020: brep_5
+    400022: brep_5-DC_Shell
+    400024: brep_6
+    400026: brep_6-DC_Shell
+    400028: brep_7
+    400030: brep_7-DC_Shell
+    400032: brep_rep_0
+    400034: Document 1
+    400036: Document 2
+    400038: Mirror3
+    400040: Mirror3 1
+    400042: Mirror3 2
+    400044: Mirror3 3
+    400046: Mirror3-DC_Shell
+    400048: Mirror3-DC_Shell 1
+    400050: Mirror3-DC_Shell 2
+    400052: Mirror3-DC_Shell 3
+    400054: //RootNode
+    400056: shell_rep_0
+    2300000: brep_1-DC_Shell
+    2300002: brep_2-DC_Shell
+    2300004: brep_3-DC_Shell
+    2300006: brep_4-DC_Shell
+    2300008: brep_5-DC_Shell
+    2300010: brep_6-DC_Shell
+    2300012: brep_7-DC_Shell
+    2300014: Mirror3-DC_Shell
+    2300016: Mirror3-DC_Shell 1
+    2300018: Mirror3-DC_Shell 2
+    2300020: Mirror3-DC_Shell 3
+    3300000: brep_1-DC_Shell
+    3300002: brep_2-DC_Shell
+    3300004: brep_3-DC_Shell
+    3300006: brep_4-DC_Shell
+    3300008: brep_5-DC_Shell
+    3300010: brep_6-DC_Shell
+    3300012: brep_7-DC_Shell
+    3300014: Mirror3-DC_Shell
+    3300016: Mirror3-DC_Shell 1
+    3300018: Mirror3-DC_Shell 2
+    3300020: Mirror3-DC_Shell 3
+    4300000: brep_1-DC_Shell
+    4300002: brep_2-DC_Shell
+    4300004: brep_3-DC_Shell
+    4300006: brep_4-DC_Shell
+    4300008: brep_5-DC_Shell
+    4300010: brep_6-DC_Shell
+    4300012: brep_7-DC_Shell
+    4300014: Mirror3-DC_Shell
+    4300016: Mirror3-DC_Shell
+    4300018: Mirror3-DC_Shell
+    4300020: Mirror3-DC_Shell
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

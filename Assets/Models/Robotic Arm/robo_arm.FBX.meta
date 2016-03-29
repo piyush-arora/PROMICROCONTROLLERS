@@ -1,0 +1,803 @@
+fileFormatVersion: 2
+guid: 24e4aed82dff37244b7c241f50507b8b
+timeCreated: 1458939166
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm 1
+    100002: Arm 1-DC_Shell
+    100004: Arm 2
+    100006: Arm 2-DC_Shell
+    100008: Base Bolt
+    100010: Base Bolt 1
+    100012: Base Bolt 2
+    100014: Base Bolt-DC_Shell
+    100016: Base Bolt-DC_Shell 1
+    100018: Base Bolt-DC_Shell 2
+    100020: Base Gear
+    100022: Base Gear-DC_Shell
+    100024: Base Plate 1
+    100026: Base Plate 1-DC_Shell
+    100028: Base Plate 2
+    100030: Base Plate 2-DC_Shell
+    100032: Base Plate 3
+    100034: Base Plate 3-DC_Shell
+    100036: Base Plate 4
+    100038: Base Plate 4-DC_Shell
+    100040: Base Spacer
+    100042: Base Spacer 1
+    100044: Base Spacer 2
+    100046: Base Spacer-DC_Shell
+    100048: Base Spacer-DC_Shell 1
+    100050: Base Spacer-DC_Shell 2
+    100052: Bearing
+    100054: Bearing 1
+    100056: Bearing-DC_Shell
+    100058: Bearing-DC_Shell 1
+    100060: DirectConnectNode_100
+    100062: DirectConnectNode_104
+    100064: DirectConnectNode_108
+    100066: DirectConnectNode_11
+    100068: DirectConnectNode_113
+    100070: DirectConnectNode_118
+    100072: DirectConnectNode_122
+    100074: DirectConnectNode_126
+    100076: DirectConnectNode_130
+    100078: DirectConnectNode_134
+    100080: DirectConnectNode_138
+    100082: DirectConnectNode_143
+    100084: DirectConnectNode_147
+    100086: DirectConnectNode_15
+    100088: DirectConnectNode_151
+    100090: DirectConnectNode_155
+    100092: DirectConnectNode_159
+    100094: DirectConnectNode_163
+    100096: DirectConnectNode_167
+    100098: DirectConnectNode_171
+    100100: DirectConnectNode_175
+    100102: DirectConnectNode_179
+    100104: DirectConnectNode_183
+    100106: DirectConnectNode_187
+    100108: DirectConnectNode_19
+    100110: DirectConnectNode_191
+    100112: DirectConnectNode_195
+    100114: DirectConnectNode_200
+    100116: DirectConnectNode_204
+    100118: DirectConnectNode_209
+    100120: DirectConnectNode_213
+    100122: DirectConnectNode_217
+    100124: DirectConnectNode_221
+    100126: DirectConnectNode_225
+    100128: DirectConnectNode_229
+    100130: DirectConnectNode_23
+    100132: DirectConnectNode_233
+    100134: DirectConnectNode_237
+    100136: DirectConnectNode_241
+    100138: DirectConnectNode_245
+    100140: DirectConnectNode_249
+    100142: DirectConnectNode_253
+    100144: DirectConnectNode_257
+    100146: DirectConnectNode_259
+    100148: DirectConnectNode_27
+    100150: DirectConnectNode_3
+    100152: DirectConnectNode_31
+    100154: DirectConnectNode_35
+    100156: DirectConnectNode_39
+    100158: DirectConnectNode_43
+    100160: DirectConnectNode_47
+    100162: DirectConnectNode_51
+    100164: DirectConnectNode_55
+    100166: DirectConnectNode_59
+    100168: DirectConnectNode_63
+    100170: DirectConnectNode_67
+    100172: DirectConnectNode_7
+    100174: DirectConnectNode_71
+    100176: DirectConnectNode_75
+    100178: DirectConnectNode_79
+    100180: DirectConnectNode_83
+    100182: DirectConnectNode_87
+    100184: DirectConnectNode_91
+    100186: DirectConnectNode_96
+    100188: ENTIRE ASSEMBLE 1
+    100190: Front Arm 1
+    100192: Front Arm 1-DC_Shell
+    100194: Front Arm 2
+    100196: Front Arm 2-DC_Shell
+    100198: Gear 1
+    100200: Gear 1-DC_Shell
+    100202: Gear 2
+    100204: Gear 2-DC_Shell
+    100206: grip1
+    100208: grip1 1
+    100210: grip1 2
+    100212: grip1 3
+    100214: grip1-DC_Shell
+    100216: grip1-DC_Shell 1
+    100218: grip1-DC_Shell 2
+    100220: grip1-DC_Shell 3
+    100222: grip2
+    100224: grip2-DC_Shell
+    100226: grip4
+    100228: grip4 1
+    100230: grip4 2
+    100232: grip4 3
+    100234: grip4-DC_Shell
+    100236: grip4-DC_Shell 1
+    100238: grip4-DC_Shell 2
+    100240: grip4-DC_Shell 3
+    100242: grip5
+    100244: grip5 1
+    100246: grip5-DC_Shell
+    100248: grip5-DC_Shell 1
+    100250: ig_SingularSubfigureInstance10379
+    100252: ig_SingularSubfigureInstance10383
+    100254: ig_SingularSubfigureInstance11473
+    100256: ig_SingularSubfigureInstance12747
+    100258: ig_SingularSubfigureInstance14557
+    100260: ig_SingularSubfigureInstance15527
+    100262: ig_SingularSubfigureInstance15751
+    100264: ig_SingularSubfigureInstance15755
+    100266: ig_SingularSubfigureInstance16681
+    100268: ig_SingularSubfigureInstance17809
+    100270: ig_SingularSubfigureInstance1819
+    100272: ig_SingularSubfigureInstance18773
+    100274: ig_SingularSubfigureInstance18777
+    100276: ig_SingularSubfigureInstance19691
+    100278: ig_SingularSubfigureInstance20003
+    100280: ig_SingularSubfigureInstance20233
+    100282: ig_SingularSubfigureInstance20513
+    100284: ig_SingularSubfigureInstance20517
+    100286: ig_SingularSubfigureInstance20521
+    100288: ig_SingularSubfigureInstance20857
+    100290: ig_SingularSubfigureInstance20861
+    100292: ig_SingularSubfigureInstance20865
+    100294: ig_SingularSubfigureInstance20869
+    100296: ig_SingularSubfigureInstance20873
+    100298: ig_SingularSubfigureInstance21737
+    100300: ig_SingularSubfigureInstance22501
+    100302: ig_SingularSubfigureInstance23247
+    100304: ig_SingularSubfigureInstance23251
+    100306: ig_SingularSubfigureInstance23817
+    100308: ig_SingularSubfigureInstance23821
+    100310: ig_SingularSubfigureInstance2459
+    100312: ig_SingularSubfigureInstance26149
+    100314: ig_SingularSubfigureInstance28785
+    100316: ig_SingularSubfigureInstance28789
+    100318: ig_SingularSubfigureInstance28793
+    100320: ig_SingularSubfigureInstance28797
+    100322: ig_SingularSubfigureInstance28801
+    100324: ig_SingularSubfigureInstance28805
+    100326: ig_SingularSubfigureInstance28809
+    100328: ig_SingularSubfigureInstance28929
+    100330: ig_SingularSubfigureInstance28933
+    100332: ig_SingularSubfigureInstance28937
+    100334: ig_SingularSubfigureInstance28941
+    100336: ig_SingularSubfigureInstance28945
+    100338: ig_SingularSubfigureInstance28949
+    100340: ig_SingularSubfigureInstance28953
+    100342: ig_SingularSubfigureInstance28957
+    100344: ig_SingularSubfigureInstance2993
+    100346: ig_SingularSubfigureInstance3217
+    100348: ig_SingularSubfigureInstance3221
+    100350: ig_SingularSubfigureInstance3225
+    100352: ig_SingularSubfigureInstance34065
+    100354: ig_SingularSubfigureInstance3809
+    100356: ig_SingularSubfigureInstance3813
+    100358: ig_SingularSubfigureInstance3817
+    100360: ig_SingularSubfigureInstance39051
+    100362: ig_SingularSubfigureInstance39055
+    100364: ig_SingularSubfigureInstance4259
+    100366: ig_SingularSubfigureInstance4593
+    100368: ig_SingularSubfigureInstance4597
+    100370: ig_SingularSubfigureInstance4601
+    100372: ig_SingularSubfigureInstance4605
+    100374: ig_SingularSubfigureInstance851
+    100376: IGES Model Data
+    100378: Motor Head
+    100380: Motor Head 1
+    100382: Motor Head 2
+    100384: Motor Head 3
+    100386: Motor Head 4
+    100388: Motor Head-DC_Shell
+    100390: Motor Head-DC_Shell 1
+    100392: Motor Head-DC_Shell 2
+    100394: Motor Head-DC_Shell 3
+    100396: Motor Head-DC_Shell 4
+    100398: Mounting 1
+    100400: Mounting 1-DC_Shell
+    100402: Mounting 2
+    100404: Mounting 2-DC_Shell
+    100406: pin
+    100408: pin 1
+    100410: pin 2
+    100412: pin 3
+    100414: pin 4
+    100416: pin 5
+    100418: pin 6
+    100420: pin-DC_Shell
+    100422: pin-DC_Shell 1
+    100424: pin-DC_Shell 2
+    100426: pin-DC_Shell 3
+    100428: pin-DC_Shell 4
+    100430: pin-DC_Shell 5
+    100432: pin-DC_Shell 6
+    100434: //RootNode
+    100436: Servo Motor 16
+    100438: Servo Motor 16 1
+    100440: Servo Motor 16 2
+    100442: Servo Motor 16-DC_Shell
+    100444: Servo Motor 16-DC_Shell 1
+    100446: Servo Motor 16-DC_Shell 2
+    100448: Servo Motor 16-DC_Shell 3
+    100450: Servo Motor 16-DC_Shell 4
+    100452: Servo Motor 16-DC_Shell 5
+    100454: Servo Motor 6
+    100456: Servo Motor 6 1
+    100458: Servo Motor 6 2
+    100460: Servo Motor 6-DC_Shell
+    100462: Servo Motor 6-DC_Shell 1
+    100464: Servo Motor 6-DC_Shell 2
+    100466: Servo Motor 6-DC_Shell 3
+    100468: Servo Motor 6-DC_Shell 4
+    100470: Servo Motor 6-DC_Shell 5
+    100472: Shaft
+    100474: Shaft Gear
+    100476: Shaft Gear-DC_Shell
+    100478: Shaft-DC_Shell
+    100480: Spacer Plate 4-5
+    100482: Spacer Plate 4-5 1
+    100484: Spacer Plate 4-5 2
+    100486: Spacer Plate 4-5 3
+    100488: Spacer Plate 4-5-DC_Shell
+    100490: Spacer Plate 4-5-DC_Shell 1
+    100492: Spacer Plate 4-5-DC_Shell 2
+    100494: Spacer Plate 4-5-DC_Shell 3
+    100496: Upper Arm Spacer
+    100498: Upper Arm Spacer 1
+    100500: Upper Arm Spacer-DC_Shell
+    100502: Upper Arm Spacer-DC_Shell 1
+    100504: Wrist 1
+    100506: Wrist 1 1
+    100508: Wrist 1-DC_Shell
+    100510: Wrist 1-DC_Shell 1
+    100512: Wrist 2
+    100514: Wrist 2-DC_Shell
+    100516: Wrist Support
+    100518: Wrist Support 1
+    100520: Wrist Support-DC_Shell
+    100522: Wrist Support-DC_Shell 1
+    400000: Arm 1
+    400002: Arm 1-DC_Shell
+    400004: Arm 2
+    400006: Arm 2-DC_Shell
+    400008: Base Bolt
+    400010: Base Bolt 1
+    400012: Base Bolt 2
+    400014: Base Bolt-DC_Shell
+    400016: Base Bolt-DC_Shell 1
+    400018: Base Bolt-DC_Shell 2
+    400020: Base Gear
+    400022: Base Gear-DC_Shell
+    400024: Base Plate 1
+    400026: Base Plate 1-DC_Shell
+    400028: Base Plate 2
+    400030: Base Plate 2-DC_Shell
+    400032: Base Plate 3
+    400034: Base Plate 3-DC_Shell
+    400036: Base Plate 4
+    400038: Base Plate 4-DC_Shell
+    400040: Base Spacer
+    400042: Base Spacer 1
+    400044: Base Spacer 2
+    400046: Base Spacer-DC_Shell
+    400048: Base Spacer-DC_Shell 1
+    400050: Base Spacer-DC_Shell 2
+    400052: Bearing
+    400054: Bearing 1
+    400056: Bearing-DC_Shell
+    400058: Bearing-DC_Shell 1
+    400060: DirectConnectNode_100
+    400062: DirectConnectNode_104
+    400064: DirectConnectNode_108
+    400066: DirectConnectNode_11
+    400068: DirectConnectNode_113
+    400070: DirectConnectNode_118
+    400072: DirectConnectNode_122
+    400074: DirectConnectNode_126
+    400076: DirectConnectNode_130
+    400078: DirectConnectNode_134
+    400080: DirectConnectNode_138
+    400082: DirectConnectNode_143
+    400084: DirectConnectNode_147
+    400086: DirectConnectNode_15
+    400088: DirectConnectNode_151
+    400090: DirectConnectNode_155
+    400092: DirectConnectNode_159
+    400094: DirectConnectNode_163
+    400096: DirectConnectNode_167
+    400098: DirectConnectNode_171
+    400100: DirectConnectNode_175
+    400102: DirectConnectNode_179
+    400104: DirectConnectNode_183
+    400106: DirectConnectNode_187
+    400108: DirectConnectNode_19
+    400110: DirectConnectNode_191
+    400112: DirectConnectNode_195
+    400114: DirectConnectNode_200
+    400116: DirectConnectNode_204
+    400118: DirectConnectNode_209
+    400120: DirectConnectNode_213
+    400122: DirectConnectNode_217
+    400124: DirectConnectNode_221
+    400126: DirectConnectNode_225
+    400128: DirectConnectNode_229
+    400130: DirectConnectNode_23
+    400132: DirectConnectNode_233
+    400134: DirectConnectNode_237
+    400136: DirectConnectNode_241
+    400138: DirectConnectNode_245
+    400140: DirectConnectNode_249
+    400142: DirectConnectNode_253
+    400144: DirectConnectNode_257
+    400146: DirectConnectNode_259
+    400148: DirectConnectNode_27
+    400150: DirectConnectNode_3
+    400152: DirectConnectNode_31
+    400154: DirectConnectNode_35
+    400156: DirectConnectNode_39
+    400158: DirectConnectNode_43
+    400160: DirectConnectNode_47
+    400162: DirectConnectNode_51
+    400164: DirectConnectNode_55
+    400166: DirectConnectNode_59
+    400168: DirectConnectNode_63
+    400170: DirectConnectNode_67
+    400172: DirectConnectNode_7
+    400174: DirectConnectNode_71
+    400176: DirectConnectNode_75
+    400178: DirectConnectNode_79
+    400180: DirectConnectNode_83
+    400182: DirectConnectNode_87
+    400184: DirectConnectNode_91
+    400186: DirectConnectNode_96
+    400188: ENTIRE ASSEMBLE 1
+    400190: Front Arm 1
+    400192: Front Arm 1-DC_Shell
+    400194: Front Arm 2
+    400196: Front Arm 2-DC_Shell
+    400198: Gear 1
+    400200: Gear 1-DC_Shell
+    400202: Gear 2
+    400204: Gear 2-DC_Shell
+    400206: grip1
+    400208: grip1 1
+    400210: grip1 2
+    400212: grip1 3
+    400214: grip1-DC_Shell
+    400216: grip1-DC_Shell 1
+    400218: grip1-DC_Shell 2
+    400220: grip1-DC_Shell 3
+    400222: grip2
+    400224: grip2-DC_Shell
+    400226: grip4
+    400228: grip4 1
+    400230: grip4 2
+    400232: grip4 3
+    400234: grip4-DC_Shell
+    400236: grip4-DC_Shell 1
+    400238: grip4-DC_Shell 2
+    400240: grip4-DC_Shell 3
+    400242: grip5
+    400244: grip5 1
+    400246: grip5-DC_Shell
+    400248: grip5-DC_Shell 1
+    400250: ig_SingularSubfigureInstance10379
+    400252: ig_SingularSubfigureInstance10383
+    400254: ig_SingularSubfigureInstance11473
+    400256: ig_SingularSubfigureInstance12747
+    400258: ig_SingularSubfigureInstance14557
+    400260: ig_SingularSubfigureInstance15527
+    400262: ig_SingularSubfigureInstance15751
+    400264: ig_SingularSubfigureInstance15755
+    400266: ig_SingularSubfigureInstance16681
+    400268: ig_SingularSubfigureInstance17809
+    400270: ig_SingularSubfigureInstance1819
+    400272: ig_SingularSubfigureInstance18773
+    400274: ig_SingularSubfigureInstance18777
+    400276: ig_SingularSubfigureInstance19691
+    400278: ig_SingularSubfigureInstance20003
+    400280: ig_SingularSubfigureInstance20233
+    400282: ig_SingularSubfigureInstance20513
+    400284: ig_SingularSubfigureInstance20517
+    400286: ig_SingularSubfigureInstance20521
+    400288: ig_SingularSubfigureInstance20857
+    400290: ig_SingularSubfigureInstance20861
+    400292: ig_SingularSubfigureInstance20865
+    400294: ig_SingularSubfigureInstance20869
+    400296: ig_SingularSubfigureInstance20873
+    400298: ig_SingularSubfigureInstance21737
+    400300: ig_SingularSubfigureInstance22501
+    400302: ig_SingularSubfigureInstance23247
+    400304: ig_SingularSubfigureInstance23251
+    400306: ig_SingularSubfigureInstance23817
+    400308: ig_SingularSubfigureInstance23821
+    400310: ig_SingularSubfigureInstance2459
+    400312: ig_SingularSubfigureInstance26149
+    400314: ig_SingularSubfigureInstance28785
+    400316: ig_SingularSubfigureInstance28789
+    400318: ig_SingularSubfigureInstance28793
+    400320: ig_SingularSubfigureInstance28797
+    400322: ig_SingularSubfigureInstance28801
+    400324: ig_SingularSubfigureInstance28805
+    400326: ig_SingularSubfigureInstance28809
+    400328: ig_SingularSubfigureInstance28929
+    400330: ig_SingularSubfigureInstance28933
+    400332: ig_SingularSubfigureInstance28937
+    400334: ig_SingularSubfigureInstance28941
+    400336: ig_SingularSubfigureInstance28945
+    400338: ig_SingularSubfigureInstance28949
+    400340: ig_SingularSubfigureInstance28953
+    400342: ig_SingularSubfigureInstance28957
+    400344: ig_SingularSubfigureInstance2993
+    400346: ig_SingularSubfigureInstance3217
+    400348: ig_SingularSubfigureInstance3221
+    400350: ig_SingularSubfigureInstance3225
+    400352: ig_SingularSubfigureInstance34065
+    400354: ig_SingularSubfigureInstance3809
+    400356: ig_SingularSubfigureInstance3813
+    400358: ig_SingularSubfigureInstance3817
+    400360: ig_SingularSubfigureInstance39051
+    400362: ig_SingularSubfigureInstance39055
+    400364: ig_SingularSubfigureInstance4259
+    400366: ig_SingularSubfigureInstance4593
+    400368: ig_SingularSubfigureInstance4597
+    400370: ig_SingularSubfigureInstance4601
+    400372: ig_SingularSubfigureInstance4605
+    400374: ig_SingularSubfigureInstance851
+    400376: IGES Model Data
+    400378: Motor Head
+    400380: Motor Head 1
+    400382: Motor Head 2
+    400384: Motor Head 3
+    400386: Motor Head 4
+    400388: Motor Head-DC_Shell
+    400390: Motor Head-DC_Shell 1
+    400392: Motor Head-DC_Shell 2
+    400394: Motor Head-DC_Shell 3
+    400396: Motor Head-DC_Shell 4
+    400398: Mounting 1
+    400400: Mounting 1-DC_Shell
+    400402: Mounting 2
+    400404: Mounting 2-DC_Shell
+    400406: pin
+    400408: pin 1
+    400410: pin 2
+    400412: pin 3
+    400414: pin 4
+    400416: pin 5
+    400418: pin 6
+    400420: pin-DC_Shell
+    400422: pin-DC_Shell 1
+    400424: pin-DC_Shell 2
+    400426: pin-DC_Shell 3
+    400428: pin-DC_Shell 4
+    400430: pin-DC_Shell 5
+    400432: pin-DC_Shell 6
+    400434: //RootNode
+    400436: Servo Motor 16
+    400438: Servo Motor 16 1
+    400440: Servo Motor 16 2
+    400442: Servo Motor 16-DC_Shell
+    400444: Servo Motor 16-DC_Shell 1
+    400446: Servo Motor 16-DC_Shell 2
+    400448: Servo Motor 16-DC_Shell 3
+    400450: Servo Motor 16-DC_Shell 4
+    400452: Servo Motor 16-DC_Shell 5
+    400454: Servo Motor 6
+    400456: Servo Motor 6 1
+    400458: Servo Motor 6 2
+    400460: Servo Motor 6-DC_Shell
+    400462: Servo Motor 6-DC_Shell 1
+    400464: Servo Motor 6-DC_Shell 2
+    400466: Servo Motor 6-DC_Shell 3
+    400468: Servo Motor 6-DC_Shell 4
+    400470: Servo Motor 6-DC_Shell 5
+    400472: Shaft
+    400474: Shaft Gear
+    400476: Shaft Gear-DC_Shell
+    400478: Shaft-DC_Shell
+    400480: Spacer Plate 4-5
+    400482: Spacer Plate 4-5 1
+    400484: Spacer Plate 4-5 2
+    400486: Spacer Plate 4-5 3
+    400488: Spacer Plate 4-5-DC_Shell
+    400490: Spacer Plate 4-5-DC_Shell 1
+    400492: Spacer Plate 4-5-DC_Shell 2
+    400494: Spacer Plate 4-5-DC_Shell 3
+    400496: Upper Arm Spacer
+    400498: Upper Arm Spacer 1
+    400500: Upper Arm Spacer-DC_Shell
+    400502: Upper Arm Spacer-DC_Shell 1
+    400504: Wrist 1
+    400506: Wrist 1 1
+    400508: Wrist 1-DC_Shell
+    400510: Wrist 1-DC_Shell 1
+    400512: Wrist 2
+    400514: Wrist 2-DC_Shell
+    400516: Wrist Support
+    400518: Wrist Support 1
+    400520: Wrist Support-DC_Shell
+    400522: Wrist Support-DC_Shell 1
+    2300000: Arm 1-DC_Shell
+    2300002: Arm 2-DC_Shell
+    2300004: Base Bolt-DC_Shell
+    2300006: Base Bolt-DC_Shell 1
+    2300008: Base Bolt-DC_Shell 2
+    2300010: Base Gear-DC_Shell
+    2300012: Base Plate 1-DC_Shell
+    2300014: Base Plate 2-DC_Shell
+    2300016: Base Plate 3-DC_Shell
+    2300018: Base Plate 4-DC_Shell
+    2300020: Base Spacer-DC_Shell
+    2300022: Base Spacer-DC_Shell 1
+    2300024: Base Spacer-DC_Shell 2
+    2300026: Bearing-DC_Shell
+    2300028: Bearing-DC_Shell 1
+    2300030: Front Arm 1-DC_Shell
+    2300032: Front Arm 2-DC_Shell
+    2300034: Gear 1-DC_Shell
+    2300036: Gear 2-DC_Shell
+    2300038: grip1-DC_Shell
+    2300040: grip1-DC_Shell 1
+    2300042: grip1-DC_Shell 2
+    2300044: grip1-DC_Shell 3
+    2300046: grip2-DC_Shell
+    2300048: grip4-DC_Shell
+    2300050: grip4-DC_Shell 1
+    2300052: grip4-DC_Shell 2
+    2300054: grip4-DC_Shell 3
+    2300056: grip5-DC_Shell
+    2300058: grip5-DC_Shell 1
+    2300060: Motor Head-DC_Shell
+    2300062: Motor Head-DC_Shell 1
+    2300064: Motor Head-DC_Shell 2
+    2300066: Motor Head-DC_Shell 3
+    2300068: Motor Head-DC_Shell 4
+    2300070: Mounting 1-DC_Shell
+    2300072: Mounting 2-DC_Shell
+    2300074: pin-DC_Shell
+    2300076: pin-DC_Shell 1
+    2300078: pin-DC_Shell 2
+    2300080: pin-DC_Shell 3
+    2300082: pin-DC_Shell 4
+    2300084: pin-DC_Shell 5
+    2300086: pin-DC_Shell 6
+    2300088: Servo Motor 16-DC_Shell
+    2300090: Servo Motor 16-DC_Shell 1
+    2300092: Servo Motor 16-DC_Shell 2
+    2300094: Servo Motor 16-DC_Shell 3
+    2300096: Servo Motor 16-DC_Shell 4
+    2300098: Servo Motor 16-DC_Shell 5
+    2300100: Servo Motor 6-DC_Shell
+    2300102: Servo Motor 6-DC_Shell 1
+    2300104: Servo Motor 6-DC_Shell 2
+    2300106: Servo Motor 6-DC_Shell 3
+    2300108: Servo Motor 6-DC_Shell 4
+    2300110: Servo Motor 6-DC_Shell 5
+    2300112: Shaft Gear-DC_Shell
+    2300114: Shaft-DC_Shell
+    2300116: Spacer Plate 4-5-DC_Shell
+    2300118: Spacer Plate 4-5-DC_Shell 1
+    2300120: Spacer Plate 4-5-DC_Shell 2
+    2300122: Spacer Plate 4-5-DC_Shell 3
+    2300124: Upper Arm Spacer-DC_Shell
+    2300126: Upper Arm Spacer-DC_Shell 1
+    2300128: Wrist 1-DC_Shell
+    2300130: Wrist 1-DC_Shell 1
+    2300132: Wrist 2-DC_Shell
+    2300134: Wrist Support-DC_Shell
+    2300136: Wrist Support-DC_Shell 1
+    3300000: Arm 1-DC_Shell
+    3300002: Arm 2-DC_Shell
+    3300004: Base Bolt-DC_Shell
+    3300006: Base Bolt-DC_Shell 1
+    3300008: Base Bolt-DC_Shell 2
+    3300010: Base Gear-DC_Shell
+    3300012: Base Plate 1-DC_Shell
+    3300014: Base Plate 2-DC_Shell
+    3300016: Base Plate 3-DC_Shell
+    3300018: Base Plate 4-DC_Shell
+    3300020: Base Spacer-DC_Shell
+    3300022: Base Spacer-DC_Shell 1
+    3300024: Base Spacer-DC_Shell 2
+    3300026: Bearing-DC_Shell
+    3300028: Bearing-DC_Shell 1
+    3300030: Front Arm 1-DC_Shell
+    3300032: Front Arm 2-DC_Shell
+    3300034: Gear 1-DC_Shell
+    3300036: Gear 2-DC_Shell
+    3300038: grip1-DC_Shell
+    3300040: grip1-DC_Shell 1
+    3300042: grip1-DC_Shell 2
+    3300044: grip1-DC_Shell 3
+    3300046: grip2-DC_Shell
+    3300048: grip4-DC_Shell
+    3300050: grip4-DC_Shell 1
+    3300052: grip4-DC_Shell 2
+    3300054: grip4-DC_Shell 3
+    3300056: grip5-DC_Shell
+    3300058: grip5-DC_Shell 1
+    3300060: Motor Head-DC_Shell
+    3300062: Motor Head-DC_Shell 1
+    3300064: Motor Head-DC_Shell 2
+    3300066: Motor Head-DC_Shell 3
+    3300068: Motor Head-DC_Shell 4
+    3300070: Mounting 1-DC_Shell
+    3300072: Mounting 2-DC_Shell
+    3300074: pin-DC_Shell
+    3300076: pin-DC_Shell 1
+    3300078: pin-DC_Shell 2
+    3300080: pin-DC_Shell 3
+    3300082: pin-DC_Shell 4
+    3300084: pin-DC_Shell 5
+    3300086: pin-DC_Shell 6
+    3300088: Servo Motor 16-DC_Shell
+    3300090: Servo Motor 16-DC_Shell 1
+    3300092: Servo Motor 16-DC_Shell 2
+    3300094: Servo Motor 16-DC_Shell 3
+    3300096: Servo Motor 16-DC_Shell 4
+    3300098: Servo Motor 16-DC_Shell 5
+    3300100: Servo Motor 6-DC_Shell
+    3300102: Servo Motor 6-DC_Shell 1
+    3300104: Servo Motor 6-DC_Shell 2
+    3300106: Servo Motor 6-DC_Shell 3
+    3300108: Servo Motor 6-DC_Shell 4
+    3300110: Servo Motor 6-DC_Shell 5
+    3300112: Shaft Gear-DC_Shell
+    3300114: Shaft-DC_Shell
+    3300116: Spacer Plate 4-5-DC_Shell
+    3300118: Spacer Plate 4-5-DC_Shell 1
+    3300120: Spacer Plate 4-5-DC_Shell 2
+    3300122: Spacer Plate 4-5-DC_Shell 3
+    3300124: Upper Arm Spacer-DC_Shell
+    3300126: Upper Arm Spacer-DC_Shell 1
+    3300128: Wrist 1-DC_Shell
+    3300130: Wrist 1-DC_Shell 1
+    3300132: Wrist 2-DC_Shell
+    3300134: Wrist Support-DC_Shell
+    3300136: Wrist Support-DC_Shell 1
+    4300000: Base Plate 1-DC_Shell
+    4300002: Base Plate 2-DC_Shell
+    4300004: Base Plate 4-DC_Shell
+    4300006: Base Plate 3-DC_Shell
+    4300008: Arm 2-DC_Shell
+    4300010: Bearing-DC_Shell
+    4300012: Base Spacer-DC_Shell
+    4300014: Spacer Plate 4-5-DC_Shell
+    4300016: Base Bolt-DC_Shell
+    4300018: Base Bolt-DC_Shell
+    4300020: Base Spacer-DC_Shell
+    4300022: Base Spacer-DC_Shell
+    4300024: Shaft-DC_Shell
+    4300026: Spacer Plate 4-5-DC_Shell
+    4300028: Base Bolt-DC_Shell
+    4300030: Bearing-DC_Shell
+    4300032: Spacer Plate 4-5-DC_Shell
+    4300034: Mounting 2-DC_Shell
+    4300036: Spacer Plate 4-5-DC_Shell
+    4300038: Arm 1-DC_Shell
+    4300040: Upper Arm Spacer-DC_Shell
+    4300042: Front Arm 2-DC_Shell
+    4300044: Wrist Support-DC_Shell
+    4300046: Servo Motor 16-DC_Shell
+    4300048: Servo Motor 16-DC_Shell
+    4300050: Mounting 1-DC_Shell
+    4300052: Wrist Support-DC_Shell
+    4300054: Wrist 1-DC_Shell
+    4300056: Servo Motor 16-DC_Shell
+    4300058: Servo Motor 16-DC_Shell
+    4300060: Servo Motor 16-DC_Shell
+    4300062: Servo Motor 16-DC_Shell
+    4300064: Motor Head-DC_Shell
+    4300066: Motor Head-DC_Shell
+    4300068: Upper Arm Spacer-DC_Shell
+    4300070: Front Arm 1-DC_Shell
+    4300072: Wrist 2-DC_Shell
+    4300074: Servo Motor 6-DC_Shell
+    4300076: Servo Motor 6-DC_Shell
+    4300078: Wrist 1-DC_Shell
+    4300080: grip2-DC_Shell
+    4300082: grip4-DC_Shell
+    4300084: Gear 1-DC_Shell
+    4300086: grip1-DC_Shell
+    4300088: grip5-DC_Shell
+    4300090: grip1-DC_Shell
+    4300092: Motor Head-DC_Shell
+    4300094: Gear 2-DC_Shell
+    4300096: grip4-DC_Shell
+    4300098: grip4-DC_Shell
+    4300100: grip1-DC_Shell
+    4300102: grip1-DC_Shell
+    4300104: Servo Motor 6-DC_Shell
+    4300106: Servo Motor 6-DC_Shell
+    4300108: grip5-DC_Shell
+    4300110: Servo Motor 6-DC_Shell
+    4300112: Servo Motor 6-DC_Shell
+    4300114: grip4-DC_Shell
+    4300116: pin-DC_Shell
+    4300118: pin-DC_Shell
+    4300120: Base Gear-DC_Shell
+    4300122: pin-DC_Shell
+    4300124: pin-DC_Shell
+    4300126: pin-DC_Shell
+    4300128: Shaft Gear-DC_Shell
+    4300130: Motor Head-DC_Shell
+    4300132: Motor Head-DC_Shell
+    4300134: pin-DC_Shell
+    4300136: pin-DC_Shell
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

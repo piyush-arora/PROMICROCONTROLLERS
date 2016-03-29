@@ -1,0 +1,21 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class Resistor : MonoBehaviour {
+
+	public  int voltageA = -1;
+	public  int voltageB = -1;
+
+	// Use this for initialization
+	void Start () {
+	
+	}
+	
+	// Update is called once per frame
+	void Update () {
+	
+		//Debug.Log ("voltage A --> " + voltageA);
+		//Debug.Log ("voltage B --> " + voltageB);
+	
+	}
+}
