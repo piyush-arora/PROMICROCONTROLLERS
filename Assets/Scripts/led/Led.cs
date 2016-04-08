@@ -45,7 +45,7 @@ public class Led : MonoBehaviour {
 		material.SetColor ("_EmissionColor",new Color (1f,0f,0f,1f));
 
 		// turn light on
-		light.intensity = 6f;
+		light.intensity = 9f;
 
 	}
 

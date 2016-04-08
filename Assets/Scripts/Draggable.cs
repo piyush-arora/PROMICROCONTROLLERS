@@ -6,18 +6,31 @@ public class Draggable : MonoBehaviour
 {
 	private bool dragging = false;
 
+	private MouseManager mm ;
 
+
+	void Start()
+	{
+		mm = GameObject.FindObjectOfType <MouseManager>();
+
+	}
 	void OnMouseEnter()
 	{
 
 		//Debug.Log ("SHOW THAT THE MOUSE IS ON Object");
+		if (gameObject.tag != "UnTagged") {
+			mm.hoveredObject = gameObject;
+			mm.HoveredObject (gameObject);
+		}
+
 
 	}
 
 	void OnMouseExit()
 	{
 		//Debug.Log ("HIDE WHATEVER WE HAVE SHOWN");
-
+		mm.Load_Color_Full(gameObject);
+		mm.hoveredObject = null;
 
 	}
 
@@ -26,15 +39,18 @@ public class Draggable : MonoBehaviour
 		//Debug.Log ("PICK UP THE OBJECT");
 
 		dragging = true;
-
-
+		if (mm.hoveredObject == true) {
+			mm.selectedObject = gameObject;
+			mm.Set_Color_Full (gameObject, Color.green);
+		}
 	}
 
 	void OnMouseUp()
 	{
 		//Debug.Log ("PUT DOWN THE Onject");
 		dragging = false;
-
+		mm.selectedObject = null;
+		mm.Load_Color_Full (gameObject);
 	}
 
 	void Update()

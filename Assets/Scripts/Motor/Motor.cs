@@ -8,6 +8,7 @@ public class Motor : MonoBehaviour {
 	private Object Motor_Sound_Object;
 	private AudioSource motor_audio_source;
 	private bool is_motor_on = true;
+
 	public  int voltageA = -1;
 	public  int voltageB = -1;
 
@@ -16,17 +17,23 @@ public class Motor : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		clockwise_rotation = gameObject.GetComponent<Animation> ();
-		motor_audio_source = Motor_Sound.GetComponent<AudioSource> ();
+		motor_audio_source = gameObject.GetComponent<AudioSource> ();
 	}
 
 	// Update is called once per frame
 	void Update () {
 
-		if ((voltageB - voltageA) == 5 && (is_motor_on == true)) 
+
+		// check voltage difference
+		if ((voltageB - voltageA) == 5 ) 
 		{
 			clockwise_rotation.enabled = true;
 
-			motor_audio_source.Play();
+			if(is_motor_on == false)
+			{
+				motor_audio_source.Play();
+				is_motor_on = true;
+			}
 
 			//bool data = motor_audio_source.isPlaying; 
 			//Debug.Log (data);
@@ -36,7 +43,7 @@ public class Motor : MonoBehaviour {
 		{
 			clockwise_rotation.enabled = false;
 			motor_audio_source.Stop ();
-
+			is_motor_on = false;
 		}
 
 	}
